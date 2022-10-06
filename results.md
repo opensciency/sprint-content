@@ -779,17 +779,15 @@ First and foremost, we need to remember that _anyone_ who has contributed to the
 
 First, let’s define what a contributor is:
 
-
-    A** contributor** of a research output is an individual who has contributed to any activity that made it possible for the open result to be published or shared. This includes the person(s) who first conceptualized the idea and designed the work, the project lead, external advisors, general mentors, the students, researchers, research assistants who conducted or helped conduct the experiments, the people who set up the tools essential for conducting the research, data stewards, the software developers, support staff, the project management team, the colleague(s) who provided feedback to the open results, as well as any collaborator. [[reference](https://the-turing-way.netlify.app/collaboration/shared-ownership/shared-ownership-projects.html)]
+A **contributor** of a research output is an individual who has contributed to any activity that made it possible for the open result to be published or shared. This includes the person(s) who first conceptualized the idea and designed the work, the project lead, external advisors, general mentors, the students, researchers, research assistants who conducted or helped conduct the experiments, the people who set up the tools essential for conducting the research, data stewards, the software developers, support staff, the project management team, the colleague(s) who provided feedback to the open results, as well as any collaborator. [[reference](https://the-turing-way.netlify.app/collaboration/shared-ownership/shared-ownership-projects.html)]
 
 Depending on the type of contribution, some of these people should be recognized as authors of the open result, while the others are appropriately acknowledged as contributors. 
 
-Now, let’s define authorship: 
+Now, let's define authorship: 
 
 According to the definition provided by the International Committee of Medical Journal Editors (ICMJE) which is widely accepted in biomedical disciplines:
 
-
-    An **author** of an open result is a contributor who has given substantial contribution to the conception or design of the work or the acquisition, analysis, or interpretation of the data for the work. Additionally, an author is a contributor who has contributed to drafting or revising critically the work providing important intellectual content. An author is also someone who has approved the final version of the open result and agrees to be accountable for all aspects of the work and for the integrity of all other co-authors. [[reference](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)]
+An **author** of an open result is a contributor who has given substantial contribution to the conception or design of the work or the acquisition, analysis, or interpretation of the data for the work. Additionally, an author is a contributor who has contributed to drafting or revising critically the work providing important intellectual content. An author is also someone who has approved the final version of the open result and agrees to be accountable for all aspects of the work and for the integrity of all other co-authors. [[reference](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html)]
 
 There are several other definitions of authorship which vary across disciplines and describe how they relate to different research outputs. For instance, the [COPE Authorship Discussion Document](https://publicationethics.org/files/COPE_DD_A4_Authorship_SEPT19_SCREEN_AW.pdf) indicates that minimum requirements for authorship is 1) substantial contribution to the work and 2) accountability for the work conducted and shared in a publication. Authoring a research manuscript that is published in a peer-reviewed journal, for example, is widely considered one of the most valuable currencies for career advancement, promotion, funding opportunities, and overall chance of being recognized by the research community. 
 
