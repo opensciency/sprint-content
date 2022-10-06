@@ -264,7 +264,7 @@ The main identified advantages of making results open are the following:
 
 3. **Facilitates collaboration and onboarding new members.** _This is also important for all ROs_. 
 
-**Collaboration** will be much easier when preparation documents, dataset, methods and software are open and well documented. Having user testing, tutorials, executable notebooks and videos from the “Engagement, training, and feedback stage” will be additionally important for **onboarding **new members of your team or external collaborators. Your research project will be easier to be continued by you (even after some changes in the composition of your group) or by a different research group.
+**Collaboration** will be much easier when preparation documents, dataset, methods and software are open and well documented. Having user testing, tutorials, executable notebooks and videos from the “Engagement, training, and feedback stage” will be additionally important for **onboarding** new members of your team or external collaborators. Your research project will be easier to be continued by you (even after some changes in the composition of your group) or by a different research group.
 
 
 
@@ -280,7 +280,7 @@ Open posters/figures, talks/slides, preprints, webpages, journal/book publicatio
 
 
 
-6. **Funding.**  Since more and more funding agencies are paying attention to open science and requiring applying guiding open science principles to the research project they fund, open practices will make you** eligible for more funding opportunities**. 
+6. **Funding.**  Since more and more funding agencies are paying attention to open science and requiring applying guiding open science principles to the research project they fund, open practices will make you **eligible for more funding opportunities**. 
 
 The picture below summarises the most significant advantages for all actors in the research ecosystem of making your results open. 
 
@@ -304,12 +304,12 @@ Along with all the clear benefits of open results, there are a suite of real and
 
 
 
-* External obstacles: **cultural barriers** (lack of support and recognition from your institution), **disagreement **between collaborators involved in the research on what results to make open, **legal **and **security **considerations;
-* Internal obstacles: investment of **time **and **effort **needed upfront to make your results open including the need to learn additional **skills**, afraid of scooping, the lack of **funding **for instance for open-access publications and curating research results.
+* External obstacles: **cultural barriers** (lack of support and recognition from your institution), **disagreement** between collaborators involved in the research on what results to make open, **legal **and **security **considerations;
+* Internal obstacles: investment of **time** and **effort** needed upfront to make your results open including the need to learn additional **skills**, afraid of scooping, the lack of **funding** for instance for open-access publications and curating research results.
 
 These obstacles apply for any Research Objects (created by you or your collaborators) e.g. data, software and documents, reports and publications. 
 
-Let’s focus on results that are not software or data. You can check the Data and Software modules for any questions specifically related to open data and software.  
+Let's focus on results that are not software or data. You can check the Data and Software modules for any questions specifically related to open data and software.  
 
 One of the major steps in research is the communication of your ideas and insights from your work into a clear, open, and accessible format that can help key stakeholders make meaningful decisions. Mastering different ways to convey your insights responsibly is challenging and can be seen as a diversion to your research work: blogging, writing public summaries, podcasting, presenting posters and talks at conferences outside of your discipline, and using social media require communication skills that are not usually taught to students, and can be extremely time consuming while the impact is very difficult to measure.
 
@@ -835,10 +835,10 @@ Below are some tips to guide you in implementing your version of a more ethical 
 * **Search for existing guidelines** (some are linked in this lesson) and use them as a starting place to create your own set of guidelines. In doing so, seek advice from librarians and open science professionals at your research institute.
 * **The guidelines should include language to help guide the discussion around explicit recognition of power dynamics.** These are not easy conversations and having language in the guidelines that acknowledges the need for having a conversation around power dynamics helps make it happen as part of the shared norms of the group. This can include prompts to assess the position of the contributor within the team (_e.g._, the principal investigator (PI) whose name is attached to the the grant funding, the student who just joined the group, the staff scientist who has worked in the lab for 4 years, etc.) and their role and responsibilities in the context of the project implementation (the student is the one who wrote the first draft of the research proposal and is going to carry out the experiments, the PI co-wrote and submitted the research proposal and will supervise the whole project, the staff scientist is the one who is going to carry on the statistical analysis, the postdoc is going to help mentor the new student and teach them the technique, etc.). 
 * **Make sure all members of your research group have the opportunity to contribute to the guidelines.** You can draft the initial document, but then ask for constructive and honest input from the other members of your team. If new members join, make sure they are properly onboarded and have a chance to comment on the existing guidelines, especially if they are brought in as contributors to an ongoing project. 
-* **Re-evaluate and seek explicit agreement over the guidelines at the beginning of every new research project. **If someone does not agree to the guidelines, try to mediate an open conversation around why they don’t agree, trying to find a common ground amongst the contributors. If the disagreement remains, you can consider having your team vote and follow what the majority choses. 
+* **Re-evaluate and seek explicit agreement over the guidelines at the beginning of every new research project.** If someone does not agree to the guidelines, try to mediate an open conversation around why they don’t agree, trying to find a common ground amongst the contributors. If the disagreement remains, you can consider having your team vote and follow what the majority choses. 
 * **The guidelines should include instructions for contributors on how to report unethical deviations from the policy** to someone other than the group leader (this could be the Chair of the department, a dedicated office at the research institution, or the funder of the project).
 * **At the time of publication of the open result check for any existing policy associated with the platform used for publication (_e.g_., a journal).** If the policy does not align with yours, present your reasoning and negotiate with the platform. Also make sure that if the criteria you use to determine authorship deviate, you have a space to clearly state the change in the open result.
-* **Make the guidelines publicly available. **If you have a group’s website you can post it there, and/or you can decide to create a version of record and point to a permanent identifier such that the link never breaks by publishing the guidelines on a public repository (_e.g_., Zenodo).
+* **Make the guidelines publicly available.** If you have a group’s website you can post it there, and/or you can decide to create a version of record and point to a permanent identifier such that the link never breaks by publishing the guidelines on a public repository (_e.g_., Zenodo).
 
 Speaking of power imbalances, one thing you may be wondering if you are not the group leader is, _how on earth am I going to bring this up to my research group who is not at all on board with open science practices or simply has never thought of having explicit authorship and contributorship guidelines? _Well, there is no one right way to do this, but one suggestion we can give you is to learn about it and then present an outline of the guidelines to your next group meeting. Even if the work should not be on one person, oftentimes the main barrier to having something done is that initial activation phase, creating that initial draft to which others can contribute. So, if you are up for it and are committed to implementing open results practices, we recommend that you take that first step and then try to persuade others to join in. In most cases, your colleagues will be grateful and hopefully contribute to composing the guidelines. Check out the lesson on why and incentives for additional resources around the benefits of adopting open science practices.[insert link to ethos]
 
@@ -850,7 +850,7 @@ Speaking of power imbalances, one thing you may be wondering if you are not the 
 * The Contributor Roles Taxonomy or CRediT ([https://credit.niso.org/](https://credit.niso.org/)) is a high-level taxonomy that is increasingly being used to attribute different kinds of contributions made to scientific scholarly output. These include ​​​​conceptualization, data curation, formal analysis, funding acquisition, investigation, methodology, project administration, resources, software, supervision, validation, visualization, writing of original draft, reviewing, and editing. In practice, success of this authorship approach relies on all authors openly acknowledging the importance of everyone’s contributions [[reference](https://livingwithmachines.ac.uk/highlighting-authors-contributions-and-interdisciplinary-collaborations-in-living-with-machines)]. 
 * The Committee on Publication Ethics (COPE) ([https://publicationethics.org/authorship](https://publicationethics.org/authorship)) offers guidelines to understand ethical authorship.  
 * The Declaration on Research Assessment (DORA) ([https://sfdora.org/](https://sfdora.org/)) is also a good resource to understand what researchers, institutions, funders and publishers can do to improve the ways in which researchers and the outputs of scholarly research are evaluated.
-* The [Authorship and Contributions on Academic Articles](https://the-turing-way.netlify.app/communication/aa.html#)<span style="text-decoration:underline;"> in The Turing Way</span> offers content to learn more about academic authorship practices, misconducts, discipline specific authorship traditions, large and equitable authorships, as well as “​​Tips on How to Get Authorship Right.”
+* The [Authorship and Contributions on Academic Articles](https://the-turing-way.netlify.app/communication/aa.html#)<span style="text-decoration:underline;"> in The Turing Way</span> offers content to learn more about academic authorship practices, misconducts, discipline specific authorship traditions, large and equitable authorships, as well as “Tips on How to Get Authorship Right.”
 * WHAT ELSE?
 
 In the next section, we provide information on how to create **contributor guidelines** as a way to a) acknowledge non-author contributors, and b) invite others who are not currently part of the research team to contribute to your project.
@@ -864,7 +864,7 @@ In the next section, we provide information on how to create **contributor guide
 In addition to providing guidelines on how to assign authorship, you also want to have a system in place to fairly recognize the contributions of the non-author contributors. Additionally, you may want to consider guiding contributions to your results after they are made open. Let’s take a look at how you can go about this.
 
 
-#### **Crediting non-authors project contributors **
+#### **Crediting non-authors project contributors**
 
 The CRediT taxonomy captures some of those “non-author contributors” roles such as funding acquisition and project administration, but there is more to open results than scholarly outputs. This may include work associated with maintenance, community management, data stewardship, library and archiving, equity, diversity and inclusion efforts, funding, project management, scientific event organization, training activities and more. We must ensure that there are processes in place to acknowledge, value and reward these hidden labor. [Reference: D'Ignazio, C., & Klein, L. (2020). 7. Show Your Work. Data Feminism. PubPub. [https://data-feminism.mitpress.mit.edu/pub/0vgzaln4/release/3](https://data-feminism.mitpress.mit.edu/pub/0vgzaln4/release/3)]. 
 
@@ -883,7 +883,7 @@ Together, we can build a future in which feedback from outside of those who are 
 
 In the context of scientific research, the practice of having a document that accompanies results and explicitly states how and what type feedback should be provided is not common. However, when you begin to make more and more of your results open at different stages of your research cycle, you may want to invite feedback to aspects of your work that you think need it the most. You also may benefit from guiding the way that feedback is received so that a) other people feel like it is okay to contribute, and b) your corresponding author’s email doesn’t get filled with non constructive, not actionable and unclear advice. 
 
-Let’s say, for example, that you and your team are drafting a research manuscript and are getting pretty close to having all the information in place for it to be shared as a preprint. This does not necessarily mean that it is in a stage that you would consider “final”—if such a stage even exists!—but it contains enough information so that others who are in the same or similar fields of research can understand what the work is about and correctly interpret your results. This may be a good time to solicit feedback from colleagues or the broader community, and maybe even guide it towards aspects of your work that you think would most benefit from review or contribution. 
+Let's say, for example, that you and your team are drafting a research manuscript and are getting pretty close to having all the information in place for it to be shared as a preprint. This does not necessarily mean that it is in a stage that you would consider “final”—if such a stage even exists!—but it contains enough information so that others who are in the same or similar fields of research can understand what the work is about and correctly interpret your results. This may be a good time to solicit feedback from colleagues or the broader community, and maybe even guide it towards aspects of your work that you think would most benefit from review or contribution. 
 
 Maybe you want to drive the attention of your contributors to the Methods section where a statistical analysis that is uncommonly used for the kind of experiment you conducted is described. Or maybe you would like some feedback from people with data visualization expertise so that you can best present your data.
 
@@ -929,7 +929,7 @@ _Here are three ways you can provide us feedback:_
 
 _We thank you in advance for your time and willingness to help us improve our work._
 
-**_What to expect after you contribute _**
+**_What to expect after you contribute_**
 
 _If your feedback came via email and is not an attack to our work or team, we will make sure to reply to you in a timely manner—please give our team up to 2 weeks to get back to you. _
 
