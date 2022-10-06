@@ -1,6 +1,6 @@
 
 
-# Objectives: 
+# Learning Objectives: 
 
 1. Identify research stages and elements of research objects that can be considered results
 2. Identify the guiding practices and principles related to open results and the advantages of implementing them across stages of a research process
