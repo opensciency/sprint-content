@@ -244,7 +244,7 @@ In the Ethos module we discussed the general benefits of Responsible Open Scienc
 
 * **Preparation documents.** This category includes all outcome ROs from the research project planning phases, e.g. Ideation & conceptualization, planning and project design
 * **Datasets.** This includes raw or processed datasets from the following research stages: data collection, data wrangling and processing, and preservation and reuse. _Additional information about the advantages of making data open can be found in Lesson XXXX_
-* **Software.** This refers to all the software created and used in all research stages, in particular: data collection, data wrangling and processing, data exploration & analysis and Preservation and reuse._ Additional information about the advantages of making software open can be found in Lesson XXXX as well._
+* **Software.** This refers to all the software created and used in all research stages, in particular: data collection, data wrangling and processing, data exploration & analysis and Preservation and reuse. _Additional information about the advantages of making software open can be found in Lesson XXXX as well._
 * **Reports.** This category includes all ROs associated with communicating results within the research group or/and outside, e.g Communication, reporting and publications
 
 The main identified advantages of making results open are the following:
