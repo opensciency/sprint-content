@@ -1,6 +1,6 @@
 # sprint-content
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Content created by TOPS OpenCore Sprint SMEs 
@@ -20,6 +20,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center"><a href="http://yo-yehudi.com"><img src="https://avatars.githubusercontent.com/u/9271438?v=4?s=100" width="100px;" alt="Yo Yehudi"/><br /><sub><b>Yo Yehudi</b></sub></a><br /><a href="#mentoring-yochannah" title="Mentoring">🧑‍🏫</a></td>
       <td align="center"><a href="http://natashabatalha.github.io"><img src="https://avatars.githubusercontent.com/u/6554465?v=4?s=100" width="100px;" alt="Natasha Batalha"/><br /><sub><b>Natasha Batalha</b></sub></a><br /><a href="#mentoring-natashabatalha" title="Mentoring">🧑‍🏫</a></td>
+      <td align="center"><a href="https://shilaan.rbind.io"><img src="https://avatars.githubusercontent.com/u/61210785?v=4?s=100" width="100px;" alt="Shilaan Alzahawi"/><br /><sub><b>Shilaan Alzahawi</b></sub></a><br /><a href="#mentoring-shilaan" title="Mentoring">🧑‍🏫</a></td>
     </tr>
   </tbody>
 </table>
