@@ -27,7 +27,7 @@ Lesson 2: Results in the Context of Open Science
 Lesson 3: Applying Open Result Framework to your Research
 
 1. How to apply an open framework across different research objects
-2. How to share your results, and selecting **tools **that support open science?
+2. How to share your results, and selecting **tools** that support open science?
 3. Using a checklist to achieve open results
 
 Lesson 4: Providing Equitable Opportunities and Credit for Contributors to Results
@@ -64,7 +64,7 @@ Accordingly, this lesson has two Learning Objectives. By the end of the lesson y
 In Ethos, we learned about “planning for open science”. We learned that open science should be considered throughout the research process, and not just at the time of publication. Therefore, when considering open results, it is important to think about the entire research life cycle. Many of us might be very familiar with the research life cycle, but may not have considered what results could be considered open throughout it. Therefore, it is important to specifically define these _nine_ distinct phases: 
 
 
-1. **Conceptualization/Ideation **
+1. **Conceptualization/Ideation**
 
 In this stage we focus on outlining and describing the research idea to different collaborators, students and/or postdocs. This could also encompass proposal writing, obtaining ethics approval documents, and/or securing funding.
 
@@ -77,15 +77,15 @@ In this stage we are thinking about project management and workflows. Who is nee
 
 In this stage we are concerned with describing the research protocols. For example, how will the data be collected, and processed? Where will it be stored? At this phase, just before data collection, hypotheses may be **preregistered** [[Nosek et al. 2018](https://www.pnas.org/doi/10.1073/pnas.1708274114)]. Preregristration differentiates research outcomes that are the results of predictions, which occur before data collection, from postdictions, which occur once the results of the data are obtained. 
 
-4. **Data Collection **
+4. **Data Collection**
 
 In this stage data collection or data generation commence. See Open Data. 
 
-5. **Data Wrangling and Processing **
+5. **Data Wrangling and Processing**
 
 At this stage, we use existing software, or write custom code in order to process the data that has been collected. See Open Software.
 
-6. **Data Exploration and Statistical Analysis **
+6. **Data Exploration and Statistical Analysis**
 
 At this stage we combine the workflows from Stages 4 and 5 and begin using our tools, code or software to analyze the data that has been obtained. 
 
