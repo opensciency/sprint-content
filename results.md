@@ -788,12 +788,7 @@ We established that _all_ _contributors to an open result should be acknowledged
 
 The National Institute of Health (NIH) provides a useful schematic representation to help with the first decision: 
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](https://oir.nih.gov/system/files/media/file/2021-08/guidelines-authorship_contributions.pdf)
 
 
 Even if guidelines like this one to help establish authorship and contributorship exist (see others cited below), it is rarely an easy “black and white” (or in this case, “purple and green”) decision. The power imbalance between project leads and students, for example, can often mean that who is treated unfairly is the contributor with the least power. 
