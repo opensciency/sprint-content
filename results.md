@@ -1,21 +1,6 @@
 
 
-## Color Key: 
-
-Areas that need to link to, or rely on knowing material that will be covered: 
-
-**Ethos**
-
-**Data**
-
-**Software** 
-
-**Tools**
-
-
 # Objectives: 
-
-
 
 1. Identify research stages and elements of research objects that can be considered results
 2. Identify the guiding practices and principles related to open results and the advantages of implementing them across stages of a research process
@@ -26,18 +11,14 @@ Areas that need to link to, or rely on knowing material that will be covered:
 7. Apply open result principles to new and ongoing research projects
 
 
-# Github Outline 
+# Currently Open Github Outline 
 
 Lesson 1: The Research Process and Its Results
-
-
 
 1. What are the different stages of the research process?
 2. Define “digital research objects” and provide examples
 
 Lesson 2: Results in the Context of Open Science
-
-
 
 1. What are the advantages of making results open throughout the research process?
 2. What resources are available to help make results open?
@@ -45,29 +26,17 @@ Lesson 2: Results in the Context of Open Science
 
 Lesson 3: Applying Open Result Framework to your Research
 
-
-
 1. How to apply an open framework across different research objects
 2. How to share your results, and selecting **tools **that support open science?
 3. Using a checklist to achieve open results
 
 Lesson 4: Providing Equitable Opportunities and Credit for Contributors to Results
 
-
-
 1. How to define contributors to each digital research object and determine their suitable form of recognition?
 2. How to create contributor guidelines that ensure equity, access, inclusion, diversity
 3. How to ensure your open results are properly attributed and cited by others
 
  
-
-
-# Table of Contents (built from below) 
-
-
-[TOC]
-
-
 
 # Open Results
 
@@ -90,11 +59,9 @@ Accordingly, this lesson has two Learning Objectives. By the end of the lesson y
 1. What are the different stages of the research process?
 2. What research objects can be considered a result?
 
-
 ## What are the different stages of the research process?
 
 In Ethos, we learned about “planning for open science”. We learned that open science should be considered throughout the research process, and not just at the time of publication. Therefore, when considering open results, it is important to think about the entire research life cycle. Many of us might be very familiar with the research life cycle, but may not have considered what results could be considered open throughout it. Therefore, it is important to specifically define these _nine_ distinct phases: 
-
 
 
 1. **Conceptualization/Ideation **
@@ -102,48 +69,33 @@ In Ethos, we learned about “planning for open science”. We learned that open
 In this stage we focus on outlining and describing the research idea to different collaborators, students and/or postdocs. This could also encompass proposal writing, obtaining ethics approval documents, and/or securing funding.
 
 
-
 2. **Planning**
 
 In this stage we are thinking about project management and workflows. Who is needed for the research project to be successful? During the planning phase, collaborations are often extended beyond close collaborators. Methods of collaborations are often defined, including team member roles and responsibilities. 
 
-
-
-3. ** Project Design**
+3. **Project Design**
 
 In this stage we are concerned with describing the research protocols. For example, how will the data be collected, and processed? Where will it be stored? At this phase, just before data collection, hypotheses may be **preregistered** [[Nosek et al. 2018](https://www.pnas.org/doi/10.1073/pnas.1708274114)]. Preregristration differentiates research outcomes that are the results of predictions, which occur before data collection, from postdictions, which occur once the results of the data are obtained. 
-
-
 
 4. **Data Collection **
 
 In this stage data collection or data generation commence. See Open Data. 
 
-
-
 5. **Data Wrangling and Processing **
 
 At this stage, we use existing software, or write custom code in order to process the data that has been collected. See Open Software.
-
-
 
 6. **Data Exploration and Statistical Analysis **
 
 At this stage we combine the workflows from Stages 4 and 5 and begin using our tools, code or software to analyze the data that has been obtained. 
 
-
-
 7. **Reporting**
 
 Here we report on our findings. The most common form of reporting is publications in peer-reviewed journals. However, reporting now far exceeds publications alone. Reporting encompasses presentation materials (e.g. posters, slide decks), lab websites or blogs, social media (e.g. twitter threads), podcasts or press releases, and many more. 
 
-
-
 8. **Preservation and Reuse**
 
 In this phase, we consider archiving all outcomes for the long term sustainability. This ensures that our research is reusable, meaning that someone else can go through this whole process of reproducing or building upon our work.
-
-
 
 9. **Scientific Engagement, Training, and Feedback (cross cutting)**
 
@@ -152,8 +104,6 @@ In this phase, we conduct effective collaboration through active engagement, ski
 A depiction of these stages is provided in Figure 1 (below).
 
 **Figure 1.**
-
-
 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
@@ -176,15 +126,12 @@ A **Digital** **Research Object (DRO)** can be composed of both research data an
 Digital Research Objects are often given an identifier. In this way, there is a mechanism to trace back related resources about a scientific investigation. The most important aspects to consider about DRO’s:
 
 
-
 * They are not only associated with the end products as publications and final reports, but also encompass research outputs created, revised and shared throughout the research lifecycle that help validate findings claimed in scholarly publications. More simply, DROs apply to any “single information unit” or research material that can be **shared and cited** with other scientists within and outside the project. 
 * Motivation behind DRO is the need to identify and share all components such as data, source code, tools, method documentation, as well as communication materials such as presentations, videos, blogs and other tangible outcomes. 
 * DROs facilitate reproducibility and reuse of the scientific methods and results through access to resources, context and metadata
 * DROs help us to understand the entire research lifecycle through research outcomes including publications shared progressively. They also allow us to track the versioning and development of the entire project.
 
 Ultimately, there are three guiding principles for DROs:
-
-
 
 1. Digital identity - Using unique identifiers, such as DOIs (link to data) for tangible outcomes such as publications or data, and ORCID ids for researchers (explained in detail in the next lesson). This enables others to cite and use individual components of your work.
 2. Data aggregation - Using a method to aggregate all outcomes so that they are discoverable and hence allow anyone to investigate and reproduce the research.
