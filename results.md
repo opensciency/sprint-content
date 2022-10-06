@@ -108,7 +108,7 @@ A depiction of these stages is provided in Figure 1 (below).
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](https://the-turing-way.netlify.app/_images/research-cycle.jpg)
 
 
 Although we describe these stages in a sequential order, these stages may not always be linear. For instance scientific engagement and data management efforts will be applied at all stages of research, data exploration, analysis and reporting will be an iterative process, and reporting will happen at different points of the research lifecycle.
