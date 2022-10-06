@@ -906,43 +906,41 @@ _Open results for which we are seeking feedback are linked and listed below:_
 
 * _New research proposal - Link to pre-registered proposal_
 * _Preprint - Link and/or DOI - particularly the methods section_
-* _Protocols - Link to a protocols repository such as [protocols.io](https://protocols.io) _
-* _Data - Link and/or DOI _
+* _Protocols - Link to a protocols repository such as [protocols.io](https://protocols.io)_
+* _Data - Link and/or DOI_
 * _Source code - Link_
 
-_We welcome feedback that is positive or negative as long as it is provided in a way that is constructive. We would love to hear suggestions on how you would address any issue you may identify with the work, with as much clarity and examples as you may be able to provide. _
+_We welcome feedback that is positive or negative as long as it is provided in a way that is constructive. We would love to hear suggestions on how you would address any issue you may identify with the work, with as much clarity and examples as you may be able to provide._
 
 _Here are three ways you can provide us feedback:_
 
 
 
 1. _You can send us an email at [XXX@XXX.XX](mailto:XXX@XXX.XX). In the body of your email please specify what result you are providing us feedback on, and be as specific as you can in referring to the part that you are talking about so that we are most likely to understand the feedback. We also welcome questions. We will ignore your email if the content is an attack to the work or our team. Without your explicit consent, we will not share the content of your email associated with your name outside of our team._
-2. _You can publicly review our preprint by leaving a comment on the preprint server (if this option is available) _
+2. _You can publicly review our preprint by leaving a comment on the preprint server (if this option is available)_
 3. _You can review our preprint on [PREreview.org](https://prereview.org), an open platform that enables anyone with an ORCID iD to review preprints—on PREreview you can post our review using your real name or the unique pseudonym that will be attributed to you at sign up._
 
 _We thank you in advance for your time and willingness to help us improve our work._
 
 **_What to expect after you contribute_**
 
-_If your feedback came via email and is not an attack to our work or team, we will make sure to reply to you in a timely manner—please give our team up to 2 weeks to get back to you. _
+_If your feedback came via email and is not an attack to our work or team, we will make sure to reply to you in a timely manner—please give our team up to 2 weeks to get back to you._
 
 _If you wrote a review on PREreview or on the comment section of the preprint server, we would appreciate a quick email to [XXX@XXX.XX](mailto:XXX@XXX.XX) to let us know you did it. If the feedback is not an attack to our work or team, we will use the comment sections on PREreview or on the preprint server to reply, or, if you prefer, we can reply via email._
 
-_If you give us consent either in the email or by posting your review under your real name, we will acknowledge you and your feedback in the next version of the open result. _
+_If you give us consent either in the email or by posting your review under your real name, we will acknowledge you and your feedback in the next version of the open result._
 
 _If your feedback results in a substantial intellectual contribution to the work, we will contact you to discuss opportunities for authorship in the next version of the open result._
 
 
 #### **Additional resources**
 
-
-
 * For additional tips on how to acknowledge contributors, check out [Acknowledging Contributors The Turing Way (2022, June 30)](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html). 
 * If working with online repositories such as GitHub, an app like ‘[all-contributors](https://allcontributors.org)’ bot is a great way to automate capturing all kinds of contributions, from fixing bugs to organizing events, to improving accessibility in the project.
 * More systematic work is being undertaken by [hidden REF](https://hidden-ref.org) who constructed a broad set of categories ([https://hidden-ref.org/categories](https://hidden-ref.org/categories/)) that can be used for celebrating everyone who contributes to the research. 
 * There are several research infrastructure roles ([https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html)) also being recognised as valued members in research projects with an intention to provide leadership paths for technical and subject matter experts, even when their can’t be assessed in tangible outcomes.
 * The Declaration on Research Assessment (DORA) ([https://sfdora.org/](https://sfdora.org/)) is also a good resource to understand what researchers, institutions, funders and publishers can do to improve the ways in which researchers and the outputs of scholarly research are evaluated.
-* WHAT ELSE?
+* ANYTHING ELSE?
 
 How to set a successful open collaboration from the start 
 
@@ -963,10 +961,10 @@ Citation (and other forms of acknowledgment) have been the primary means by whic
 [https://the-turing-way.netlify.app/communication/citable.html](https://the-turing-way.netlify.app/communication/citable.html) 
 
 
-    _“Online publications are attached to persistent identifiers that are used for citing them. It’s important to note that not everything published online gets a unique identifier but it is important that research objects are published online with DOIs as described below.”_
+_“Online publications are attached to persistent identifiers that are used for citing them. It’s important to note that not everything published online gets a unique identifier but it is important that research objects are published online with DOIs as described below.”_
 
 
-    _“Unique identifiers or persistent links for digital objects are more formally called Digital Object Identifiers or DOIs. Using DOIs makes it much easier for others to cite your data, reduces the risk of link rot and means you can track how your research is being used and cited.”_
+_“Unique identifiers or persistent links for digital objects are more formally called Digital Object Identifiers or DOIs. Using DOIs makes it much easier for others to cite your data, reduces the risk of link rot and means you can track how your research is being used and cited.”_
 
 As discussed earlier (link to lesson 2?) almost every part of a research project is citable. A DOI provides one means for referencing and citing individuals research objects (e.g., data, figures/tables, manuscript, software packages). Including a doi with your work (whenever you share it online, when you place it on your CV, etc.) will help ensure that it is referenced (and indexed) appropriately. (We list resources for obtaining a DOI - if you do not receive one from the publisher, here: xxx)
 
@@ -975,7 +973,7 @@ As discussed earlier (link to lesson 2?) almost every part of a research project
 Similarly, researchers themselves can have unique identifiers. One, freely available service is ORCID.
 
 
-    _“ORCID is an acronym for ‘Open Researcher and Contributor ID’. ORCID is a long-lasting unique identifier for you as a researcher, comparable to a personal identification number that your government may issue to you.”_
+_“ORCID is an acronym for ‘Open Researcher and Contributor ID’. ORCID is a long-lasting unique identifier for you as a researcher, comparable to a personal identification number that your government may issue to you.”_
 
 Many journals and publishers are recommending that you include an ORCID iD alongside your submission (including peer review). This will link your manuscript (or peer review) to a PID.
 
