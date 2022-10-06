@@ -742,13 +742,10 @@ Avoid proprietary formats for storing your report.
 
 ## Assessment: case study analysis 
 
+1. From Lesson 3, consider the three highest priority research objects that could benefit from openness:
+* Identify possible platforms where these research object could be hosted 
+* Identify any modifications to this research objects that would enable it to abide by principles of openness 
 
-
-    1. From Lesson 3, consider the three highest priority research objects that could benefit from openness:
-        1. Identify possible platforms where these research object could be hosted 
-        2. Identify any modifications to this research objects that would enable it to abide by principles of openness 
-
- 
 
 
 # Lesson 4: Providing Equitable Opportunities and Credit for Contributors to Results
@@ -757,9 +754,7 @@ Avoid proprietary formats for storing your report.
 ## Introduction
 
 “What Des-Cartes did was a good step. You have added much several ways, & especially in taking the colours of thin plates into philosophical consideration. If I have seen further it is by standing on the shoulders of Giants.” 
-
-
-    Turnbull, H. W. ed., 1959. The Correspondence of Isaac Newton: 1661–1675, Volume 1, London, UK: Published for the Royal Society at the University Press. p. 416
+- Turnbull, H. W. ed., 1959. The Correspondence of Isaac Newton: 1661–1675, Volume 1, London, UK: Published for the Royal Society at the University Press. p. 416
 
 If you are a researcher, regardless of your career stage, chances are you are not working alone. And even if you are working alone on any given project, it is very likely that your work builds on the work of others. And just like that, others after you will build on your work, advancing our understanding of the world and beyond.
 
