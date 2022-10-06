@@ -251,7 +251,7 @@ The main identified advantages of making results open are the following:
 
 
 
-1. **Avoid duplication efforts**.​ _This is important for all types of ROs_. 
+1. **Avoid duplication efforts**. _This is important for all types of ROs_. 
 
     For example, a single dataset can be analysed in multiple ways. Another example is that the same implementation of the data processing, exploration and analysis stages (including analysis pipeline, statistical methods, tools, software, etc) can be reused for another phase of the same project or for a new project without the need of reimplementation by each researcher. 
 
@@ -281,13 +281,7 @@ Open posters/figures, talks/slides, preprints, webpages, journal/book publicatio
 
 The picture below summarises the most significant advantages for all actors in the research ecosystem of making your results open. 
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
+![alt_text](https://www.fosteropenscience.eu/sites/default/files/images/Figure4_Benefits_Stakeholders_0.png)
 
 (reference: @factorsoecd) 
 
