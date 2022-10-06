@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "yochannah",
+      "name": "Yo Yehudi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9271438?v=4",
+      "profile": "http://yo-yehudi.com",
+      "contributions": [
+        "mentoring"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "sprint-content",
+  "projectOwner": "opensciency"
+}
