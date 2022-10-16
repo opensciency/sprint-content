@@ -203,6 +203,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "eliocamp",
+      "name": "Elio Campitelli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8617595?v=4",
+      "profile": "https://github.com/eliocamp",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
