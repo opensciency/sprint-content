@@ -1,6 +1,6 @@
 # sprint-content
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Content created by [TOPS OpenCore Sprint SMEs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads.md#2022-tops-content-subject-matter-experts-smes) 
@@ -34,6 +34,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/geo-yrao"><img src="https://avatars.githubusercontent.com/u/38257268?v=4?s=100" width="100px;" alt="Yuhan (Douglas) Rao"/><br /><sub><b>Yuhan (Douglas) Rao</b></sub></a><br /><a href="#content-geo-yrao" title="Content">🖋</a></td>
       <td align="center"><a href="https://batool-almarzouq.netlify.app/"><img src="https://avatars.githubusercontent.com/u/53487593?v=4?s=100" width="100px;" alt="Batool Almarzouq"/><br /><sub><b>Batool Almarzouq</b></sub></a><br /><a href="#content-BatoolMM" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/EstherPlomp"><img src="https://avatars.githubusercontent.com/u/46314469?v=4?s=100" width="100px;" alt="Esther Plomp"/><br /><sub><b>Esther Plomp</b></sub></a><br /><a href="#content-EstherPlomp" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/TomoCoral"><img src="https://avatars.githubusercontent.com/u/98495490?v=4?s=100" width="100px;" alt="TomoCoral"/><br /><sub><b>TomoCoral</b></sub></a><br /><a href="#content-TomoCoral" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
