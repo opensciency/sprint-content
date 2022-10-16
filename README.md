@@ -1,6 +1,6 @@
 # sprint-content
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Content created by [TOPS OpenCore Sprint SMEs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads.md#2022-tops-content-subject-matter-experts-smes) 
@@ -37,6 +37,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/TomoCoral"><img src="https://avatars.githubusercontent.com/u/98495490?v=4?s=100" width="100px;" alt="TomoCoral"/><br /><sub><b>TomoCoral</b></sub></a><br /><a href="#content-TomoCoral" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/melibleq"><img src="https://avatars.githubusercontent.com/u/16723182?v=4?s=100" width="100px;" alt="Melissa Black"/><br /><sub><b>Melissa Black</b></sub></a><br /><a href="#content-melibleq" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
