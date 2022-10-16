@@ -25,6 +25,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/camriddell"><img src="https://avatars.githubusercontent.com/u/96146940?v=4?s=100" width="100px;" alt="Cameron"/><br /><sub><b>Cameron</b></sub></a><br /><a href="#mentoring-camriddell" title="Mentoring">🧑‍🏫</a></td>
       <td align="center"><a href="http://talks.dutc.io"><img src="https://avatars.githubusercontent.com/u/3922744?v=4?s=100" width="100px;" alt="James Powell"/><br /><sub><b>James Powell</b></sub></a><br /><a href="#mentoring-dutc" title="Mentoring">🧑‍🏫</a></td>
       <td align="center"><a href="https://github.com/smhall97"><img src="https://avatars.githubusercontent.com/u/43542098?v=4?s=100" width="100px;" alt="smhall97"/><br /><sub><b>smhall97</b></sub></a><br /><a href="#content-smhall97" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/Jannatul-Ferdush"><img src="https://avatars.githubusercontent.com/u/38519049?v=4?s=100" width="100px;" alt="Jannatul Ferdush"/><br /><sub><b>Jannatul Ferdush</b></sub></a><br /><a href="#content-Jannatul-Ferdush" title="Content">🖋</a></td>
+      <td align="center"><a href="http://flavioazevedo.com/publications"><img src="https://avatars.githubusercontent.com/u/18330492?v=4?s=100" width="100px;" alt="Flavio Azevedo"/><br /><sub><b>Flavio Azevedo</b></sub></a><br /><a href="#content-flavioazevedo" title="Content">🖋</a></td>
+      <td align="center"><a href="https://www.michaeljfox.org/"><img src="https://avatars.githubusercontent.com/u/3680365?v=4?s=100" width="100px;" alt="Chris Erdmann"/><br /><sub><b>Chris Erdmann</b></sub></a><br /><a href="#mentoring-libcce" title="Mentoring">🧑‍🏫</a></td>
+      <td align="center"><a href="https://github.com/geo-yrao"><img src="https://avatars.githubusercontent.com/u/38257268?v=4?s=100" width="100px;" alt="Yuhan (Douglas) Rao"/><br /><sub><b>Yuhan (Douglas) Rao</b></sub></a><br /><a href="#content-geo-yrao" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
