@@ -1,6 +1,6 @@
 # sprint-content
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Content created by [TOPS OpenCore Sprint SMEs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads.md#2022-tops-content-subject-matter-experts-smes) 
@@ -43,6 +43,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/michelusp"><img src="https://avatars.githubusercontent.com/u/29486679?v=4?s=100" width="100px;" alt="Michel Lacerda"/><br /><sub><b>Michel Lacerda</b></sub></a><br /><a href="#content-michelusp" title="Content">🖋</a></td>
       <td align="center"><a href="https://www.tiki-toki.com/timeline/entry/1753034/A-History-of-Research-Ethics/"><img src="https://avatars.githubusercontent.com/u/64027166?v=4?s=100" width="100px;" alt="Ismael-KG"/><br /><sub><b>Ismael-KG</b></sub></a><br /><a href="#content-Ismael-KG" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/andreamedinasmith"><img src="https://avatars.githubusercontent.com/u/6033782?v=4?s=100" width="100px;" alt="andreamedinasmith"/><br /><sub><b>andreamedinasmith</b></sub></a><br /><a href="#content-andreamedinasmith" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/aosman12"><img src="https://avatars.githubusercontent.com/u/68354949?v=4?s=100" width="100px;" alt="aosman12"/><br /><sub><b>aosman12</b></sub></a><br /><a href="#content-aosman12" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
