@@ -65,6 +65,22 @@
       "name": "Flavio Azevedo",
       "avatar_url": "https://avatars.githubusercontent.com/u/18330492?v=4",
       "profile": "http://flavioazevedo.com/publications",
+      ]
+    },
+    {
+      "login": "libcce",
+      "name": "Chris Erdmann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3680365?v=4",
+      "profile": "https://www.michaeljfox.org/",
+      "contributions": [
+        "mentoring"
+      ]
+    },
+    {
+      "login": "geo-yrao",
+      "name": "Yuhan (Douglas) Rao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38257268?v=4",
+      "profile": "https://github.com/geo-yrao",
       "contributions": [
         "content"
       ]
