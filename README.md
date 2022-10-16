@@ -1,6 +1,6 @@
 # sprint-content
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Content created by [TOPS OpenCore Sprint SMEs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads.md#2022-tops-content-subject-matter-experts-smes) 
@@ -49,6 +49,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/eliocamp"><img src="https://avatars.githubusercontent.com/u/8617595?v=4?s=100" width="100px;" alt="Elio Campitelli"/><br /><sub><b>Elio Campitelli</b></sub></a><br /><a href="#content-eliocamp" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/smklusza"><img src="https://avatars.githubusercontent.com/u/28989267?v=4?s=100" width="100px;" alt="Stephen Klusza"/><br /><sub><b>Stephen Klusza</b></sub></a><br /><a href="#content-smklusza" title="Content">🖋</a></td>
       <td align="center"><a href="https://psychonautgirl.space"><img src="https://avatars.githubusercontent.com/u/17600982?v=4?s=100" width="100px;" alt="Mariana Meireles"/><br /><sub><b>Mariana Meireles</b></sub></a><br /><a href="#content-marimeireles" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/karegapauline"><img src="https://avatars.githubusercontent.com/u/27417671?v=4?s=100" width="100px;" alt="Pauline Karega"/><br /><sub><b>Pauline Karega</b></sub></a><br /><a href="#content-karegapauline" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
