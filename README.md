@@ -1,6 +1,6 @@
 # sprint-content
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Content created by [TOPS OpenCore Sprint SMEs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads.md#2022-tops-content-subject-matter-experts-smes) 
@@ -52,6 +52,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/karegapauline"><img src="https://avatars.githubusercontent.com/u/27417671?v=4?s=100" width="100px;" alt="Pauline Karega"/><br /><sub><b>Pauline Karega</b></sub></a><br /><a href="#content-karegapauline" title="Content">🖋</a></td>
       <td align="center"><a href="http://www.mn.uio.no/geo/english/people/adm/annefou/"><img src="https://avatars.githubusercontent.com/u/8168508?v=4?s=100" width="100px;" alt="Anne Fouilloux"/><br /><sub><b>Anne Fouilloux</b></sub></a><br /><a href="#content-annefou" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/camachoreina"><img src="https://avatars.githubusercontent.com/u/12454015?v=4?s=100" width="100px;" alt="Reina Camacho Toro"/><br /><sub><b>Reina Camacho Toro</b></sub></a><br /><a href="#content-camachoreina" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Sierra-MC"><img src="https://avatars.githubusercontent.com/u/88336748?v=4?s=100" width="100px;" alt="Sierra V. Kaufman"/><br /><sub><b>Sierra V. Kaufman</b></sub></a><br /><a href="#content-Sierra-MC" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
