@@ -65,6 +65,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center"><a href="https://github.com/AnaVaz-NOAA"><img src="https://avatars.githubusercontent.com/u/94488549?v=4?s=100" width="100px;" alt="Ana Vaz"/><br /><sub><b>Ana Vaz</b></sub></a><br /><a href="#content-AnaVaz-NOAA" title="Content">🖋</a></td>
       <td align="center"><a href="http://tysonswetnam.com"><img src="https://avatars.githubusercontent.com/u/11527041?v=4?s=100" width="100px;" alt="Tyson L. Swetnam"/><br /><sub><b>Tyson L. Swetnam</b></sub></a><br /><a href="#content-tyson-swetnam" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/BabatundeOnabajo"><img src="https://avatars.githubusercontent.com/u/36359216?v=4?s=100" width="100px;" alt="Babatunde Valentine Onabajo"/><br /><sub><b>Babatunde Valentine Onabajo</b></sub></a><br /><a href="#content-BabatundeOnabajo" title="Content">🖋</a></td>
       <td align="center"><a href="https://cheginit.github.io"><img src="https://avatars.githubusercontent.com/u/13016644?v=4?s=100" width="100px;" alt="Taher Chegini"/><br /><sub><b>Taher Chegini</b></sub></a><br /><a href="#content-cheginit" title="Content">🖋</a></td>
     </tr>
   </tbody>
