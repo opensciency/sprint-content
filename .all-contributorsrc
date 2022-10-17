@@ -284,6 +284,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "hughshanahan",
+      "name": "Hugh Shanahan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3338109?v=4",
+      "profile": "http://www.shanahanlab.org",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
