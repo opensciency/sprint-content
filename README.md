@@ -1,6 +1,6 @@
 # sprint-content
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Content created by [TOPS OpenCore Sprint SMEs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads.md#2022-tops-content-subject-matter-experts-smes) 
@@ -59,6 +59,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/likeajumprope"><img src="https://avatars.githubusercontent.com/u/23728822?v=4?s=100" width="100px;" alt="Johanna Bayer"/><br /><sub><b>Johanna Bayer</b></sub></a><br /><a href="#content-likeajumprope" title="Content">🖋</a></td>
       <td align="center"><a href="http://www.shanahanlab.org"><img src="https://avatars.githubusercontent.com/u/3338109?v=4?s=100" width="100px;" alt="Hugh Shanahan"/><br /><sub><b>Hugh Shanahan</b></sub></a><br /><a href="#content-hughshanahan" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/MiguelSilan"><img src="https://avatars.githubusercontent.com/u/32735330?v=4?s=100" width="100px;" alt="MiguelSilan"/><br /><sub><b>MiguelSilan</b></sub></a><br /><a href="#content-MiguelSilan" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/Elpapado"><img src="https://avatars.githubusercontent.com/u/16916017?v=4?s=100" width="100px;" alt="Elli Papadopoulou"/><br /><sub><b>Elli Papadopoulou</b></sub></a><br /><a href="#content-Elpapado" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
