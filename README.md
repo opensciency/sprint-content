@@ -1,6 +1,6 @@
 # sprint-content
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Content created by [TOPS OpenCore Sprint SMEs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads.md#2022-tops-content-subject-matter-experts-smes) 
@@ -68,6 +68,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/BabatundeOnabajo"><img src="https://avatars.githubusercontent.com/u/36359216?v=4?s=100" width="100px;" alt="Babatunde Valentine Onabajo"/><br /><sub><b>Babatunde Valentine Onabajo</b></sub></a><br /><a href="#content-BabatundeOnabajo" title="Content">🖋</a></td>
       <td align="center"><a href="https://cheginit.github.io"><img src="https://avatars.githubusercontent.com/u/13016644?v=4?s=100" width="100px;" alt="Taher Chegini"/><br /><sub><b>Taher Chegini</b></sub></a><br /><a href="#content-cheginit" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/ee2110"><img src="https://avatars.githubusercontent.com/u/52744798?v=4?s=100" width="100px;" alt="ee2110"/><br /><sub><b>ee2110</b></sub></a><br /><a href="#content-ee2110" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/rebeccaringuette"><img src="https://avatars.githubusercontent.com/u/49281118?v=4?s=100" width="100px;" alt="rebeccaringuette"/><br /><sub><b>rebeccaringuette</b></sub></a><br /><a href="#content-rebeccaringuette" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
