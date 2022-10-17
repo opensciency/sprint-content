@@ -1,6 +1,6 @@
 # sprint-content
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Content created by [TOPS OpenCore Sprint SMEs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads.md#2022-tops-content-subject-matter-experts-smes) 
@@ -61,6 +61,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/MiguelSilan"><img src="https://avatars.githubusercontent.com/u/32735330?v=4?s=100" width="100px;" alt="MiguelSilan"/><br /><sub><b>MiguelSilan</b></sub></a><br /><a href="#content-MiguelSilan" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/Elpapado"><img src="https://avatars.githubusercontent.com/u/16916017?v=4?s=100" width="100px;" alt="Elli Papadopoulou"/><br /><sub><b>Elli Papadopoulou</b></sub></a><br /><a href="#content-Elpapado" title="Content">🖋</a></td>
       <td align="center"><a href="https://danieljdunleavy.netlify.app/"><img src="https://avatars.githubusercontent.com/u/30324612?v=4?s=100" width="100px;" alt="dunldj"/><br /><sub><b>dunldj</b></sub></a><br /><a href="#content-dunldj" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/AnaVaz-NOAA"><img src="https://avatars.githubusercontent.com/u/94488549?v=4?s=100" width="100px;" alt="Ana Vaz"/><br /><sub><b>Ana Vaz</b></sub></a><br /><a href="#content-AnaVaz-NOAA" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
