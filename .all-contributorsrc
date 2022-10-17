@@ -320,6 +320,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "AnaVaz-NOAA",
+      "name": "Ana Vaz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94488549?v=4",
+      "profile": "https://github.com/AnaVaz-NOAA",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
