@@ -329,6 +329,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "tyson-swetnam",
+      "name": "Tyson L. Swetnam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11527041?v=4",
+      "profile": "http://tysonswetnam.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
