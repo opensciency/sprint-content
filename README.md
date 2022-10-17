@@ -1,6 +1,6 @@
 # sprint-content
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Content created by [TOPS OpenCore Sprint SMEs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads.md#2022-tops-content-subject-matter-experts-smes) 
@@ -55,6 +55,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Sierra-MC"><img src="https://avatars.githubusercontent.com/u/88336748?v=4?s=100" width="100px;" alt="Sierra V. Kaufman"/><br /><sub><b>Sierra V. Kaufman</b></sub></a><br /><a href="#content-Sierra-MC" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/shmuhammad2004"><img src="https://avatars.githubusercontent.com/u/38854463?v=4?s=100" width="100px;" alt="Shamsudddeen Hassan Muhammad"/><br /><sub><b>Shamsudddeen Hassan Muhammad</b></sub></a><br /><a href="#content-shmuhammad2004" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
