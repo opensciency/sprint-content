@@ -1,6 +1,6 @@
 # sprint-content
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Content created by [TOPS OpenCore Sprint SMEs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads.md#2022-tops-content-subject-matter-experts-smes) 
@@ -65,6 +65,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center"><a href="https://github.com/AnaVaz-NOAA"><img src="https://avatars.githubusercontent.com/u/94488549?v=4?s=100" width="100px;" alt="Ana Vaz"/><br /><sub><b>Ana Vaz</b></sub></a><br /><a href="#content-AnaVaz-NOAA" title="Content">🖋</a></td>
       <td align="center"><a href="http://tysonswetnam.com"><img src="https://avatars.githubusercontent.com/u/11527041?v=4?s=100" width="100px;" alt="Tyson L. Swetnam"/><br /><sub><b>Tyson L. Swetnam</b></sub></a><br /><a href="#content-tyson-swetnam" title="Content">🖋</a></td>
+      <td align="center"><a href="https://cheginit.github.io"><img src="https://avatars.githubusercontent.com/u/13016644?v=4?s=100" width="100px;" alt="Taher Chegini"/><br /><sub><b>Taher Chegini</b></sub></a><br /><a href="#content-cheginit" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
