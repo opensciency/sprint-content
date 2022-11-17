@@ -5,11 +5,11 @@
 
 Opensciency is core open science curriculum material, drafted to introduce those beginning their open science journey to important definitions, tools, and resources; and provide for participants at all levels recommended practices. The material is made available under a [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/) license and is structured into five modules:
 
-Ethos of Open Science
-Open Tools and Resources
-Open Data
-Open Software
-Open Results
+- Ethos of Open Science
+- Open Tools and Resources
+- Open Data
+- Open Software
+- Open Results
 
 Opensciency is a result of the work of more than 40 open science experts and practitioners from across the world and from different disciplines. The first draft of the curriculum material was developed from [June 27 - July 1, 2022](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads.md) as part of the Transform to Open Science (TOPS) [OpenCore](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore) sprint. More information about the NASA TOPS initiative is available via their GitHub website. After the TOPS Community Panel on  [October 6, 2022](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Panels/20221005_community_panel.md), the original contributors created the Opensciency repository to allow all contributors to further engage with the curriculum and invite review on the initial draft material from the wider research community. 
 
