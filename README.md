@@ -1,11 +1,7 @@
-# sprint-content
+# Opensciency - A core open science curriculum by and for the research community.
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-Content created by [TOPS OpenCore Sprint SMEs](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads.md#2022-tops-content-subject-matter-experts-smes) 
-
-Opensciency - A core open science curriculum by and for the research community.
 
 Opensciency is core open science curriculum material, drafted to introduce those beginning their open science journey to important definitions, tools, and resources; and provide for participants at all levels recommended practices. The material is made available under a [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/) license and is structured into five modules:
 
