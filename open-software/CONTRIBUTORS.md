@@ -30,13 +30,15 @@ ChurchMapped Limited
 Powell, James
 Don’t Use This Code
 ORCID  
-[https://github.com/CRiddler](https://github.com/CRiddler) 
+[https://github.com/CRiddler](https://github.com/CRiddler)
+
 [https://twitter.com/dontusethiscode](https://twitter.com/dontusethiscode)
   
 Riddell, Cameron
 Don’t Use This Code
 ORCID  
 [https://github.com/dutc](https://github.com/dutc)
+
 [https://mobile.twitter.com/riddlemecam](https://mobile.twitter.com/riddlemecam)
   
 __Vaz, Ana__  
