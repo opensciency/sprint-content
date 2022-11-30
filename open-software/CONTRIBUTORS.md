@@ -27,15 +27,17 @@ ChurchMapped Limited
 [https://github.com/BabatundeOnabajo](https://github.com/BabatundeOnabajo)  
 [https://twitter.com/babatundeonabaj](https://twitter.com/babatundeonabaj)		
   
-Powell, James  
+Powell, James
+Don’t Use This Code
 ORCID  
-GitHub  
-Twitter  
+[https://github.com/CRiddler](https://github.com/CRiddler) 
+[https://twitter.com/dontusethiscode](https://twitter.com/dontusethiscode)
   
-Riddell, Cameron  
+Riddell, Cameron
+Don’t Use This Code
 ORCID  
-GitHub  
-Twitter  
+[https://github.com/dutc](https://github.com/dutc)
+[https://mobile.twitter.com/riddlemecam](https://mobile.twitter.com/riddlemecam)
   
 __Vaz, Ana__  
 University of Miami  
