@@ -29,6 +29,8 @@ https://github.com/EstherPlomp
 https://twitter.com/PhDToothFAIRy
 
 #### Yuhan (Douglas) Rao
+https://orcid.org/0000-0001-6850-3403
+
 [https://github.com/geo-yrao](https://github.com/geo-yrao)
 
 [https://twitter.com/douglas_rao](https://twitter.com/douglas_rao)
