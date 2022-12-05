@@ -1,15 +1,13 @@
 # Lesson 7: Finding and Using Open Data
 
-**Lead**: Jannatul
-
-**Contributors**: Hugh, Douglas, Andrea, Esther
+## Learning Objectives
+- Be able to locate open datasets
+- Understand the use parameters of a given open dataset
 
 
 ## Introduction:
 
 Since Open Science is a data-intensive endeavor, sharing, finding and using Open Data in a proper way is the ultimate goal of this module, including previous lessons on the benefits of Open Data, responsible Open Data, FAIR and CARE principles, planning for, and sharing Open Data. However, the quantity of information was much more manageable just a decade ago. With the pace of advanced digital technologies, today’s researchers need to be informed about the latest publications and utilize the existing data to;
-
-
 
 * apply and broaden the research hypotheses',
 * validate their findings against references and benchmark data,
@@ -22,12 +20,12 @@ While adhering to the FARE and CARE principles, the data user (e.g., policy-make
 This lesson will give an overview of possible ways and guidelines of finding and re-using Open Data to support communities’ efforts as we try to mobilize the Open Science movement forward towards a technologically driven world.
 
 
-### 7.1 How to find Open data
+## 7.1 How to find Open data
 
 
 The reusability of openly shared data relies on the prospects of it being found in the first place, therefore data findability is a key step in accessing and utilizing data. There are three major ways to find Open Data that are shared by researchers – repository, web search, and literature search.
 
-#### Repositories
+### Repositories
 
 Ideally, Open Data should be available in repositories where the datasets are properly indexed and assigned a unique persistent identifier (as discussed in **Lesson 6 – Sharing Open Data**) thereby ensuring the data is unambiguously identifiable, searchable, discoverable along with associated metadata and documentations.
 
@@ -54,15 +52,11 @@ _Examples of generic repositories:_
 The[ Generalist Repository Comparison Chart](https://zenodo.org/record/3946720#.YUKQ18RS-Uk) is a tool you can use to decide where to store and share their FAIR data outside of their institutional repositories. Dataverse has also published a[ comparative review of eight data repositories.](https://dataverse.org/blog/comparative-review-various-data-repositories)
 
 
-#### Web-searches
+### Web-searches
 
 To explore a wide variety of datasets from projects or popular topics, the use of a more general search engine can be helpful. Some disciplines or large institutions such as NASA and the National Institute of Health’s National Center for Biotechnology Information (NCBI) offer their own portal where you can search for their datasets, related publications and oftentimes tools for analysis (e.g., EMBL's European Bioinformatics Institute[ https://www.ebi.ac.uk/](https://www.ebi.ac.uk/) ). There are also an increasing number of international and national data portals to enable data discoveries.
 
-
-
-**Generic data search portals:**
-
-
+### **Generic data search portals:**
 
 * Google[ https://datasetsearch.research.google.com/](https://datasetsearch.research.google.com/)
 * Kaggle[ https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
@@ -70,9 +64,7 @@ To explore a wide variety of datasets from projects or popular topics, the use o
 * Open Data Network [https://www.opendatanetwork.com/](https://www.opendatanetwork.com/)
 * Awesome Public Datasets[ https://github.com/awesomedata/awesome-public-datasets#readme](https://github.com/awesomedata/awesome-public-datasets#readme)
 
-**Examples of Discipline specific:**
-
-
+### **Examples of Discipline specific:**
 
 * NASA Earth[ https://www.earthdata.nasa.gov/](https://www.earthdata.nasa.gov/)
 * Cern[ https://opendata.cern.ch/](https://opendata.cern.ch/)
@@ -87,9 +79,7 @@ To explore a wide variety of datasets from projects or popular topics, the use o
 * NASA Planetary Data System [https://pds.nasa.gov/](https://pds.nasa.gov/)
 
 
-#### **Examples of National or international data portal**
-
-
+### **Examples of National or international data portal**
 
 * US Federal data[ https://data.gov/](https://data.gov/)
 * EU Data Portal[ https://data.europa.eu/en](https://data.europa.eu/en)
@@ -99,7 +89,7 @@ To explore a wide variety of datasets from projects or popular topics, the use o
 * UNICEF [https://data.unicef.org/](https://data.unicef.org/)
 
 
-#### Literature search
+### Literature search
 
 While not ideal, datasets are often attached to scholarly publications in the form of supplementary material, or referenced in text where to find them e.g. GitHub repository or personal/institutional websites. In addition, there are emerging journals and special collections/issues focused on describing and publishing data (e.g. Nucleic Acids Research database issues[ https://doi.org/10.1093/nar/gkab1195](https://doi.org/10.1093/nar/gkab1195), Scientific Data, Earth System Science Data, etc.). In other words, while the datasets are openly available in these media, they are not properly indexed and therefore not very findable nor machine readable.
 
@@ -109,16 +99,12 @@ However in other disciplines (e.g. arts and humanities), search is often carried
 
 **Generic:**
 
-
-
 * Google Scholar[ https://scholar.google.com](https://scholar.google.com)
 * Open knowledge map: A visual interface allowing the exploration of interconnected topics with relevant documents and concepts.  [https://openknowledgemaps.org/](https://openknowledgemaps.org/)
 * JSTOR a wide range of scholarly content[ https://www.jstor.org/](https://www.jstor.org/)
 * ResearchGate[ https://www.researchgate.net/search](https://www.researchgate.net/search)
 
 **Discipline specific:**
-
-
 
 * EuropePMC Life sciences [https://europepmc.org/](https://europepmc.org/)
 * Pubmed biomedical literature [https://pubmed.ncbi.nlm.nih.gov/](https://pubmed.ncbi.nlm.nih.gov/)
@@ -128,17 +114,17 @@ However in other disciplines (e.g. arts and humanities), search is often carried
 * ASAPbio provides a catalog of preprint servers [https://asapbio.org/preprint-servers](https://asapbio.org/preprint-servers)  
 
 
-### 7.2 What are you allowed to do with it?
+## 7.2 What are you allowed to do with it?
 
 Once a dataset is found, the degree to which it can be reused may be limited in various ways. This can include the introduction of partial or total restrictions to address safety concerns, legal rights, ethical principles, protection of community interests and well being (see lesson 4 CARE and FAIR principles), and commercial interests. A well documented dataset will include details on what you are allowed and not allowed to do with the data, and this information is typically outlined in the documents below.
 
 
-#### Data Access Statement
+### Data Access Statement
 
 Data Access statements, (described in lesson 6.5) outline the restrictions setup on specific datasets as well as what the users need to provide or abide by in order to gain access to the data. At times you may need to submit a Data Access Request specifying what you intend to do with this data and how you intend to fulfill the requirements as set by the data owner.
 
 
-#### Licenses
+### Licenses
 
 It is imperative that one understands the license a dataset is released under before data reuse. Without a good understanding of what a license allows, it will open researchers up to copyright infringement or other intellectual property issues. The purpose of licenses is described in section 6 in more detail.
 
@@ -147,25 +133,23 @@ Some dataset licenses are wholly open (see various flavors of the Creative Commo
 More information on licenses, and copyright can be found at the DCC ([https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-13000doc](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-13000doc)) and The Turing Way ([https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html)).
 
 
-##### Citations
+### Citations
 
 As noted in 6.3 it is important to cite the data that you use appropriately. This ensures that other researchers can easily find the data set you have used and that the developers of the data set get credit for their work.
 
 
-### 7.3 How can you use it?
+## 7.3 How can you use it?
 
 Data reuse is contingent on a number of factors including quality of data, access and reuse conditions, data findability, and more. Below we outline a few essential elements that enable you to assess the relevance and quality of datasets .
 
 
-#### Documentation
+### Documentation
 
 Dataset discovery relies on the quality of documentation associated with the datasets, i.e. metadata.  Search engines rely on key information about the datasets which allows them to be indexed and searched,  more on this [https://www.blog.google/products/search/making-it-easier-discover-datasets/](https://www.blog.google/products/search/making-it-easier-discover-datasets/)
 
 No matter how comprehensive the data is, a general rule of thumb is that you should be able to understand what the dataset is about, what is the stage of the data, and what to expect before downloading and processing it.
 
 Some core descriptors to look for are:
-
-
 
 * Who created this data?
 * When was it published?
@@ -180,7 +164,7 @@ Ideally a fully documented Data Reuse plan should accompany the datasets providi
 [https://github.com/mozillascience/working-open-workshop/blob/8931bf19bedb99166b931f82dbd2fba815dc6fe1/handouts/data_reuse_plan_template.md](https://github.com/mozillascience/working-open-workshop/blob/8931bf19bedb99166b931f82dbd2fba815dc6fe1/handouts/data_reuse_plan_template.md)
 
 
-#### Formats
+## Formats
 
 As noted previously, the format of data is key for its interoperability. Data formats are in two classes. Closed, proprietary,  formats are those where the specification for the way the data is stored is not publicly available and hence is tied explicitly to the software (or hardware) developed by an organization. Open formats have a specification that is available to all (though some may be proprietary and hence subject to conditions that will vary on the license terms applied to them).  Open data formats are cataloged in FAIRsharing.org.
 
@@ -189,12 +173,12 @@ The format of a file should be described in the metadata associated with the dat
 If the format isn’t clear or is using a closed format where there isn’t software to access the data it is worth contacting the authors of the data set to see if they can help though the authors are not obliged to reply to you. Reaching out to the communities outlined in lesson 5 can also provide advice.
 
 
-#### Tools
+## Tools
 
 Many of the details here are discussed in the Open Tools lesson. In the first instance in order to ensure that data is being read properly it is useful to check if a previously published analysis of the data can be reproduced. Papers outlining the analysis  should provide some description of the software used and the necessary steps in the analysis. In reproducing such an analysis one can determine if proprietary software is necessary to use the data and if you have all the necessary software or indeed source code to reproduce the results. If the results can be reproduced then you can be more confident in reusing the data. As described above, contacting the authors if there is an issue or likewise contacting communities described in lesson 5 can also help here.  
 
 
-#### Data Cleaning
+## Data Cleaning
 
 Data cleaning refers to the preliminary step where the quality of data is assessed and any errors, inconsistencies or formatting issues are detected and resolved prior to using the datasets. It also includes making decisions on what to do with missing or incomplete data.
 
@@ -208,8 +192,6 @@ This process requires significant human intervention (including in some cases se
 
 **Guides: **
 
-
-
 * Harvard- Analysis Ready Datasets [https://datamanagement.hms.harvard.edu/analyze/analysis-ready-datasets](https://datamanagement.hms.harvard.edu/analyze/analysis-ready-datasets)
 * [https://en.wikipedia.org/wiki/Data_cleansing#Data_quality](https://en.wikipedia.org/wiki/Data_cleansing#Data_quality)
 * [https://www.kaggle.com/learn/data-cleaning](https://www.kaggle.com/learn/data-cleaning)
@@ -218,13 +200,11 @@ This process requires significant human intervention (including in some cases se
 
 **Tools:  **
 
-
-
 * [https://openrefine.org/](https://openrefine.org/)
 * See more in tools module
 
 
-## Conclusion:
+## Summary:
 
 Over the present decade, there has been a surge of interest from both industry and academia in Open Data, not only for record keeping but also to support a variety of decision-making tasks. Creating new data is costly and sometimes redundant. Therefore there is an increased emphasis on reuse of Open Data. Below we outline a handy checklist that outlines what to look for.  
 
@@ -249,8 +229,6 @@ Over the present decade, there has been a surge of interest from both industry a
 
 
 ## Assessment
-
-
 
 * Can you find a dataset related to your field?
 * What kind of license does it have?
