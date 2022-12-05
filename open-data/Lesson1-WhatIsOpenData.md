@@ -122,7 +122,7 @@ Open Data is free from all types of organizational, cultural, political and/or c
 The inclusiveness of open data brings many benefits (Lesson 2 - Benefits of Open Data). However, there are situations when it is not ethical or appropriate to share certain data, or there are considerations to implement additional steps and policies to ensure the proper use of open data (Lesson 3 - Responsible Open Data).
 
 
-## Conclusion
+## Summary
 In this lesson, you learned about different types of data, the definition and key characteristics of open data. You might already have some great examples about open data that you are interested in learning more. In the next lesson, you will be exposed to various benefits and challenges of open data.
 
 ## Assessment
@@ -134,3 +134,22 @@ A researcher needs data on trauma for an ongoing project.
 
 **Senario 2:** In the trauma center, they are referred to a database where they can find responses from patients. What type of data was collected?
 Footer
+
+## References
+1.  https://www.openstreetmap.us/
+2.  https://keydifferences.com/difference-between-ungrouped-data-and-grouped-data.html
+3.  https://www.datamation.com/big-data/structured-vs-unstructured-data/
+4.  https://eospso.gsfc.nasa.gov
+5.  https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig
+6.  https://www.igsn.org/
+7.  https://isamplesorg.github.io/home/
+8.  https://zenodo.org/record/6818076#.YtgQhITMK3B
+9.  https://www.wcrp-climate.org/wgcm-cmip
+10. https://www.climateurope.eu/a-short-introduction-to-climate-models-cmip-cmip6/
+11. https://www.sciencedirect.com/science/article/abs/pii/S0023969001910987?via%3Dihub
+12. https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html
+13. https://www.paristechreview.com/2013/03/29/brief-history-open-data/
+14. https://opendatahandbook.org/
+15. https://okfn.org/
+16. https://doi.org/10.1093/bioinformatics/btn464  
+17. https://data.worldbank.org/indicator/SI.POV.DDAY?locations=1W&start=1981&end=2015&view=chart
