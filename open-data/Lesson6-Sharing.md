@@ -1,9 +1,6 @@
 # Lesson 6: Sharing Open Data 
-**Lead**: Andrea Medina-Smith
-
-**Contributors**: Siobhan Hall, Douglas Rao
-
-
+## Learning Objectives
+- Communicate best practices for responsibly sharing data
 
 
 ## Introduction:
@@ -11,10 +8,9 @@
 In addition to the ethical considerations discussed in lessons 3 and 4, Open Data may be subject to strict controls and guidelines for sharing and managing it. This lesson will cover the leading practices for sharing of data as part of the Open Science environment. Ideally, you have been planning to share your data from the beginning of your research project. Deciding early on what metadata will be collected and how the data will be documented and under which license you want to (or must) release the data will help you decide on the repository which is the best fit for your work.
 
 
-### 6.1 Policies for Responsible Sharing of Open Data
+## 6.1 Policies for Responsible Sharing of Open Data
 
 Policies are not only important for reshaping scientific data sharing practices, but they also remove obstacles allowing the free flow of research data and ideas, to gain maximum return on investments in research. Essentially what policies do is that they set the tone, the new norms, making open and FAIR science = normal science. Policies exist at several levels [[1](https://doi.org/10.5281/zenodo.6532282)]:
-
 
 
 * Policies at the institutional level describe how, when and sometimes where and to whom a dataset should be made available. These policies exist to help guide data creators determine the intellectual property rights and responsibilities associated with a given dataset.  
@@ -28,7 +24,7 @@ A major driver of open data policies are **funders**. Funders can require data m
 * At the international level several initiatives and guidelines exist to expand Open Data sharing such as the OECD work on [Enhanced Access to Data and Models ](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0347), UNESCO, and Horizon Europe [[3](https://doi.org/10.3389/fdata.2019.00043)].
 
 
-### 6.2 Licenses for Open Data
+## 6.2 Licenses for Open Data
 
 A license is a legal document that tells users how they can use the dataset assigned said license. There are many broadly open licenses available to choose from (see [https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html)).  More information on selecting appropriate open licenses can be found in many resources online [[4](https://opendatacommons.org/licenses/),[5](https://creativecommons.org/about/program-areas/open-data/)].
 
@@ -39,7 +35,7 @@ In general, it is recommended that the most open license possible is used to ena
 Keep in mind that regardless of which license is chosen, reference or use of someone else’s work must be attributed properly, more on that in the next section.  
 
 
-### 6.3 Citations and Acknowledgements
+## 6.3 Citations and Acknowledgements
 
 Acknowledgements and citations contribute towards fostering a culture of sharing data without fear of ideas or recognition being stolen. If a researcher can trust that their work will be cited, and used to further the development of science, the idea of making data open is more appealing and mutually beneficial.
 
@@ -48,7 +44,7 @@ Further, data citation aids transparency and allows the original authors and new
 Use of standard citation practices are recommended to ensure due credit is given.
 
 
-### 6.4 Repositories and Other Sharing Methods
+## 6.4 Repositories and Other Sharing Methods
 
 The most common way to share Open Data is through data repositories. Many repositories can help you register your data with a persistent identifier (PID) that is globally unique such as a Digital Object Identifier (DOI) and provide other services (including license selection, citation, metadata guidelines, preservation actions etc..) to make your Open Data FAIR.  
 
@@ -93,19 +89,19 @@ A final note about choosing a repository – some repositories may charge fees t
 Sharing data relies on clear statements and methods for accessing the data. This is typically indicated in the Data Availability Statement which includes elements such as; DOI or identifier for the data and citation to the correct references [[9](https://jie.yale.edu/datastatements)],[[10](https://think.f1000research.com/wp-content/uploads/2021/02/F1000Research-Open-Data-How-to-Write-a-Data-Availability-Statement.pdf)] and clear instructions for downloading, using, sharing and citing the data [[11](https://doi.org/10.5281/zenodo.6505587)].  An example of what to include in a good DAS is available in [[10](https://think.f1000research.com/wp-content/uploads/2021/02/F1000Research-Open-Data-How-to-Write-a-Data-Availability-Statement.pdf)] & [[11](https://doi.org/10.5281/zenodo.6505587)].
 
 
-## Conclusion
+## Summary
 
 In summary, sharing open data requires;
 
-1) planning for open data including for anonymizing or securing sensitive data where necessary;
+1. planning for open data including for anonymizing or securing sensitive data where necessary;
 
-2) identifying appropriate repository(ies);
+2. identifying appropriate repository(ies);
 
-3) describing the data and data processing steps;
+3. describing the data and data processing steps;
 
-4) ensuring that an appropriate license is assigned to the data;
+4. ensuring that an appropriate license is assigned to the data;
 
-5) citing other data that you use in paper or presentation references and describing access in a data availability statement.  
+5. citing other data that you use in paper or presentation references and describing access in a data availability statement.  
 
 
 ## Assessment
@@ -115,3 +111,17 @@ Assuming that you have a dataset that you want to deposit into a repository and 
 1. Can you find a domain specific repository via [re3data.org](https://www.re3data.org/) or [fairsharing.org](http://fairsharing.org)?
 2. If you want to deposit it into a general repository, which one will you choose and why?
 3. Can you choose a license for your open data? Why would you choose this license?
+
+## References
+1.  https://doi.org/10.5281/zenodo.6532282 
+2. https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-013.html 
+3. https://doi.org/10.3389/fdata.2019.00043
+4. https://opendatacommons.org/licenses/
+5. https://creativecommons.org/about/program-areas/open-data/
+6. https://resources.data.gov/open-licenses/
+7. https://creativecommons.org/publicdomain/zero/1.0/ 
+8. https://senselab.med.yale.edu/ModelDB/
+9. https://jie.yale.edu/datastatements
+10. https://think.f1000research.com/wp-content/uploads/2021/02/F1000Research-Open-Data-How-to-Write-a-Data-Availability-Statement.pdf
+11. https://doi.org/10.5281/zenodo.6505587
+
