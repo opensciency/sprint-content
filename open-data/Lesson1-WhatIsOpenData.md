@@ -1,9 +1,9 @@
 # Lesson 1:  What is Open Data?
 
 
-**Learning objectives:**
-1A.Describe key characteristics of open data
-1B.Categorize types of open data
+**Learning objectives:**  
+- Describe key characteristics of open data  
+- Categorize types of open data  
 
 ## Introduction
 As mentioned earlier, data is a major part of scientific research, and why wouldn’t it be? It is evident that data permeates many aspects of our daily life with significant consequences.
