@@ -1,7 +1,7 @@
 # Lesson 2: Benefits of Open Data
 
 ## Learning Objectives
-- Communicate the benefits and challenges of Open data and it’s effects on science
+- Understand the benefits and challenges of Open Data and its effects on science
 
 ## Introduction
 In this lesson, we’ll discuss the benefits of open data and in particular its direct effect in advancing Open Science. We will also discuss details of how Open Data can impact the response of science in global emergencies, and how Open Data facilitates multidisciplinary work.
