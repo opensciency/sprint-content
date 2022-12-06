@@ -1,7 +1,7 @@
 # Lesson 3: Responsible Open Data
 
 ## Learning Objectives
-- Recognize open data that is created responsibly
+- Recognize Open Data that is created responsibly
 - Understand how to use data responsibly
 
 
