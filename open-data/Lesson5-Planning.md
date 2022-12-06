@@ -1,7 +1,9 @@
 # Lesson 5: Planning for Open Data
 
 ## Learning Objectives
-- Formulate a plan for the data collection / processing process?
+- Understand what the data life cycle is and how that affects the outlook on research.
+- Understand what a Data Managment Plan (DMP) and metadata are.
+- Have an initial grounding on what communities to contact for support in this area.
 
 
 ## Introduction
