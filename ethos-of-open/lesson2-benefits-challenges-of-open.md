@@ -5,12 +5,12 @@
 
 
 
-```
-Introduction 
+
+<h4> Introduction </h4>
 
 In the previous lesson, we learned about foundational concepts that define Open Science. In this lesson, we address some benefits and challenges of working in the open.
 
-Here we aim to present a take on the development of science that's not only focused on scientific results but also on the process of creation, and the stakeholders that constitute the community. 
+Here we aim to present a take on the development of science that's not only focused on scientific results but also on the process of creation, and the stakeholders that constitute the community.
 
 Stakeholders can be individuals producing scientific knowledge (i.e, researchers themselves), individuals consuming, applying and regulating scientific research (i.e., practitioners, general public, policy-makers, organizations, communities, etc.), and the larger scientific ecosystem (i.e., scientific journals, repositories, archives, etc.). We discuss more about the people who perform and benefit from open science - and how to support them - in Lesson 3. 
 
@@ -94,7 +94,7 @@ A further challenge of adopting open science practices are institutional barrier
 While there are many challenges to the adoption of open science, we believe that its various benefits and its ethical imperative to the self and to the scientific communities, citizens and policy-makers outweighs the cost of barriers. In addition, recognising the barriers and places where caution needs to be taken provides a first step towards resolving them. 
 
  
-Summary
+<h4>Summary</h4>
 
 Open Science provides benefits not only to society but also to the individuals who perform it. Walking the line between responsible appropriate sharing and irresponsible oversharing requires diligence but the path and the results of science made in the open are very rewarding to all its stakeholders.
 
