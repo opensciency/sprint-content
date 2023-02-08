@@ -1,1 +1,3 @@
+Introduction
 
+By the end of this module you will be able to describe what Data and Open Data is; explain why Open Data is an enabler of Open Science and why making data open brings huge benefits; demonstrates that while the default for data should be open, this should not be done in all circumstances and data should be made open in a responsible fashion; be able to explain the CARE and FAIR principles, the former being principles associated with indigenous data governance and the latter a set of principles for sharing data effectively; describe how data should be managed so that making the data open can be done as effectively as possible. Finally you will be able to outline practices for Open Data including repositories, licenses and citing data.
