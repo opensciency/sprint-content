@@ -15,7 +15,7 @@ Opensciency is a result of the work of more than 40 open science experts and pra
 
 Shared under the CC-BY 4.0 License, all materials remain open for anyone to build open science curriculums or reuse for other purposes. To credit and cite the material, use the following citation:
 
-(citation from Zenodo to be added after 0.0.0 release)
+The 0.0.0 version release is available at this DOI 10.5281/zenodo.7392119 .
 
 
 We encourage the wider community to reuse the material, and we are especially interested in creative approaches to displaying the material. An example we like is [Elements of AI](https://course.elementsofai.com/).
