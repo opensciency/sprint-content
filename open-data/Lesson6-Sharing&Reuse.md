@@ -188,7 +188,7 @@ While not ideal, datasets are often attached to scholarly publications in the fo
 In addition, there are emerging journals and special collections/issues focused on describing and publishing data (such as Nucleic Acids Research database issues[ https://doi.org/10.1093/nar/gkab1195](https://doi.org/10.1093/nar/gkab1195), Scientific Data, Earth System Science Data - see [The Turing Way for an overview of data journals](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-article.html)). 
 While the datasets are openly available, they are often not properly indexed and therefore not very findable nor machine readable.
 
-Finding academic publications can be a challenge in itself depending on the discipline and field of study. For instance, in life science and biomedical research, there are a number of repositories and search engines (e.g. PubMed, EuropePMC) indexing research outputs (e.g. publications, abstracts, references and communications) from various journals.
+Finding academic publications can be a challenge in itself depending on the discipline and field of study. For life and   biomedical research it is less challenging, since there are a number of repositories and search engines (PubMed, EuropePMC) indexing research outputs from various journals. 
 
 However in other disciplines (e.g. arts and humanities), search is often carried out with general search engines or research databases such as Google Scholar and JSTOR. In that case, it is advisable to reach out to library personnel and community members for further advice on where to find related literature and data, see lesson 5.4 Help section.
 
