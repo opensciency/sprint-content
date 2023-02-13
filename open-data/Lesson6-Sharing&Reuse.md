@@ -137,7 +137,8 @@ Common general repositories include:
 * _[Dryad](https://datadryad.org/stash)_
 
 
-Please refer to the [Generalist Repository Comparison Chart](https://fairsharing.org/collection/GeneralRepositoryComparison) a tool for additional repositories and guidance which can be used to decide where to store and share their FAIR data outside of their institutional repositories. Dataverse has also published a[ comparative review of eight data repositories.](https://dataverse.org/blog/comparative-review-various-data-repositories)
+Please refer to the [Generalist Repository Comparison Chart](https://fairsharing.org/collection/GeneralRepositoryComparison) a tool for additional repositories and guidance. 
+Dataverse has also published a [comparative review of eight data repositories](https://dataverse.org/blog/comparative-review-various-data-repositories).
 
 A final note about choosing a repository – some repositories may charge fees to users who deposit data especially when the number or the volume of data files are substantial. So you should understand if the repository of choice may charge fees to you. Sometimes, repositories may have agreements with organizations to provide free services to users affiliated with these organizations.
 
