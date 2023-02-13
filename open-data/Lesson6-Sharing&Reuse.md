@@ -295,7 +295,7 @@ In summary, sharing Open Data requires;
 
 2. Identifying appropriate repository(ies);
 
-3. describing the data and data processing steps;
+3. Describing the data and data processing steps;
 
 4. Ensuring that an appropriate license is assigned to the data;
 
