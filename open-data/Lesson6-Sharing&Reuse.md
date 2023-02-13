@@ -42,7 +42,7 @@ While not a license per se, international public domain statements like the Crea
 An open license has language that describes the user’s ability to access, reuse and redistribute the dataset. There are many broadly open licenses available to choose from:  
 
 
-* Various flavors of the Creative Commons License [https://creativecommons.org/](https://creativecommons.org/) 
+* Creative Commons License [https://creativecommons.org/](https://creativecommons.org/) 
 
 * The British Open Government License- [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 
