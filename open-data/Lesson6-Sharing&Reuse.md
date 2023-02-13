@@ -203,7 +203,7 @@ In other disciplines (such as arts and humanities), however, search is often car
 
 * EuropePMC Life sciences [https://europepmc.org/](https://europepmc.org/)
 * Pubmed biomedical literature [https://pubmed.ncbi.nlm.nih.gov/](https://pubmed.ncbi.nlm.nih.gov/)
-* arXiv is a free distribution service and an open-access archive for scholarly pre-prints in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics [https://arxiv.org/](https://arxiv.org/)
+* arXiv is a pre-print server for the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics [https://arxiv.org/](https://arxiv.org/)
 * Biorxiv Preprint server for biology [https://www.biorxiv.org/](https://www.biorxiv.org/)
 * EarthArXiv ([https://eartharxiv.org](https://eartharxiv.org)) and Earth and Space Science Open Archive ([https://essoar.org](https://essoar.org))
 * ASAPbio provides a catalog of preprint servers [https://asapbio.org/preprint-servers](https://asapbio.org/preprint-servers)  
