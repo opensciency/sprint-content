@@ -289,7 +289,7 @@ What to look for before deciding on reusing open data:
 
 ## Assessment
 
-Assuming that you have a dataset that you want to deposit into a repository and share it publicly.
+Assuming that you have a dataset that you want to deposit into a repository and share it publicly:
 
 1. Can you find a domain specific repository via [re3data.org](https://www.re3data.org/) or [fairsharing.org](http://fairsharing.org)?
 2. If you want to deposit it into a general repository, which one will you choose and why?
