@@ -99,7 +99,7 @@ It is highly recommended to use domain repositories that are ideal for your type
 
 These are specialized repositories (typically for specific data types) where they provide support and information on required standards for metadata and more.
 
-Examples include: CUAHSI’s HydroShare is a common platform for hydrology data and ModelDB is an open source neuroscience repository for model neurons [[8](https://senselab.med.yale.edu/ModelDB/)].
+Examples include: CUAHSI’s HydroShare, a common platform for hydrology data, and ModelDB, an open source neuroscience repository for model neurons [[8](https://senselab.med.yale.edu/ModelDB/)].
 
 Finding the right repository can be a challenge, however often the best way to find a good fit for your data is to
 
