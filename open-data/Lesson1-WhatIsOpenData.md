@@ -2,8 +2,8 @@
 
 
 **Learning objectives:**  
-- Describe key characteristics of Open Data  
-- Categorize types of Open Data  
+- Describe key characteristics of open data  
+- Categorize types of open data  
 
 ## Introduction
 As mentioned earlier, data is a major part of scientific research, and why wouldn’t it be? It is evident that data permeates many aspects of our daily life with significant consequences.
