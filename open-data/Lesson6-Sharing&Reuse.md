@@ -25,7 +25,7 @@ At the national level, some policies even have the weight of** law** behind them
  ([https://www.congreso.es/public_oficiales/L14/CONG/BOCG/A/BOCG-14-A-92-4.PDF](https://www.congreso.es/public_oficiales/L14/CONG/BOCG/A/BOCG-14-A-92-4.PDF)) and the United States \
 ([https://www.congress.gov/bill/115th-congress/house-bill/4174](https://www.congress.gov/bill/115th-congress/house-bill/4174)) have laws that outline how data generated with governmental funds will be shared.
 
-* At the international level several initiatives and guidelines exist to expand Open Data sharing such as the OECD work on [Enhanced Access to Data and Models ](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0347), UNESCO, and Horizon Europe [[3](https://doi.org/10.3389/fdata.2019.00043)].
+At the international level several initiatives and guidelines exist to expand Open Data sharing such as the OECD work on [Enhanced Access to Data and Models ](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0347), UNESCO, and Horizon Europe [[3](https://doi.org/10.3389/fdata.2019.00043)].
 
 
 ## 6.2 Licenses for Open Data
