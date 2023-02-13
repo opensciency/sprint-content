@@ -145,7 +145,9 @@ You should check if fees apply, or whether there's an agreement in place with yo
 
 ### Web-searches
 
-To explore a wide variety of datasets from projects or popular topics, the use of a more general search engine can be helpful. Some disciplines or large institutions such as NASA and the National Institute of Health’s National Center for Biotechnology Information (NCBI) offer their own portal where you can search for their datasets, related publications and oftentimes tools for analysis (e.g., EMBL's European Bioinformatics Institute[ https://www.ebi.ac.uk/](https://www.ebi.ac.uk/) ). There are also an increasing number of international and national data portals to enable data discoveries.
+To explore a wide variety of datasets from projects or popular topics you can use a general search engine. 
+Some disciplines or large institutions, such as NASA and the National Institute of Health’s National Center for Biotechnology Information (NCBI), offer their own portal where you can search for their datasets, related publications and tools for analysis (for example, [EMBL's European Bioinformatics Institute](https://www.ebi.ac.uk)). 
+There are also an increasing number of international and national data portals to enable data discoveries.
 
 ### **Generic data search portals:**
 
