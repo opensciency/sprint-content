@@ -8,7 +8,7 @@
 
 In addition to the ethical considerations discussed in lessons 3 and 4, Open Data may be subject to strict controls and guidelines for sharing, managing and reusing it. 
 
-This lesson will cover the leading practices for sharing, finding and reusing Open data as part of the Open Science environment. Data sharing and reuse may be limited in various ways. This can include the introduction of partial or total restrictions to address safety concerns, legal rights, ethical principles, protection of community interests and well being (see lesson 4 CARE and FAIR principles), and commercial interests. A well documented dataset will include details on what you are allowed and not allowed to do with the data, and this information is typically outlined in the documents below.
+This lesson will cover the leading practices for sharing, finding and reusing Open Data as part of the Open Science environment. Data sharing and reuse may be limited in various ways. This can include the introduction of partial or total restrictions to address safety concerns, legal rights, ethical principles, protection of community interests and well being (see lesson 4 CARE and FAIR principles), and commercial interests. A well documented dataset will include details on what you are allowed and not allowed to do with the data, and this information is typically outlined in the documents below.
 
 
 ## 6.1 Policies for Responsible Sharing of Open Data
