@@ -230,7 +230,7 @@ Some core descriptors to look for are:
 * What are the communities that have developed around it?
 
 
-Ideally a fully documented Data Reuse plan should accompany the datasets providing detailed information on What, Who, Where, When and How, see also 5.3 Documenting your Data (Metadata)and Data Reuse Planning Template by mozilla open science
+Ideally a fully documented data reuse plan should accompany the datasets providing detailed information on What, Who, Where, When and How. See 5.3 Documenting your Data (Metadata)and Data Reuse Planning Template by Mozilla Open Science.
 
 [https://github.com/mozillascience/working-open-workshop/blob/8931bf19bedb99166b931f82dbd2fba815dc6fe1/handouts/data_reuse_plan_template.md](https://github.com/mozillascience/working-open-workshop/blob/8931bf19bedb99166b931f82dbd2fba815dc6fe1/handouts/data_reuse_plan_template.md)
 
