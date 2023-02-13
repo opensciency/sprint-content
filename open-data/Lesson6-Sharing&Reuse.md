@@ -108,7 +108,7 @@ Often the best way to find a good fit for your data is to:
 * check whether your funder requires/advises the use of specific repositories,
 * check with librarians/research support staff if possible,
 * search for a domain specific repository e.g. : 
-	* [Register of Research Data Repositories](https://www.re3data.org/), a global registry of research data repositories that covers research data repositories from different academic disciplines providing a broad index of repositories and is a good place to start 
+	* [Register of Research Data Repositories](https://www.re3data.org/), a global registry of research data repositories that covers research data repositories from different academic disciplines 
 	* [FAIRsharing](http://fairsharing.org), a resource on data and metadata standards, databases and data policies 
 	* Recommended repositories by publishers (e.g., Recommended Data Repositories suggested by [Scientific Data](https://www.nature.com/sdata/policies/repositories#envgeo) and [PLOS One](https://journals.plos.org/plosone/s/recommended-repositories))
 	* [World Data System](https://www.worlddatasystem.org/) represents a network of repositories.
