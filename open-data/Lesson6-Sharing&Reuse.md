@@ -244,7 +244,11 @@ Note that authors are not obliged to reply to you. You can also ask advice from 
 
 ## Tools
 
-Many of the details here are discussed in the Open Tools lesson. In the first instance in order to ensure that data is being read properly it is useful to check if a previously published analysis of the data can be reproduced. Papers outlining the analysis  should provide some description of the software used and the necessary steps in the analysis. In reproducing such an analysis one can determine if proprietary software is necessary to use the data and if you have all the necessary software or indeed source code to reproduce the results. If the results can be reproduced then you can be more confident in reusing the data. As described above, contacting the authors if there is an issue or likewise contacting communities described in lesson 5 can also help here. 
+Many of the details here are discussed in the Open Tools lesson. 
+To ensure that you can reuse data you can check if a previously published analysis of the data can be reproduced. 
+In reproducing such an analysis one can determine if you have all the necessary software, source code, and documentation needed to reproduce the results. 
+If the results can be reproduced then you can be more confident in reusing the data. 
+As described above, you can contact the authors if there is an issue or contact the communities described in lesson 5. 
 
 ## Data Cleaning
 
