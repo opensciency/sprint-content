@@ -289,7 +289,7 @@ Data cleaning requires significant human intervention (including in some cases s
 Over the present decade, there has been a surge of interest from both industry and academia in Open Data, not only for record keeping but also to support a variety of decision-making tasks. Creating new data is costly and sometimes redundant. Therefore there is an increased emphasis on reuse of Open Data.
 
 
-In summary, sharing open data requires;
+In summary, sharing Open Data requires;
 
 1. planning for open data including for anonymizing or securing sensitive data where necessary;
 
