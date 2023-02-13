@@ -293,7 +293,7 @@ Assuming that you have a dataset that you want to deposit into a repository and 
 
 1. Can you find a domain specific repository via [re3data.org](https://www.re3data.org/) or [fairsharing.org](http://fairsharing.org)?
 2. If you want to deposit it into a general repository, which one will you choose and why?
-3. Can you choose a license for your open data? Why would you choose this license?
+3. Can you choose a license? Why would you choose this license?
 4. What does the license allow reusers to do?
 
 
