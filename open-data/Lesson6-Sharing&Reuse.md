@@ -264,7 +264,7 @@ Data cleaning is important to provide access to accurate and consistent data.
 This is often highlighted in the phrase 'Garbage in-Garbage out', meaning that flawed data (such as duplicated or missing information) will produce incorrect or misleading outputs.
 Data quality can be reduced in several ways, including misspellings or typos during data entry, missing values, mixed formats, replicated entries of the same real-world entity or other invalid data.
 
-This process requires significant human intervention (including in some cases sectoral or community efforts), which may consume time and energy. Anecdotally, preparing data in this fashion can take up to 80% of the time involved in the analysis of data.
+Data cleaning requires significant human intervention (including in some cases sectoral or community efforts), which may consume time and energy. Anecdotally, preparing data in this fashion can take up to 80% of the time involved in the analysis of data.
 
 (Hellerstein, J. M. (2008). Quantitative data cleaning for large databases. United Nations Economic Commission for Europe (UNECE), 25, 1-42. [https://dataresponsibly.github.io/courses/documents/Hellerstein_2008.pdf](https://dataresponsibly.github.io/courses/documents/Hellerstein_2008.pdf)), (Chu, X., Ilyas, I. F., Krishnan, S., & Wang, J. (2016, June). Data cleaning: Overview and emerging challenges. In _Proceedings of the 2016 international conference on management of data_ (pp. 2201-2206. [https://doi.org/10.1145/2882903.2912574](https://doi.org/10.1145/2882903.2912574)).
 
