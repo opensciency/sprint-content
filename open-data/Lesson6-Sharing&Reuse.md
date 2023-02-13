@@ -195,7 +195,7 @@ In other disciplines (such as arts and humanities), however, search is often car
 **Generic:**
 
 * Google Scholar[ https://scholar.google.com](https://scholar.google.com)
-* Open knowledge map: A visual interface allowing the exploration of interconnected topics with relevant documents and concepts.  [https://openknowledgemaps.org/](https://openknowledgemaps.org/)
+* Open knowledge map: A visual interface allowing the exploration of interconnected topics with relevant documents and concepts [https://openknowledgemaps.org/](https://openknowledgemaps.org/)
 * JSTOR a wide range of scholarly content[ https://www.jstor.org/](https://www.jstor.org/)
 * ResearchGate[ https://www.researchgate.net/search](https://www.researchgate.net/search)
 
