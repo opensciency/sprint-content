@@ -297,7 +297,7 @@ In summary, sharing Open Data requires;
 
 3. describing the data and data processing steps;
 
-4. ensuring that an appropriate license is assigned to the data;
+4. Ensuring that an appropriate license is assigned to the data;
 
 5. Citing other data that you use in paper or presentation references and describing access in a Data Access/Availability Statement.  
 
