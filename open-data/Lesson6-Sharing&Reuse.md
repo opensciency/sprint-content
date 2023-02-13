@@ -190,7 +190,7 @@ While the datasets are openly available, they are often not properly indexed and
 
 Finding academic publications can be a challenge in itself depending on the discipline and field of study. For life and   biomedical research it is less challenging, since there are a number of repositories and search engines (PubMed, EuropePMC) indexing research outputs from various journals. 
 
-However in other disciplines (e.g. arts and humanities), search is often carried out with general search engines or research databases such as Google Scholar and JSTOR. In that case, it is advisable to reach out to library personnel and community members for further advice on where to find related literature and data, see lesson 5.4 Help section.
+In other disciplines (such as arts and humanities), however, search is often carried out with general search engines or research databases such as Google Scholar and JSTOR. In that case, it is advisable to reach out to library personnel and community members for further advice on where to find related literature and data. See lesson 5.4 Help section.
 
 **Generic:**
 
