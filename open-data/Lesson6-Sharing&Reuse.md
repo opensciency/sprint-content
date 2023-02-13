@@ -298,7 +298,7 @@ Assuming that you have a dataset that you want to deposit into a repository and 
 
 
 ## References
-1.  https://doi.org/10.5281/zenodo.6532282 
+1. https://doi.org/10.5281/zenodo.6532282 
 2. https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-013.html 
 3. https://doi.org/10.3389/fdata.2019.00043
 4. https://opendatacommons.org/licenses/
