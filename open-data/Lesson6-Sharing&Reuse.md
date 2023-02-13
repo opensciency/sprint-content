@@ -76,7 +76,8 @@ Sharing data relies on clear statements and methods for accessing the data. This
 It can also include clear instructions for downloading, using, sharing and citing the data [[11](https://doi.org/10.5281/zenodo.6505587)]. 
 An example of what to include in a good Availability Statement is available in [[10](https://think.f1000research.com/wp-content/uploads/2021/02/F1000Research-Open-Data-How-to-Write-a-Data-Availability-Statement.pdf)] & [[11](https://doi.org/10.5281/zenodo.6505587)].
 
-In other words, Data Availability/Access Statements, outline the restrictions setup on specific datasets as well as what the users need to provide or abide by in order to gain access to the data. At times you may need to submit a Data Access Request specifying what you intend to do with this data and how you intend to fulfill the requirements as set by the data owner.
+In other words, Data Availability/Access Statements outline the restrictions on specific datasets, as well as what the users need to provide or abide by in order to gain access to the data. 
+At times you may need to submit a Data Access Request specifying what you intend to do with this data and how you intend to fulfil the requirements as set by the data owner.
 
 
 
