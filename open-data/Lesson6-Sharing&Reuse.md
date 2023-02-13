@@ -256,7 +256,9 @@ Data cleaning refers to the preliminary step where the quality of data is assess
 During data cleaning any errors, inconsistencies or formatting issues are detected and resolved prior to using the datasets. 
 Data cleaning also includes making decisions on what to do with missing or incomplete data.
 
-Each research community, either implicitly or explicitly, has its own pipeline for cleaning data, for example how to deal with missing values, normalize data and  so on. Likewise it is important to apply community-based measures of quality. It is therefore advisable to consult with data managers, librarians and other community members for common practices see lesson 5.4 Help.
+Each research community has their own measures of quality and pipelines for cleaning data, with norms established on how to deal with missing values or how to normalize data. 
+It is therefore advisable to consult with data managers, librarians and other community members for common practices. 
+See lesson 5.4 Help.
 
 Data cleaning is important to provide access to accurate and consistent data, this is often highlighted in the phrase Garbage in-Garbage out, meaning that flawed data (e.g. duplicated or missing information) will produce incorrect or misleading outputs (e.g. statistics). Data quality can be reduced in several ways, including misspellings or typos during data entry, missing values, mixed formats, replicated entries of the same real-world entity or other invalid data
 
