@@ -87,7 +87,9 @@ Ideally, you have been planning to share your data from the beginning of your re
 In addition to sharing data, the reusability of openly shared data relies on the prospects of it being found in the first place. 
 The data findability is thus a key step in accessing and utilizing data.  
 
-The most common way to share and find Open Data is through data repositories. Many repositories can help you register your data with a persistent identifier (PID) that is globally unique such as a Digital Object Identifier (DOI) and provide other services (including license selection, citation, metadata guidelines, preservation actions etc..) to make your Open Data FAIR.  Most likely, the first step in finding Open Data related to your field is to identify discipline specific repositories.
+The most common way to share and find Open Data is through data repositories. 
+Many repositories can help you to make the Open Data FAIR (by providing data with a persistent identifier (PID) that is globally unique, such as a Digital Object Identifier (DOI), a license, metadata guidelines, preservation actions and suggested citation).  
+The first step in finding Open Data related to your field is to identify discipline specific repositories.
 
 Depending on your needs, different types of repositories might be a better fit. These types of repositories are briefly summarized here:
 
