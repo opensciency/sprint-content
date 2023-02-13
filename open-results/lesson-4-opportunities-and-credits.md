@@ -2,9 +2,8 @@
 
 ## Introduction
 
-"If I have seen further it is by standing on the shoulders of Giants."
-
-Turnbull, H. W. ed., 1959. The Correspondence of Isaac Newton: 1661–1675, Volume 1, London, UK: Published for the Royal Society at the University Press. p. 416
+> If I have seen further it is by standing on the shoulders of Giants.
+> *Turnbull, H. W. ed., 1959. The Correspondence of Isaac Newton: 1661–1675, Volume 1, London, UK: Published for the Royal Society at the University Press. p. 416*
 
 If you are a researcher, regardless of your career stage, chances are you are not working alone. And even if you are working alone on any given project, your work likely builds on the work of others. And just like that, others after you will build on your work, advancing our understanding of the world and beyond.
 
@@ -44,9 +43,9 @@ We established that _all__contributors to an open result should be acknowledged 
 
 The National Institute of Health (NIH) provides a useful schematic representation to help with the first decision [[reference](https://doi.org/10.1016/B978-0-12-849905-4.00003-4)]:
 
-![](RackMultipart20230213-1-1n0rfh_html_311c1b1a43e57ff2.png)
+![General guide for authorship contributions should be given based on contribution, originality, and active involvement. Authorship and aknoledgement should be decided on case by case basis for all stages of research cycle.](figures/authorship-guide.jpg)
 
-Figure 3: Example authorship guidelines from NIH: [https://oir.nih.gov/system/files/media/file/2021-08/guidelines-authorship\_contributions.pdf](https://oir.nih.gov/system/files/media/file/2021-08/guidelines-authorship_contributions.pdf) (Colbert et al, 2018) DOI: [10.1016/B978-0-12-849905-4.00003-4](https://doi.org/10.1016/B978-0-12-849905-4.00003-4)
+Figure 1: Example authorship guidelines from NIH: [https://oir.nih.gov/system/files/media/file/2021-08/guidelines-authorship\_contributions.pdf](https://oir.nih.gov/system/files/media/file/2021-08/guidelines-authorship_contributions.pdf) (Colbert et al, 2018) DOI: [10.1016/B978-0-12-849905-4.00003-4](https://doi.org/10.1016/B978-0-12-849905-4.00003-4)
 
 Even if guidelines like this one can help establish authorship and contributorship(see others cited below), it is rarely an easy "yes-no" or in this case, "purple and green" decision. The power imbalance between project leads and students, for example, can often mean that members treated unfairly are the contributors with the least power.
 
