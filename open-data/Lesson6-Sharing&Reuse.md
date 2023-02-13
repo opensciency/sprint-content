@@ -184,7 +184,9 @@ There are also an increasing number of international and national data portals t
 
 ### Literature search
 
-While not ideal, datasets are often attached to scholarly publications in the form of supplementary material, or referenced in text where to find them e.g. GitHub repository or personal/institutional websites. In addition, there are emerging journals and special collections/issues focused on describing and publishing data (e.g. Nucleic Acids Research database issues[ https://doi.org/10.1093/nar/gkab1195](https://doi.org/10.1093/nar/gkab1195), Scientific Data, Earth System Science Data, etc.). In other words, while the datasets are openly available in these media, they are not properly indexed and therefore not very findable nor machine readable.
+While not ideal, datasets are often attached to scholarly publications in the form of supplementary material, or places that have no preservation policies for the long term (GitHub repository or personal/institutional websites). 
+In addition, there are emerging journals and special collections/issues focused on describing and publishing data (such as Nucleic Acids Research database issues[ https://doi.org/10.1093/nar/gkab1195](https://doi.org/10.1093/nar/gkab1195), Scientific Data, Earth System Science Data - see [The Turing Way for an overview of data journals](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-article.html)). 
+While the datasets are openly available, they are often not properly indexed and therefore not very findable nor machine readable.
 
 Finding academic publications can be a challenge in itself depending on the discipline and field of study. For instance, in life science and biomedical research, there are a number of repositories and search engines (e.g. PubMed, EuropePMC) indexing research outputs (e.g. publications, abstracts, references and communications) from various journals.
 
