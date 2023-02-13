@@ -157,7 +157,7 @@ There are also an increasing number of international and national data portals t
 * Open Data Network [https://www.opendatanetwork.com/](https://www.opendatanetwork.com/)
 * Awesome Public Datasets[ https://github.com/awesomedata/awesome-public-datasets#readme](https://github.com/awesomedata/awesome-public-datasets#readme)
 
-### **Examples of Discipline specific:**
+### **Examples of Discipline specific data search portals:**
 
 * NASA Earth[ https://www.earthdata.nasa.gov/](https://www.earthdata.nasa.gov/)
 * Cern[ https://opendata.cern.ch/](https://opendata.cern.ch/)
