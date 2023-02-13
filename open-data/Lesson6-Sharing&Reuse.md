@@ -260,7 +260,9 @@ Each research community has their own measures of quality and pipelines for clea
 It is therefore advisable to consult with data managers, librarians and other community members for common practices. 
 See lesson 5.4 Help.
 
-Data cleaning is important to provide access to accurate and consistent data, this is often highlighted in the phrase Garbage in-Garbage out, meaning that flawed data (e.g. duplicated or missing information) will produce incorrect or misleading outputs (e.g. statistics). Data quality can be reduced in several ways, including misspellings or typos during data entry, missing values, mixed formats, replicated entries of the same real-world entity or other invalid data
+Data cleaning is important to provide access to accurate and consistent data. 
+This is often highlighted in the phrase 'Garbage in-Garbage out', meaning that flawed data (such as duplicated or missing information) will produce incorrect or misleading outputs.
+Data quality can be reduced in several ways, including misspellings or typos during data entry, missing values, mixed formats, replicated entries of the same real-world entity or other invalid data.
 
 This process requires significant human intervention (including in some cases sectoral or community efforts), which may consume time and energy. Anecdotally, preparing data in this fashion can take up to 80% of the time involved in the analysis of data.
 
