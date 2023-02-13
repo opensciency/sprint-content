@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "To reference the latest version of the OpenSciency traning modules, please cite it as below."
+authors:
+  - name: "OpenSciency Sprint Content"
+title: "Opensciency - A core open science curriculum by and for the research community."
+version: 0.0.1
+identifiers:
+  - description: The concept DOI for the collection containing all versions of the Citation File Format.
+    type: doi
+    value: "10.5281/zenodo.7392119"
+license: "CC-BY-4.0"
+date-released: "2023-02-15"
+keywords:
+  - training materials
+  - open science
+  - open ethos
+  - open data
+  - open software
+  - open tools
+  - open results
+doi: 10.5281/zenodo.7392119
+references:
+  - type: edited-work
+    authors:
+      - family-names: All contributors
+        given-names: OpenSciency Contributors
+        website: "https://github.com/opensciency/sprint-content"
+    title: OpenSciency
