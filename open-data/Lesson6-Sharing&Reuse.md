@@ -315,7 +315,7 @@ What to look for before deciding on reusing open data:
 6. What file formats is the data in?
 7. Can you open it and use it with available software?
 8. Is all necessary software or source code included and made available?
-9. Do you understand the provenance of the data? I.e. Can you identify who owns this data?
+9. Do you understand the provenance of the data? Can you identify who owns this data?
 10. Can you contact the original authors?
 11. How can you cite the data?
 
