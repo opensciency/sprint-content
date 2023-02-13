@@ -293,7 +293,7 @@ In summary, sharing Open Data requires;
 
 1. Planning for open data;
 
-2. identifying appropriate repository(ies);
+2. Identifying appropriate repository(ies);
 
 3. describing the data and data processing steps;
 
