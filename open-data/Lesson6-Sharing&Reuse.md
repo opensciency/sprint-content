@@ -13,7 +13,7 @@ This lesson will cover the leading practices for sharing, finding and reusing Op
 
 ## 6.1 Policies for Responsible Sharing of Open Data
 
-Policies are not only important for reshaping scientific data sharing practices, but they also remove obstacles allowing the free flow of research data and ideas, to gain maximum return on investments in research. Essentially what policies do is that they set the tone, the new norms, making open and FAIR science = normal science. Policies exist at several levels [[1](https://doi.org/10.5281/zenodo.6532282)]:
+Policies can reshape scientific data sharing practices, stimulating the free flow of research data and ideas. Policies set the tone to make Open and FAIR science the new normal science. Policies exist at several levels [[1](https://doi.org/10.5281/zenodo.6532282)]:
 
 
 * Policies at the institutional level describe how, when and sometimes where and to whom a dataset should be made available. These policies exist to help guide data creators determine the intellectual property rights and responsibilities associated with a given dataset.  
