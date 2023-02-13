@@ -2,7 +2,8 @@
 
 ## Introduction
 
-> If I have seen further it is by standing on the shoulders of Giants.
+> **If I have seen further it is by standing on the shoulders of Giants.**
+> 
 > *Turnbull, H. W. ed., 1959. The Correspondence of Isaac Newton: 1661–1675, Volume 1, London, UK: Published for the Royal Society at the University Press. p. 416*
 
 If you are a researcher, regardless of your career stage, chances are you are not working alone. And even if you are working alone on any given project, your work likely builds on the work of others. And just like that, others after you will build on your work, advancing our understanding of the world and beyond.
