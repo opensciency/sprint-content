@@ -115,7 +115,8 @@ Often the best way to find a good fit for your data is to:
 
 #### Institutional Repositories:
 
-Many universities and organizations support research data and software management aiding their researchers to comply with requirements, and such services are often provided through the library or other research support service groups. Often this is in the form of an institutional repository, or a repository supported by an organization designed to hold the scholarly outputs, including data, of that organization.
+Many universities and organizations support research data and software management aiding their researchers to comply with requirements.
+Such services are often provided through the library or other research support service groups, such as an institutional repository.
 
 
 #### National Repositories:
