@@ -303,7 +303,7 @@ In summary, sharing Open Data requires;
 
 What to look for before deciding on reusing open data:
 1. Find a dataset
-2. Check if you can access it (DAS)
+2. Check if you can access it (information available in the Data Access/Availability Statement)
 3. Check license: Is it fully open or partly open?
 4. What are you allowed to use it for?
 5. Documentation:
