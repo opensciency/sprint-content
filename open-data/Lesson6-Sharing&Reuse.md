@@ -33,7 +33,11 @@ A license is a legal document that tells users how they can use the dataset assi
 
 It is equally important to recognize that a dataset without a license does not mean that the data is open; in fact, using a licenseless dataset is not ethical. Contacting the author and getting explicit permission (while suggesting they apply a license) is the best path forward. 
 
-In other instances, understanding when and where the license applies is crucial, for example, data created using US Gov public research funds is, by default, in the Public Domain. However, that only applies to the jurisdiction of the United States [[6](https://resources.data.gov/open-licenses/)]. In order for this to apply internationally, data creators need to select an open license such as Creative Commons Zero (CCO). While not a license per se, international public domain statements like the Creative Commons Zero (CC0) [[7](https://creativecommons.org/publicdomain/zero/1.0/)] are also open and considered appropriate for many datasets.
+In other instances, understanding when and where the license applies is crucial. 
+For example, data created using US Government public research funds is, by default, in the Public Domain. 
+However, that only applies to the jurisdiction of the United States [[6](https://resources.data.gov/open-licenses/)]. 
+In order for this to apply internationally, data creators need to select an open license such as Creative Commons Zero (CC0). 
+While not a license per se, international public domain statements like the Creative Commons Zero (CC0) [[7](https://creativecommons.org/publicdomain/zero/1.0/)] are also open and considered appropriate for many datasets.
 
 An open license has language that describes the user’s ability to access, reuse and redistribute the dataset. There are many broadly open licenses available to choose from:  
 
