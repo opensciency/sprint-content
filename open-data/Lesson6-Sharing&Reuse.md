@@ -265,7 +265,7 @@ In summary, sharing open data requires;
 
 4. ensuring that an appropriate license is assigned to the data;
 
-5. citing other data that you use in paper or presentation references and describing access in a data availability statement.  
+5. Citing other data that you use in paper or presentation references and describing access in a Data Access/Availability Statement.  
 
 What to look for before deciding on reusing open data:
 1. Find a dataset
