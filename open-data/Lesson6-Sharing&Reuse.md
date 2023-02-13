@@ -239,7 +239,8 @@ As noted previously, the format of data is key for its interoperability. Data fo
 
 The format of a file should be described in the metadata associated with the data set. If metadata is not available then inspecting the file name (the postfix to the file name that comes after the period) can give an indication of what the file type is. Opening the file with software for a specific data format provides a similar test.
 
-If the format isn’t clear or is using a closed format where there isn’t software to access the data it is worth contacting the authors of the data set to see if they can help though the authors are not obliged to reply to you. Reaching out to the communities outlined in lesson 5 can also provide advice.
+If the format isn’t clear or is using a closed format where there isn’t software to access the data it is worth contacting the authors of the data set to see if they can help. 
+Note that authors are not obliged to reply to you. You can also ask advice from the communities outlined in Lesson 5.
 
 ## Tools
 
