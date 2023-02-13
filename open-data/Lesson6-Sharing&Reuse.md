@@ -58,7 +58,8 @@ More information on licenses, and copyright can be found at:
 In general, it is recommended to use the most open license possible (CC-0 or CC-BY-4) to enable Open Data. 
 However, before choosing a license it is a best practice to check with one’s institution to see if there is a standard license that one should use.
 
-Keep in mind that regardless of which license is chosen, reference or use of someone else’s work must be attributed properly, more on that in the next section.  
+Keep in mind that regardless of which license is chosen, reference or use of someone else’s work must be attributed properly.
+More on that in the next section.  
 
 
 ## 6.3 Citations and Acknowledgements
