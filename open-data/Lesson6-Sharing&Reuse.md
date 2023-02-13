@@ -53,7 +53,7 @@ More information on licenses, and copyright can be found at:
 * Digital Curation Center, DCC ([https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-13000doc](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-13000doc)) 
 
 * Open Data Commons (https://opendatacommons.org/licenses/),[5](https://creativecommons.org/about/program-areas/open-data/)].
-
+* The Turing Way  [https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html)
 
 In general, it is recommended that the most open license possible is used to enable open data sharing e.g. a Creative Commons CC-0 (waiver of usage restriction), or CC-BY-4 (requires attribution). However, before choosing a license it is a best practice to check with one’s institution to see if there is a standard license that one should use.
 
