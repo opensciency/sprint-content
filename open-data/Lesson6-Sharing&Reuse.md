@@ -101,7 +101,8 @@ These are specialized repositories (typically for specific data types) where the
 
 Examples include: CUAHSI’s HydroShare, a common platform for hydrology data, and ModelDB, an open source neuroscience repository for model neurons [[8](https://senselab.med.yale.edu/ModelDB/)].
 
-Finding the right repository can be a challenge, however often the best way to find a good fit for your data is to
+Finding the right repository can be a challenge.
+Often the best way to find a good fit for your data is to:
 
 * consider where you/your community members would normally search for data,
 * check whether your funder requires/advises the use of specific repositories,
