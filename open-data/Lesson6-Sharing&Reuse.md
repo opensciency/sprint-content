@@ -41,7 +41,6 @@ While not a license per se, international public domain statements like the Crea
 
 An open license has language that describes the user’s ability to access, reuse and redistribute the dataset. There are many broadly open licenses available to choose from:  
 
-* Turingway  [https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html)
 
 * Various flavors of the Creative Commons License [https://creativecommons.org/](https://creativecommons.org/) 
 
