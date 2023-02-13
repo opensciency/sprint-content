@@ -172,7 +172,7 @@ There are also an increasing number of international and national data portals t
 * NASA Planetary Data System [https://pds.nasa.gov/](https://pds.nasa.gov/)
 
 
-### **Examples of National or international data portal**
+### **Examples of National or International data search portals**
 
 * US Federal data[ https://data.gov/](https://data.gov/)
 * EU Data Portal[ https://data.europa.eu/en](https://data.europa.eu/en)
