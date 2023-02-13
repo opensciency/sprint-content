@@ -237,7 +237,7 @@ Ideally a fully documented data reuse plan should accompany the datasets providi
 ## Formats
 As noted previously, the format of data is key for its interoperability. Data formats are in two classes. Closed, proprietary formats are those where the specification for the way the data is stored is not publicly available and hence is tied explicitly to the software (or hardware) developed by an organization. Open formats have a specification that is available to all (though some may be proprietary and hence subject to conditions that will vary on the license terms applied to them).  Open data formats are cataloged in FAIRsharing.org.
 
-The format of a file should be described in the metadata associated with the data set. If metadata is not available then inspecting the file name (i.e. the postfix to the file name that comes after the period) can give an indication of what the file type is. Opening the file with software for a specific data format provides a similar test.
+The format of a file should be described in the metadata associated with the data set. If metadata is not available then inspecting the file name (the postfix to the file name that comes after the period) can give an indication of what the file type is. Opening the file with software for a specific data format provides a similar test.
 
 If the format isn’t clear or is using a closed format where there isn’t software to access the data it is worth contacting the authors of the data set to see if they can help though the authors are not obliged to reply to you. Reaching out to the communities outlined in lesson 5 can also provide advice.
 
