@@ -252,7 +252,9 @@ As described above, you can contact the authors if there is an issue or contact 
 
 ## Data Cleaning
 
-Data cleaning refers to the preliminary step where the quality of data is assessed and any errors, inconsistencies or formatting issues are detected and resolved prior to using the datasets. It also includes making decisions on what to do with missing or incomplete data.
+Data cleaning refers to the preliminary step where the quality of data is assessed. 
+During data cleaning any errors, inconsistencies or formatting issues are detected and resolved prior to using the datasets. 
+Data cleaning also includes making decisions on what to do with missing or incomplete data.
 
 Each research community, either implicitly or explicitly, has its own pipeline for cleaning data, for example how to deal with missing values, normalize data and  so on. Likewise it is important to apply community-based measures of quality. It is therefore advisable to consult with data managers, librarians and other community members for common practices see lesson 5.4 Help.
 
