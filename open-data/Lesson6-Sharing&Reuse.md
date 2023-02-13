@@ -121,7 +121,9 @@ Such services are often provided through the library or other research support s
 
 #### National Repositories:
 
-In certain contexts, national funders will instruct authors to use their National Repositories for data and/or software preservation. These repositories are often used to archive and preserve data and other digital objects that are funded by governmental funding but may also be open to general data and digital objects. One example is the UK Data Services ([https://ukdataservice.ac.uk/](https://ukdataservice.ac.uk/)), which is a UK funded research infrastructure to support curation and access to social science data.
+In certain contexts, national funders will instruct authors to use their national repositories for data and/or software preservation. 
+These repositories are often used to archive and preserve data and other digital objects that are funded by governmental funding. These repositories may be open to general data and digital objects. 
+One example is the UK Data Services ([https://ukdataservice.ac.uk/](https://ukdataservice.ac.uk/)), which is a UK funded research infrastructure to support curation and access to social science data.
 
 
 #### General Repositories:
