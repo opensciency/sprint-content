@@ -214,7 +214,8 @@ Data reuse is contingent on a number of factors including quality of data, acces
 
 ### Documentation
 
-Dataset discovery relies on the quality of documentation associated with the datasets, i.e. metadata.  Search engines rely on key information about the datasets which allows them to be indexed and searched,  more on this [https://www.blog.google/products/search/making-it-easier-discover-datasets/](https://www.blog.google/products/search/making-it-easier-discover-datasets/)
+Dataset discovery relies on the quality of documentation and metadata (see lesson 1. What is Open Data) associated with the datasets. 
+Search engines rely on [key information about the datasets which allows them to be indexed and searched](https://www.blog.google/products/search/making-it-easier-discover-datasets/).
 
 No matter how comprehensive the data is, a general rule of thumb is that you should be able to understand what the dataset is about, what is the stage of the data, and what to expect before downloading and processing it.
 
