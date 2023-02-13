@@ -30,7 +30,7 @@ Ultimately, there are three guiding principles for ROs [[reference](https://the-
 2. Data aggregation - Using a method to aggregate all outcomes so that they are discoverable and hence allow anyone to investigate and reproduce the research.
 3. Annotation - Use rich machine-readable metadata (discussed in open data) that help ensure the findability and accessibility of all scientific work.
 
-![This image shows how research objects evolve and grow in content during the collaboration process and how new research objects can be derived from existing ones.](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/figures/research-object.jpg?raw=true)
+![This image shows how research objects evolve and grow in content during the collaboration process and how new research objects can be derived from existing ones.](figures/research-object.jpg)
 
 Figure 1: _Research Objects allow working open by design and share during the research process and not only the research outputs at the end. The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI:_[_10.5281/zenodo.3332807_](https://doi.org/10.5281/zenodo.3332807)_._
 
@@ -44,7 +44,7 @@ In previous modules, we have learned the fundamentals and practical concepts for
 
 Many of us might be very familiar with the research life cycle but may not have considered what results could be shared openly throughout the process.
 
-![The research process is represented as a perpetual cycle of generating research ideas, performing data planning and design, data collection, and data processing and analysis, publishing, preserving and hence, allowing re-use of data.](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/figures/research-cycle.jpg?raw=true)
+![The research process is represented as a perpetual cycle of generating research ideas, performing data planning and design, data collection, and data processing and analysis, publishing, preserving and hence, allowing re-use of data.](figures/research-cycle.jpg)
 
 Figure 2: _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI:[10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 
