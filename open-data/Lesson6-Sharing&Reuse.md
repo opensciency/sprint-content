@@ -291,7 +291,7 @@ Over the present decade, there has been a surge of interest from both industry a
 
 In summary, sharing Open Data requires;
 
-1. planning for open data including for anonymizing or securing sensitive data where necessary;
+1. Planning for open data;
 
 2. identifying appropriate repository(ies);
 
