@@ -17,7 +17,7 @@ A **Research Object (RO)** is a method for the identification, aggregation and e
 
 A **research-relevant "digital" research object** consists of any "_metadata, algorithms, workflows, models, and software (including code) resulting from research that is partially or fully funded by public funds, which are used in a research and development context._"
 
-Research Objects are often given an identifier. In this way, there is a mechanism to trace back related resources about a scientific investigation. The most important aspects to consider about RO's:
+Research Objects are often given an identifier. In this way, there is a mechanism to trace back related resources about a scientific investigation. The most important aspects to consider about ROs:
 
 - They are not only associated with the end products as publications and final reports but also encompass research outputs created, revised and shared throughout the research lifecycle that help validate findings claimed in scholarly publications. More simply, ROs apply to any "single information unit" or research material that can be **shared and cited** with other scientists within and outside the project.
 - Motivation behind RO is the need to identify and share all components such as data, source code, tools, and method documentation, as well as communication materials such as presentations, videos, blogs and other tangible outcomes.
@@ -30,9 +30,9 @@ Ultimately, there are three guiding principles for ROs [[reference](https://the-
 2. Data aggregation - Using a method to aggregate all outcomes so that they are discoverable and hence allow anyone to investigate and reproduce the research.
 3. Annotation - Use rich machine-readable metadata (discussed in open data) that help ensure the findability and accessibility of all scientific work.
 
-![](RackMultipart20230213-1-1n0rfh_html_79a915b57a942326.png)
+![This image shows how research objects evolve and grow in content during the collaboration process and how new research objects can be derived from existing ones.](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/figures/research-object.jpg?raw=true)
 
-Figure 2: _Research Objects allow working open by design and share during the research process and not only the research outputs at the end. The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI:_[_10.5281/zenodo.3332807_](https://doi.org/10.5281/zenodo.3332807)_._
+Figure 1: _Research Objects allow working open by design and share during the research process and not only the research outputs at the end. The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI:_[_10.5281/zenodo.3332807_](https://doi.org/10.5281/zenodo.3332807)_._
 
 Following from these we can now build a definition for an **Open Result.**
 
@@ -42,11 +42,11 @@ An **Open Result** is all the research outcomes, including successful products, 
 
 In previous modules, we have learned the fundamentals and practical concepts for planning our research for open science. Specifically, in the Ethos of Open Science [addlink-ethos] module, we learned that open science should be considered throughout the research process, and not just at the time of publication. With this understanding, when considering shareable research outputs, it is important to think about the entire research life cycle – different tasks carried out during the life cycle of a research project.
 
-Many of us might be very familiar with the research life cycle, but may not have considered what results could be shared openly throughout the process.
+Many of us might be very familiar with the research life cycle but may not have considered what results could be shared openly throughout the process.
 
-![](RackMultipart20230213-1-1n0rfh_html_30978773ee7c2acb.png)
+![The research process is represented as a perpetual cycle of generating research ideas, performing data planning and design, data collection, and data processing and analysis, publishing, preserving and hence, allowing re-use of data.](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/figures/research-cycle.jpg?raw=true)
 
-Figure 1: _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI:[10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+Figure 2: _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI:[10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 
 There are many ways to describe a research life cycle, but in this lesson, we define it in _nine_ distinct phases based on Figure 1 [_The Turing Way_](https://the-turing-way.netlify.app/reproducible-research/overview.html) that builds on various published examples.
 
@@ -68,7 +68,7 @@ In this stage data collection (from publicly available databases or resources) o
 
 ### Data Wrangling and Processing
 
-At this stage, we use existing software or write custom code in order to process the data that has been collected. See Open Software [addlink-software].
+At this stage, we use existing software or write custom code to process the data that has been collected. See Open Software [addlink-software].
 
 ### Data Exploration and Statistical Analysis
 
@@ -76,7 +76,7 @@ At this stage, we combine the workflows from Stages 4 and 5 and begin using our 
 
 ### Reporting
 
-Here we report on our findings, in other words, we share them with the research community. This can be done in the form of a research manuscript first published on a preprint server and on a peer-reviewed journal. However, reporting now far exceeds publication alone. Reporting also encompasses presentation materials (such as posters, and slide decks), lab websites or blogs, outreach materials for social media, podcasts or press releases, and many more.
+Here we report on our findings, in other words, we share them with the research community. This can be done in the form of a research manuscript first published on a preprint server and in a peer-reviewed journal. However, reporting now far exceeds publication alone. Reporting also encompasses presentation materials (such as posters, and slide decks), lab websites or blogs, outreach materials for social media, podcasts or press releases, and many more.
 
 ### Preservation and Reuse
 
@@ -124,7 +124,7 @@ Provide an empty version of the "research stages and open result table" table to
 
 ## Conclusion
 
-The research consists of many different stages, each with a number of important tasks. In the early stages, we deal with Conceptualization and Planning. This can include a number of different things - depending on the project - but typically involves the development of a study protocol, research questions, and other study materials. Next, comes Project Design. In this stage, we often focus on developing a study timeline (or roadmap), assigning different roles to project team members, creating data and metadata management plans, and planning for data collection, management, and security. Next, is the active responsibility for Data Collection. Taking a step back from a project can help us establish an understanding of this multifaceted process and give us an appreciation of all the important elements (and people) involved in bringing a project or study from conceptualization through to completion and dissemination. In the next lesson, we will consider the advantages - for ourselves and the broader scientific community - of making our results open and transparent. In doing so, we will explore best practices for transforming our work from closed to open.
+The research consists of many different stages, each with several important tasks. In the early stages, we deal with Conceptualization and Planning. This can include a number of different things - depending on the project - but typically involves the development of a study protocol, research questions, and other study materials. Next, comes Project Design. In this stage, we often focus on developing a study timeline (or roadmap), assigning different roles to project team members, creating data and metadata management plans, and planning for data collection, management, and security. Next, is the active responsibility for Data Collection. Taking a step back from a project can help us establish an understanding of this multifaceted process and give us an appreciation of all the important elements (and people) involved in bringing a project or study from conceptualization through to completion and dissemination. In the next lesson, we will consider the advantages - for ourselves and the broader scientific community - of making our results open and transparent. In doing so, we will explore best practices for transforming our work from closed to open.
 
 ## References
 
