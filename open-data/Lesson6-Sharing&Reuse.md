@@ -70,7 +70,7 @@ Further, data citation aids transparency and allows the original authors and new
 
 Use of standard citation practices are recommended to ensure due credit is given.
 See [The Turing Way for more information about citation](https://the-turing-way.netlify.app/communication/citable/citable-cite.html).
-## 6.4 Data Access/Data Availability Statements
+## 6.4 Data Access/Availability Statements
 
 Sharing data relies on clear statements and methods for accessing the data. This is typically indicated in the Data Availability/Access Statement which includes elements such as; DOI or identifier for the data and citation to the correct references [[9](https://jie.yale.edu/datastatements)], [[10](https://think.f1000research.com/wp-content/uploads/2021/02/F1000Research-Open-Data-How-to-Write-a-Data-Availability-Statement.pdf)] and clear instructions for downloading, using, sharing and citing the data [[11](https://doi.org/10.5281/zenodo.6505587)].  An example of what to include in a good DAS is available in [[10](https://think.f1000research.com/wp-content/uploads/2021/02/F1000Research-Open-Data-How-to-Write-a-Data-Availability-Statement.pdf)] & [[11](https://doi.org/10.5281/zenodo.6505587)].
 
