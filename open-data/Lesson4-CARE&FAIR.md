@@ -1,6 +1,6 @@
 # Lesson 4: CARE & FAIR Principles
 ## Learning Objectives
-- Understanding the relationship between FAIR, CARE and Open Data
+- Recognise the relationship between FAIR, CARE and Open Data
 
 
 ## Introduction
