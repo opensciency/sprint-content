@@ -27,9 +27,7 @@ These policies exist to help guide data creators determine the intellectual prop
 A major driver of open data policies are **funders**. Funders can require data management plans (lesson 5) or Open Data for the projects that they fund. Non-compliance could affect later grant funding. 
 For example, the US National Institutes of Health requires that sharing plans are indicated early on in the data management plan during the application stage [[2](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-013.html)].
 
-At the national level, some policies even have the weight of** law** behind them. For example both Spain \
- ([https://www.congreso.es/public_oficiales/L14/CONG/BOCG/A/BOCG-14-A-92-4.PDF](https://www.congreso.es/public_oficiales/L14/CONG/BOCG/A/BOCG-14-A-92-4.PDF)) and the United States \
-([https://www.congress.gov/bill/115th-congress/house-bill/4174](https://www.congress.gov/bill/115th-congress/house-bill/4174)) have laws that outline how data generated with governmental funds will be shared.
+At the national level, some policies even have the weight of **law** behind them. For example both Spain ([https://www.congreso.es/public_oficiales/L14/CONG/BOCG/A/BOCG-14-A-92-4.PDF](https://www.congreso.es/public_oficiales/L14/CONG/BOCG/A/BOCG-14-A-92-4.PDF)) and the United States ([https://www.congress.gov/bill/115th-congress/house-bill/4174](https://www.congress.gov/bill/115th-congress/house-bill/4174)) have laws that outline how data generated with governmental funds will be shared.
 
 At the international level several initiatives and guidelines exist to expand Open Data sharing such as the OECD work on [Enhanced Access to Data and Models ](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0347), UNESCO, and Horizon Europe [[3](https://doi.org/10.3389/fdata.2019.00043)].
 
