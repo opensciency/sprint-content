@@ -46,11 +46,9 @@ Many countries in Asia, Africa and Latin America face many challenges, including
 
 The reasons for falling behind are lack of funding, poor infrastructure, inadequate access to research resources. There are government policies, which want greater productivity at the expense of quality. The open science collaborations can bridge the gap for developing countries by providing new ways and provide researchers access that might be currently out of reach (Onie, S. 2020). 
 
-<div class="info"> 
-<h5>Equitable terminology: what words should we use?<h5>
+##### Equitable terminology: what words should we use?
 
 When talking about equity from a global perspective, it can be very hard to choose appropriate language, and historically many phrases have come and gone as we learn more equitable ways to communicate. Common phrases you may see include "Higher Income Country" and "Lower or Middle Income Country". These are terms defined by the World Bank. Some people prefer to use "Global North" when referring to more privileged / high income countries, and "Global South" for lower income / more exploited and marginalized countries - but some "Global South" countries are in the northern hemisphere, and vice versa! Other times, people use "minority" and "majority", but again sometimes the phrase "minority" might be used for a populace that is not actually a minority! An older phrase is "first world country" or "third world country".  Many of these terms also have accidental or intentional negative connotations. For this module, we aim to use the phrases "marginalized" and "privileged" when referring to the inequitable distributions of resources and power amongst humanity. 
-</div>
 
 The Global North have ascendency over authorship and synergies in research networks, which margins out the Global South (Cash-Gibson L et al 2018). 
 
