@@ -45,7 +45,7 @@ PREreview, Code for Science & Society
 [https://twitter.com/Neurosarda](https://twitter.com/Neurosarda)  
   
 __Sharan, Malvika__  
-Open Life Sciences and The Alan Turing Institute  
+The Alan Turing Institute and Open Life Sciences
 [https://orcid.org/0000-0001-6619-7369](https://orcid.org/0000-0001-6619-7369)  
 [https://github.com/malvikasharan](https://github.com/malvikasharan)  
 [https://twitter.com/malvikasharan](https://twitter.com/malvikasharan)	  
