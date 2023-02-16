@@ -2,6 +2,8 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7392118.svg)](https://doi.org/10.5281/zenodo.7392118)
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 Opensciency is core open science curriculum material, drafted to introduce those beginning their open science journey to important definitions, tools, and resources; and provide for participants at all levels recommended practices. The material is made available under a [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/) license and is structured into five modules:
 
@@ -11,20 +13,22 @@ Opensciency is core open science curriculum material, drafted to introduce those
 - Open Software
 - Open Results
 
+## Citation
+
+**The latest release version can be found at this DOI 10.5281/zenodo.7392118.**
+
+To credit and cite the material, use the following citation - where possible, please include all authors name as listed in the [CITATION file](https://github.com/opensciency/sprint-content/blob/main/CITATION.cff):
+> OpenSciency Contributors (2022, December 2). Opensciency - A core open science curriculum by and for the research community. Zenodo. https://doi.org/10.5281/zenodo.7392119
+
+Shared under the CC-BY 4.0 License, all materials remain open for anyone to build open science curriculums or reuse for other purposes. Please include all author names where possible from the GitHub README contributors table.
+
+## Details
+
 Opensciency is a result of the work of more than 40 open science experts and practitioners from across the world and from different disciplines. The first draft of the curriculum material was developed from [June 27 - July 1, 2022](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/OpenCore_leads.md) as part of the Transform to Open Science (TOPS) [OpenCore](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore) sprint. More information about the NASA TOPS initiative is available via their [website](https://science.nasa.gov/open-science/transform-to-open-science). After the TOPS Community Panel on  [October 6, 2022](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Panels/20221005_community_panel.md), the original contributors created the Opensciency repository to allow all contributors to further engage with the curriculum and invite review on the initial draft material from the wider research community. 
-
-Shared under the CC-BY 4.0 License, all materials remain open for anyone to build open science curriculums or reuse for other purposes. To credit and cite the material, use the following citation:
-
-The 0.0.0 version release is available at this DOI 10.5281/zenodo.7392119 .
-
 
 We encourage the wider community to reuse the material, and we are especially interested in creative approaches to displaying the material. An example we like is [Elements of AI](https://course.elementsofai.com/).
 
 Let us know if you have a creative approach to displaying and reusing the material by [submitting an issue](https://github.com/opensciency/sprint-content/issues).
-
-
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 ## Contributors ✨
 
