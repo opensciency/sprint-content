@@ -24,7 +24,7 @@ references:
     authors:
       - family-names: Contributors
         given-names: OpenSciency
-        orcid: 
+        website: https://github.com/opensciency/sprint-content 
       - family-names:  Almarzouq
         given-names: Batool 
         orcid: https://orcid.org/0000-0002-3905-2751
