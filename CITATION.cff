@@ -3,7 +3,7 @@ message: "To reference the latest version of the OpenSciency traning modules, pl
 authors:
   - name: "OpenSciency Sprint Content"
 title: "Opensciency - A core open science curriculum by and for the research community."
-version: 0.0.1
+version: 0.0.0
 identifiers:
   - description: The concept DOI for the collection containing all versions of the Citation File Format.
     type: doi
