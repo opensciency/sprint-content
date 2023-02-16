@@ -1,0 +1,22 @@
+{
+  "creators": [
+    {
+      "name": "OpenSciency Sprint Content"
+    }
+  ],
+  "keywords": [
+    "training materials",
+    "open science",
+    "open ethos",
+    "open data",
+    "open software",
+    "open tools",
+    "open results"
+  ],
+  "license": {
+    "id": "CC-BY-4.0"
+  },
+  "publication_date": "2023-02-15",
+  "title": "Opensciency - A core open science curriculum by and for the research community.",
+  "version": "0.0.0"
+}
