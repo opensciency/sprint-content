@@ -62,28 +62,30 @@ In this complex context, we can draw on a few definitions of <em>Open Science</e
     “Open science is [...] an inclusive construct that combines various movements and practices aiming to make multilingual  scientific  knowledge  openly  available, accessible and  reusable for everyone, to increase scientific collaborations and sharing of information for the benefits of science and society, and to open the processes of scientific knowledge creation, evaluation and communication to societal actors beyond the traditional scientific community. It comprises all scientific disciplines and aspects of scholarly practices, including basic and applied sciences, natural and social sciences and the humanities, and it builds on the following key pillars: open scientific knowledge, open science infrastructures, science communication, open engagement of societal actors and open dialogue with other knowledge systems (UNESCO, <a href="https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en">2021</a>).
 <p>
 Globally, Open Science is being valued and given importance as it recognizes disparities and regional differences, providing a framework to handle challenges and contribute to minimize  knowledge, technological and digital differences between countries. For instance, when different researchers from across the globe are invited to research collaboratively, trust and novelty increases and as a result it improves quality, efficacy and responsiveness in research as being the benefits of Open Science.
-<p>
--- >Extra call-out box: (I don’t know what the right word for it is)
+
+<div class="info">
 <p>
 Here are some other definitions of Open Science. Are there any more you would add? 
 <p>
 <em>Open Science is a practice for increasing the accessibility and transparency of scientific research. The concept of Open Science is built around shared principles such as inclusion, fairness, equity, & sharing (Zee & Reich, <a href="https://doi.org/10.1177/2332858418787466">2018</a>).</em>
 <p>
 <em>An umbrella term reflecting the idea that scientific knowledge of all kinds, where appropriate, should be openly accessible, transparent, rigorous, reproducible, replicable, accumulative, and inclusive, all which are considered fundamental features of the scientific endeavor. Open science consists of principles and behaviors that promote transparent, credible, reproducible, and accessible science. Open science has six major aspects: open data, open methodology, open source, open access, open peer review, and open educational resources. (FORRT open science glossary, <a href="https://forrt.org/glossary/open-science/">https://forrt.org/glossary/open-science/</a>)</em>
+</div>
+
+
 <h4>Open Science aspects</h4>
 
 
 <p>
 Open science has various components: open access, open access journals, open peer review, open research data, open source, open science policies, with use of open licensing, open software for reproducible research, among others (Open Science Basics, retrieved from <a href="https://open-science-training-handbook.gitbook.io/book/open-science-basics">https://open-science-training-handbook.gitbook.io/book/open-science-basics</a>, 2022).
 <p>
-The below image from Robinson (<a href="https://osaos.codeforscience.org/what-is-open/">2018</a>) captures some of the components of open science, although the list differs depending on who you ask<strong> </strong>(see Pontika et al., <a href="http://dx.doi.org/doi:10.1145/2809563.2809571">2015</a>).
+The below image from Robinson (<a href="https://osaos.codeforscience.org/what-is-open/">2018</a>) captures some of the components of open science, although the list differs depending on who you ask (see Pontika et al., <a href="http://dx.doi.org/doi:10.1145/2809563.2809571">2015</a>).
 <p>
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
+<img src="https://osaos.codeforscience.org/content/images/2018/12/Umbrella-6.jpg" width="" alt="Open Sholarship umbrella contains Open Educational resources, EDI, community science, open data, open science, open access, open source.">
 
 <p>
    (Image from Robinson, <a href="https://osaos.codeforscience.org/what-is-open/">2018</a>; needs adapting in light of the list below)
@@ -114,12 +116,7 @@ The below image from Robinson (<a href="https://osaos.codeforscience.org/what-is
 It is important to note that there is no one unique way of practicing or conducting open science. The outlined categories show us the diversity of practices involved in open science. Research has also shown that there are at least five schools of thought in open science, each one holding different assumptions and striving for different goals (Fecher & Friesike, <a href="https://doi.org/10.1007/978-3-319-00026-8_2">2013</a>):
 <p>
 
-    
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
+<img src="img/image2_5_schools_of_open_science.png" alt="Five chools of open science: infrastructure, pragmatic, democrratic, measurement, public school. Visit the paper for more details on each.">
 
 <p>
 Diverse practices, assumptions and goals are  just part of the complexity of open science. There are also divergent moral principles guiding open science communities. Such principles are captured in 📖<em>codes of conduct</em>📖. A code of conduct is a community governance mechanism that outlines the principles and practices expected of a given research community’s members, as well as the process for investigating and reprimanding those in violation of the code.
@@ -216,13 +213,11 @@ Further reading on terms and definitions:
 </table>
 
 
-Questions/Reflection:
+#### Questions/Reflection:
 
+##### Questions for students of the course:
+- How has research practice changed over the past few decades ?
+- As a researcher how do different components of responsible Open Science transform knowledge contribution?
+- We learned that there is "no one ethos" in this lesson. Can you explain what this means, and why? 
 
-```
-Questions for students of the course:
-How has research practice changed over the past few decades ?
-As a researcher how do different components of responsible Open Science transform knowledge contribution?
-We learned that there is "no one ethos" in this lesson. Can you explain what this means, and why? 
-```
 
