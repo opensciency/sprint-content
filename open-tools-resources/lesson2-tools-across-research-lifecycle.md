@@ -1,3 +1,20 @@
+## Lesson 2: **Open Science tools across the research lifecycle**
+
+* Open Science tools for protocols
+* Open Science tools for data
+    * Tools for Data Management Plans
+    * Sharing data with your (research) team
+    * Data repositories
+* Open Science tools for code
+    * Collaborative development tools
+    * Code repositories
+* Open Science tools for results
+* Open Science tools for authoring
+    * Collaborative writing tools
+    * Reference management tools
+    * Publishing Open Science and Open Access
+   
+
 # Lesson 2: Open Science Tools across the Research Lifecycle
 
 In the first lesson, we briefly defined Open Science tools, distinguished open from closed tools, and highlighted the advantages of Open Science tools. We also gave a brief introduction to the Research Lifecycle, and discussed how open tools fit in this workflow. In this second lesson, we’ll highlight a few key tools for each aspect of the research lifecycle. 
