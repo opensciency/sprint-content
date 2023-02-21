@@ -28,7 +28,7 @@ Opensciency is a result of the work of more than 40 open science experts and pra
 
 We encourage the wider community to reuse the material, and we are especially interested in creative approaches to displaying the material. An example we like is [Elements of AI](https://course.elementsofai.com/).
 
-Let us know if you have a creative approach to displaying and reusing the material by [submitting an issue](https://github.com/opensciency/sprint-content/issues). PLease provide your contact details so we can add you to the contributors list.
+Let us know if you have a creative approach to displaying and reusing the material by [submitting an issue](https://github.com/opensciency/sprint-content/issues). Please provide your contact details so we can add you to the contributors list.
 
 ## Contributors ✨
 
