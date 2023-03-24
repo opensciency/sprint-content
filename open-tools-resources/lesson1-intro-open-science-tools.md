@@ -74,9 +74,9 @@ The 🔗Open Results🔗 module introduced you to the definitions and nine stage
 
 There is quite some theory behind the models for research frameworks, lifecycles, and workflows (REF), including linear, circular, multi-loop, and multi-step flows. For the sake of clarity and pragmatism of mapping the Open Science tools used within the research lifecycle, we will consider a concise 6-stage spiraling model for the research workflow, covering **discovery, analysis,** and **writing** as well as **publication**, **outreach**, and **assessment** (see Fig.)
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+<!--
 ![alt_text](images/image1.png "image_tooltip")
+-->
 
 Ref:[https://figshare.com/articles/presentation/Of_Shapes_and_Style_visualising_innovations_in_scholarly_communication/3468641](https://figshare.com/articles/presentation/Of_Shapes_and_Style_visualising_innovations_in_scholarly_communication/3468641) 
 
@@ -92,9 +92,9 @@ Open Science tools can be used for
 
 The usage of such tools by researchers across different disciplines has been surveyed and reviewed  in several efforts (Kramer and Bosman, 2016, Bezuidenhout  and Havemann, 2021). Numerous digital tools have been mapped on the “discovery, analysis and writing, publication, outreach, and assessment” stages of the research lifecycle (see Fig). As we saw in the previous section, all tools have varying degrees of openness. Purposefully choosing tools to use at each stage to increase transparency, findability, and reproducibility, you are able to construct and define your research workflow in alignment with responsible Open Science practices. As was discussed in Module 1, Ethos of Open Science, open should not be a thoughtless default or afterthought, but included into the design and inception of the research project. Your choice of Open Science tools can be individual, but most often it would benefit from group discussions within your research team, institution, and communities of practice.
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+<!--
 ![alt_text](images/image2.png "image_tooltip")
+-->
 
 Note: the concepts of workflow and lifecycle are widely used and applied to parts of the research, e.g. data. Data workflow, data lifecycle are discussed in depth in 🔗Lesson X of the Module Open Data🔗.
 
@@ -107,9 +107,9 @@ Let’s refresh the terms:
 * **FAIR Data Principles** - Findable, Accessible, Interoperable, & Reusable. [Wilkinson et al. (2016)](https://doi.org/10.1038/sdata.2016.18) provided FAIR Guiding Principles for scientific data management and stewardship;  [Hong et al. (2022)](https://doi.org/10.15497/RDA00068) establish FAIR principles for research software.
 * **CARE Principles** - Collective Benefit, Authority to Control, Responsibility, & Ethics. [Carroll et al. (2020)](http://doi.org/10.5334/dsj-2020-043) established the CARE Principles for Indigenous Data Governance, complementing the FAIR data principles.
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+<!--
 ![alt_text](images/image3.png "image_tooltip")
+-->
 
 Best practices to implement these principles include describing data using metadata standards and controlled vocabularies, assigning licenses, and uploading data to repositories that allow for creation of  “📖<span style="text-decoration:underline;">persistent identifiers📖</span>”. Examples of useful Open Science tools include:
 
@@ -134,4 +134,6 @@ Most probably you are already using some tools and resources, even if you are ne
 
 In the next lessons we will introduce you to various tools, which you may not have heard yet. Stay tuned! 
 
+<!--
 2. Suggestion: Add an exercise/ question for reflection in FAIR/CARE
+-->

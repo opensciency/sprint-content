@@ -21,11 +21,9 @@ In the first lesson, we briefly defined Open Science tools, distinguished open f
 
 In this module, we’ll focus on the following elements of the project workflow rather than distinct research stages, because many tools support more than one stage. We will cover tools specifically for protocols; data; code; results; and authoring. We’ll only highlight a few tools; more tools and resources are currently available than we could possibly list (see Figure below).
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
+<!--
 ![alt_text](images/image4.jpg "image_tooltip")
-
+-->
 
 Ref: [http://46eybw2v1nh52oe80d3bi91u-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Data-and-AI-Landscape-2021-v3-small.jpg](http://46eybw2v1nh52oe80d3bi91u-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Data-and-AI-Landscape-2021-v3-small.jpg) 
 

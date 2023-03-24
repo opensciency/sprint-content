@@ -36,13 +36,6 @@ book:
         - open-data/Lesson4-CARE&FAIR.md
         - open-data/Lesson5-Planning.md
         - open-data/contributors.md
-    - part: open-tools-resources/lesson1-intro-open-science-tools.md
-      chapters: 
-        - open-tools-resources/lesson2-tools-across-research-lifecycle.md
-        - open-tools-resources/lesson3-tools-for-reproducibility.md
-        - open-tools-resources/lesson4-practicing-team-open-science.md
-        - open-tools-resources/lesson5-open-science-communities.md
-        - open-tools-resources/contributors.md
     - part: open-results/README.md
       chapters: 
         - open-results/lesson1-research-process-and-results.md
@@ -50,6 +43,13 @@ book:
         - open-results/lesson3-apply-open-results.md
         - open-results/lesson4-opportunities-and-credits.md
         - open-results/contributors.md
+    - part: open-tools-resources/lesson1-intro-open-science-tools.md
+      chapters: 
+        - open-tools-resources/lesson2-tools-across-research-lifecycle.md
+        - open-tools-resources/lesson3-tools-for-reproducibility.md
+        - open-tools-resources/lesson4-practicing-team-open-science.md
+        - open-tools-resources/lesson5-open-science-communities.md
+        - open-tools-resources/contributors.md
 
 toc: true
 number-sections: false
