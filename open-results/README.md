@@ -20,24 +20,24 @@ In this module, we will explore the different stages of the research process—i
 
 This module addresses different questions discussed systematically across the following four lessons:
 
-Lesson 1: The Research Process and Its Results
+**Lesson 1: The Research Process and Its Results**
 
 1. What are the different stages of the research process?
 2. What are "Research Objects"?
 
-Lesson 2: Results in the Context of Open Science
+**Lesson 2: Results in the Context of Open Science**
 
 1. What are the advantages of making results open throughout the research process?
 2. What resources are available to help make results open?
 3. What are the guiding principles to turn a research result into an open result?
 
-Lesson 3: Applying Open Result Framework to your Research
+**Lesson 3: Applying Open Result Framework to your Research**
 
 1. How can you apply an open framework across different research objects?
-2. How can you share your results, and select \*\*tools\*\*that support open science?
+2. How can you share your results, and select tools that support open science?
 3. Using a checklist to achieve open results
 
-Lesson 4: Providing Equitable Opportunities and Credit for Contributors to Results
+**Lesson 4: Providing Equitable Opportunities and Credit for Contributors to Results**
 
 1. How can you define contributors to each digital research object and determine their suitable form of recognition?
 2. How can you create contributor guidelines that ensure equity, access, inclusion, and diversity?
