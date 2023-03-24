@@ -1,4 +1,6 @@
-__Bayer, Johanna__  
+# OpenSciency Open Software: Authors
+
+**Bayer, Johanna** 
 
 University of Melbourne  
 
@@ -8,7 +10,7 @@ University of Melbourne
 
 [https://twitter.com/likeajumprope](https://twitter.com/likeajumprope)  
   
-__Brown, Sierra__  
+**Brown, Sierra**
 
 Million Concepts, LLC  
 
@@ -16,7 +18,7 @@ Million Concepts, LLC
 
 [https://github.com/Sierra-MC](https://github.com/Sierra-MC)  
   
-__Chegini, Taher__  
+**Chegini, Taher**
 
 University of Houston  
 
@@ -26,7 +28,7 @@ University of Houston
 
 [https://twitter.com/_taher_](https://twitter.com/_taher_)    
   
-__Keat, Yeo__  
+**Keat, Yeo** 
 
 University of Putra Malaysia  
 
@@ -36,7 +38,7 @@ University of Putra Malaysia
 
 [https://twitter.com/EeYeoKeat](https://twitter.com/EeYeoKeat)  
   
-__Onabajo, Babatunde__  
+**Onabajo, Babatunde**  
 
 ChurchMapped Limited  
 
@@ -46,19 +48,19 @@ ChurchMapped Limited
 
 [https://twitter.com/babatundeonabaj](https://twitter.com/babatundeonabaj)		
   
-__Powell, James__
+**Powell, Jame**
 
 [https://github.com/CRiddler](https://github.com/CRiddler)
 
 [https://twitter.com/dontusethiscode](https://twitter.com/dontusethiscode)
   
-__Riddell, Cameron__
+**Riddell, Cameron**
 
 [https://github.com/dutc](https://github.com/dutc)
 
 [https://mobile.twitter.com/riddlemecam](https://mobile.twitter.com/riddlemecam)
   
-__Vaz, Ana__  
+**Vaz, Ana**
 
 University of Miami  
 

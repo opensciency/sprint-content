@@ -1,4 +1,6 @@
-__Batalha, Natasha__  
+# OpenSciency Open Results: Authors
+
+**Batalha, Natasha**
 
 NASA Ames Research Center  
 
@@ -8,7 +10,7 @@ NASA Ames Research Center
 
 [https://twitter.com/natashabatalha](https://twitter.com/natashabatalha)  
   
-__Camacho Toro, Reina__  
+**Camacho Toro, Reina**
 
 CERN/CNRS, LA-CoNGA physics  
 
@@ -18,7 +20,7 @@ CERN/CNRS, LA-CoNGA physics
 
 [https://twitter.com/rcamachotoro](https://twitter.com/rcamachotoro)  
   
-__Campitelli, Elio__  
+**Campitelli, Elio**
 
 University of Buenos Aires  
 
@@ -28,7 +30,7 @@ University of Buenos Aires
 
 [https://twitter.com/d_olivaw](https://twitter.com/d_olivaw)  
   
-__Dunleavy, Daniel__  
+**Dunleavy, Daniel**
 
 Florida State University  
 
@@ -38,7 +40,7 @@ Florida State University
 
 [https://twitter.com/Dunleavy_Daniel](https://twitter.com/Dunleavy_Daniel)  
       
-__Erdmann, Christopher__  
+**Erdmann, Christopher**
 
 Michael J. Fox Foundation  
 
@@ -48,7 +50,7 @@ Michael J. Fox Foundation
 
 [https://twitter.com/libcce](https://twitter.com/libcce)  
   
-__Fouilloux, Anne__  
+**Fouilloux, Anne**
 
 University of Oslo, Norway  
 
@@ -56,7 +58,7 @@ University of Oslo, Norway
 
 [https://github.com/annefou](https://github.com/annefou)  
 
-__Lacerda, Michel__  
+**Lacerda, Michel** 
 
 Georgia Institute of Technology	  
 
@@ -64,7 +66,7 @@ Georgia Institute of Technology
 
 [https://github.com/michelusp](https://github.com/michelusp)  
   
-__Saderi, Daniela__   
+**Saderi, Daniela**
 
 PREreview, Code for Science & Society	  
 
@@ -74,7 +76,7 @@ PREreview, Code for Science & Society
 
 [https://twitter.com/Neurosarda](https://twitter.com/Neurosarda)  
   
-__Sharan, Malvika__  
+**Sharan, Malvika**
 
 The Alan Turing Institute and Open Life Sciences
 

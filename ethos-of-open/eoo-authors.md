@@ -1,3 +1,5 @@
+# OpenSciency Ethos of Open Science: Authors
+
 **Tomoko Tomo Bell**
 
 University of Guam	
