@@ -31,7 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../open-software/lesson5-vesion-control.html" rel="next">
-<link href="../open-software/lesson2-pros-cons.html" rel="prev">
+<link href="../open-software/lesson3-licensing.html" rel="prev">
+<link href="../logo.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -71,7 +72,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Code management/Quality</span></h1>
+      <h1 class="quarto-secondary-nav-title"><span class="chapter-title">Code management/Quality</span></h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -85,6 +86,10 @@ ul.task-list li input[type="checkbox"] {
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="../">OpenSciency Introductory Resources on Open Science</a> 
+        <div class="sidebar-tools-main">
+    <a href="https://github.com/opensciency" title="Source Code" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+    <a href="../sprint-content.epub" title="Download ePub" class="sidebar-tool px-1"><i class="bi bi-journal"></i></a>
+</div>
     </div>
       </div>
       <div class="mt-2 flex-shrink-0 align-items-center">
@@ -96,12 +101,12 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../index.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Opensciency - A core open science curriculum by and for the research community.</span></a>
+  <a href="../index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Opensciency - A core open science curriculum by and for the research community.</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../ethos-of-open/lesson1-intro-to-open-science.html" class="sidebar-item-text sidebar-link">Ethos of Open Science: What is it and what does it promote?</a>
+            <a href="../ethos-of-open/lesson1-intro-to-open-science.html" class="sidebar-item-text sidebar-link">Ethos of Open Science</a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -109,27 +114,22 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../ethos-of-open/lesson2-benefits-challenges-of-open.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Benefits and Challenges of responsible Open Science: Why does it matter?</span></a>
+  <a href="../ethos-of-open/lesson2-benefits-challenges-of-open.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Benefits and Challenges of responsible Open Science: Why does it matter?</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../ethos-of-open/lesson3-open-stakeholders.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Stakeholders of Open Science: Who practices responsible Open Science and for whom?</span></a>
+  <a href="../ethos-of-open/lesson3-open-stakeholders.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Stakeholders of Open Science: Who practices responsible Open Science and for whom?</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../ethos-of-open/lesson4-impact-of-open.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Impact of Open Science on academia, communities and society as a whole: Where open science happens.</span></a>
+  <a href="../ethos-of-open/lesson4-impact-of-open.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Impact of Open Science on academia, communities and society as a whole: Where open science happens.</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../ethos-of-open/lesson5-how.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Lesson 5: Not an afterthought</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../ethos-of-open/contributors.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">contributors.html</span></a>
+  <a href="../ethos-of-open/lesson5-how.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Not an afterthought</span></a>
   </div>
 </li>
       </ul>
@@ -144,44 +144,39 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-software/lesson3-licensing.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Licensing, Ownership &amp; DOIs</span></a>
+  <a href="../open-software/lesson1-introduction.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Open software in the context of Open Science</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-software/lesson1-introduction.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Lesson 1: Open software in the context of Open Science</span></a>
+  <a href="../open-software/lesson2-pros-cons.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Pros and Cons of Open Software</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-software/lesson2-pros-cons.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">The Pros and Cons of Open Software</span></a>
+  <a href="../open-software/lesson3-licensing.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Licensing, Ownership &amp; DOIs</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-software/lesson4-code-management.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Code management/Quality</span></a>
+  <a href="../open-software/lesson4-code-management.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Code management/Quality</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-software/lesson5-vesion-control.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Lesson 5: Maintain good code quality</span></a>
+  <a href="../open-software/lesson5-vesion-control.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Maintain good code quality</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-software/lesson6-contribution.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Lesson 6: Contributing to existing open software</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../open-software/CONTRIBUTORS.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">CONTRIBUTORS.html</span></a>
+  <a href="../open-software/lesson6-contribution.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Contributing to existing open software</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../open-data/Lesson1-WhatIsOpenData.html" class="sidebar-item-text sidebar-link">What is Open Data?</a>
+            <a href="../open-data/Lesson1-WhatIsOpenData.html" class="sidebar-item-text sidebar-link">Open Data</a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -189,34 +184,29 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-data/Lesson2-Benefits.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Benefits of Open Data</span></a>
+  <a href="../open-data/Lesson2-Benefits.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Benefits of Open Data</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-data/Lesson3-Responsible.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Responsible Open Data</span></a>
+  <a href="../open-data/Lesson3-Responsible.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Responsible Open Data</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-data/Lesson4-CARE&amp;FAIR.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">CARE &amp; FAIR Principles</span></a>
+  <a href="../open-data/Lesson4-CARE&amp;FAIR.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">CARE &amp; FAIR Principles</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-data/Lesson5-Planning.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Planning for Open Data</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../open-data/contributors.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Jannatul Ferdish</span></a>
+  <a href="../open-data/Lesson5-Planning.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Planning for Open Data</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../open-tools-resources/lesson1-intro-open-science-tools.html" class="sidebar-item-text sidebar-link">Lesson 1: **Introduction to Open Science tools**</a>
+            <a href="../open-tools-resources/lesson1-intro-open-science-tools.html" class="sidebar-item-text sidebar-link">Open Science tools</a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -224,29 +214,29 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-tools-resources/lesson2-tools-across-research-lifecycle.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Lesson 2: <strong>Open Science tools across the research lifecycle</strong></span></a>
+  <a href="../open-tools-resources/lesson2-tools-across-research-lifecycle.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Open Science tools across the research lifecycle</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-tools-resources/lesson3-tools-for-reproducibility.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Lesson 3: <strong>Open Science tools for reproducibility</strong></span></a>
+  <a href="../open-tools-resources/lesson3-tools-for-reproducibility.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Open Science tools for reproducibility</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-tools-resources/lesson4-practicing-team-open-science.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Lesson 4: <strong>Practicing open science in a team</strong></span></a>
+  <a href="../open-tools-resources/lesson4-practicing-team-open-science.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Practicing open science in a team</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-tools-resources/lesson5-open-science-communities.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Lesson 5: <strong>Open Science communities</strong></span></a>
+  <a href="../open-tools-resources/lesson5-open-science-communities.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Open Science communities</span></a>
   </div>
 </li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../open-results/README.html" class="sidebar-item-text sidebar-link">Open Results Training Module</a>
+            <a href="../open-results/README.html" class="sidebar-item-text sidebar-link">Open Results</a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -254,27 +244,22 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-results/lesson1-research-process-and-results.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Lesson 1: The Research Process and Its Results</span></a>
+  <a href="../open-results/lesson1-research-process-and-results.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Research Process and Its Results</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-results/lesson2-results-and-open-science.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Lesson 2: Results in the Context of Open Science</span></a>
+  <a href="../open-results/lesson2-results-and-open-science.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Results in the Context of Open Science</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-results/lesson3-apply-open-results.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Lesson 3: Applying Open Result Framework to your Research</span></a>
+  <a href="../open-results/lesson3-apply-open-results.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Applying Open Result Framework to your Research</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../open-results/lesson4-opportunities-and-credits.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Lesson 4: Providing Equitable Opportunities and Credit for Contributors to Results</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../open-results/CONTRIBUTORS.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">CONTRIBUTORS.html</span></a>
+  <a href="../open-results/lesson4-opportunities-and-credits.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Providing Equitable Opportunities and Credit for Contributors to Results</span></a>
   </div>
 </li>
       </ul>
@@ -288,14 +273,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction"><span class="toc-section-number">10.1</span>  Introduction</a></li>
-  <li><a href="#what-does-it-mean-for-softwarecode-to-be-of-good-quality" id="toc-what-does-it-mean-for-softwarecode-to-be-of-good-quality" class="nav-link" data-scroll-target="#what-does-it-mean-for-softwarecode-to-be-of-good-quality"><span class="toc-section-number">10.2</span>  What does it mean for software/code to be of good quality?</a>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#what-does-it-mean-for-softwarecode-to-be-of-good-quality" id="toc-what-does-it-mean-for-softwarecode-to-be-of-good-quality" class="nav-link" data-scroll-target="#what-does-it-mean-for-softwarecode-to-be-of-good-quality">What does it mean for software/code to be of good quality?</a>
   <ul class="collapse">
-  <li><a href="#good-documentation" id="toc-good-documentation" class="nav-link" data-scroll-target="#good-documentation"><span class="toc-section-number">10.2.1</span>  Good documentation</a></li>
-  <li><a href="#cleanreadable-code" id="toc-cleanreadable-code" class="nav-link" data-scroll-target="#cleanreadable-code"><span class="toc-section-number">10.2.2</span>  Clean/readable code</a></li>
+  <li><a href="#good-documentation" id="toc-good-documentation" class="nav-link" data-scroll-target="#good-documentation">Good documentation</a></li>
+  <li><a href="#cleanreadable-code" id="toc-cleanreadable-code" class="nav-link" data-scroll-target="#cleanreadable-code">Clean/readable code</a></li>
   </ul></li>
-  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary"><span class="toc-section-number">10.3</span>  Summary</a></li>
-  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"><span class="toc-section-number">10.4</span>  References</a></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
     </div>
@@ -304,7 +289,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Code management/Quality</span></h1>
+<h1 class="title d-none d-lg-block"><span class="chapter-title">Code management/Quality</span></h1>
 </div>
 
 
@@ -324,19 +309,19 @@ ul.task-list li input[type="checkbox"] {
 <li>Understanding some best practices for publishing Open Software</li>
 <li>Learning the basics of code management</li>
 </ul>
-<section id="introduction" class="level2" data-number="10.1">
-<h2 data-number="10.1" class="anchored" data-anchor-id="introduction"><span class="header-section-number">10.1</span> Introduction</h2>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
 <p>While we maintain that sharing software at all is a great initial first step regardless of it’s state, the more the code is kept clean, maintained, and documented, the more others will be able to cite, use, and contribute to it.</p>
 </section>
-<section id="what-does-it-mean-for-softwarecode-to-be-of-good-quality" class="level2" data-number="10.2">
-<h2 data-number="10.2" class="anchored" data-anchor-id="what-does-it-mean-for-softwarecode-to-be-of-good-quality"><span class="header-section-number">10.2</span> What does it mean for software/code to be of good quality?</h2>
+<section id="what-does-it-mean-for-softwarecode-to-be-of-good-quality" class="level2">
+<h2 class="anchored" data-anchor-id="what-does-it-mean-for-softwarecode-to-be-of-good-quality">What does it mean for software/code to be of good quality?</h2>
 <p>There are two perspectives that you can take when engaging with this lesson: a user of open software, or a developer/provider of open software. As a user, you will want to make sure that a code or software project you are considering using in your research/project is quality. As a developer/provider, you will want to make sure your project is of high enough quality that others will want to use and engage with it. When we say “quality” code, we are referring to precisely that, a software/code that a user can be confident in using.</p>
 <p>Here we outline some baseline expectations for open software. While there are definitely good open software projects out there that do not include all of these items (and, unfortunately, plenty of projects out there that contain many of these items but still don’t function well), this guide will assist in ensuring the software/code that you develop/use is quality.</p>
-<section id="good-documentation" class="level3" data-number="10.2.1">
-<h3 data-number="10.2.1" class="anchored" data-anchor-id="good-documentation"><span class="header-section-number">10.2.1</span> Good documentation</h3>
+<section id="good-documentation" class="level3">
+<h3 class="anchored" data-anchor-id="good-documentation">Good documentation</h3>
 <p>Good documentation for code is possibly the most important item on this list for creating a quality code. This will help a user know what the software does and how it can be used, but also can be a real time saver for a developer when going back to look at code they haven’t looked at in a while.</p>
-<section id="the-readme-file" class="level4" data-number="10.2.1.1">
-<h4 data-number="10.2.1.1" class="anchored" data-anchor-id="the-readme-file"><span class="header-section-number">10.2.1.1</span> The README file</h4>
+<section id="the-readme-file" class="level4">
+<h4 class="anchored" data-anchor-id="the-readme-file">The README file</h4>
 <p>The first stop for a user when they approach a new project should be the README file. Aptly named, this file should contain orientation information that will help a user understand the project’s purpose as well as shows examples of how it can be used, and lists most other important information the creator deems necessary. Note that there is no one agreed upon convention for the location of these documentation pieces, so we encourage exploration of the software you’re interested in. Some information we describe as in a README file may be moved into its own file in some conventions, e.g.&nbsp;having installation instructions in an INSTALL file, but the README is still usually the best place to start. Keeping that in mind, if you are developing a code/software for use by others, they will expect a descriptive and useful README, without one using your code may be a nonstarter for many.</p>
 <p><a href="https://github.com/MillionConcepts/lhorizon">Here is an example of a README file</a> from a NASA-funded project that shows many of the specifics we are going to discuss below including multiple installation options. As you read the suggested parts of documentation below feel free to reference this for an example.</p>
 <p>Let’s dive into the specifics of information you should include/find in a README file. First, a description of what the software does: it’s purpose, the problem it’s solving. You don’t need to write a whole academic paper here, a sentence or two is fine. If you do happen to have a research paper written on the topic no one would be upset if you link it here, though do be careful that any linked papers are either (a) not behind a paywall or (b) if it <em>is</em> behind a paywall, that the important information a user would need to use and understand your software is reiterated separately within the code documentation.</p>
@@ -347,20 +332,20 @@ ul.task-list li input[type="checkbox"] {
 <p>As the README is the first place a user will look, this is also where you can find other notes and caveats of using the software. This should include at least something on the state of the software: is it in active development (meaning it may have some bugs and may not always work as expected), consistently maintained (meaning the software is updated when necessary–like when a dependency is updated or a bug is reported), or here for posterity purposes only (meaning the author/developer/researcher will not be working to maintain or improve this code any further)? How can you contact the developer/researcher that created this software/code? How can issue/bugs be reported (if at all)? This would also be a good place to list any known bugs/issues, so you get repeat requests.</p>
 <p>The README is also a great place to acknowledge team members that worked on the code/project as well as agencies and grant numbers that funded the work.</p>
 </section>
-<section id="dependencies" class="level4" data-number="10.2.1.2">
-<h4 data-number="10.2.1.2" class="anchored" data-anchor-id="dependencies"><span class="header-section-number">10.2.1.2</span> Dependencies</h4>
+<section id="dependencies" class="level4">
+<h4 class="anchored" data-anchor-id="dependencies">Dependencies</h4>
 <p>The dependencies – the other software on which the software/code relies – should be listed somewhere in the documentation, but are not always in the same place depending on the coding language. For example, in Python software, it is common to include a file titled something like <code>environment.yml</code> which will list dependencies and which can be used to install them quickly and easily. Other conventions may include listing them in the README file, a README can also be used to point to an additional file that lists dependencies (such as the <code>environment.yml</code> or <code>requirements.txt</code>)</p>
 </section>
-<section id="license" class="level4" data-number="10.2.1.3">
-<h4 data-number="10.2.1.3" class="anchored" data-anchor-id="license"><span class="header-section-number">10.2.1.3</span> License</h4>
+<section id="license" class="level4">
+<h4 class="anchored" data-anchor-id="license">License</h4>
 <p>A license file should be included with your documentation. This is expanded upon more in another lesson in this module, but without one, the code/software is technically and ethically not allowed to be used at all by anyone other than the author/developer.</p>
 </section>
-<section id="the-contributing.md-file" class="level4" data-number="10.2.1.4">
-<h4 data-number="10.2.1.4" class="anchored" data-anchor-id="the-contributing.md-file"><span class="header-section-number">10.2.1.4</span> The <code>CONTRIBUTING.md</code> file</h4>
+<section id="the-contributing.md-file" class="level4">
+<h4 class="anchored" data-anchor-id="the-contributing.md-file">The <code>CONTRIBUTING.md</code> file</h4>
 <p>One of the great benefits of open software is that it enables contributions from the community. The <code>CONTRIBUTING.md</code> and CODE_OF_CONDUCT files in software can be referenced for information on how to do this. This is expanded upon more in a later lesson.</p>
 </section>
-<section id="documentation-checklist" class="level4" data-number="10.2.1.5">
-<h4 data-number="10.2.1.5" class="anchored" data-anchor-id="documentation-checklist"><span class="header-section-number">10.2.1.5</span> Documentation Checklist</h4>
+<section id="documentation-checklist" class="level4">
+<h4 class="anchored" data-anchor-id="documentation-checklist">Documentation Checklist</h4>
 <p>[ ] Description of the software and the problem it solves</p>
 <p>[ ] Compatibility description</p>
 <p>[ ] Dependencies</p>
@@ -376,33 +361,33 @@ ul.task-list li input[type="checkbox"] {
 <p>Additionally, a GitHub template from NOAA for open software documentation can be found <a href="https://github.com/NOAA-OWP/owp-open-source-project-template">here</a>.</p>
 </section>
 </section>
-<section id="cleanreadable-code" class="level3" data-number="10.2.2">
-<h3 data-number="10.2.2" class="anchored" data-anchor-id="cleanreadable-code"><span class="header-section-number">10.2.2</span> Clean/readable code</h3>
+<section id="cleanreadable-code" class="level3">
+<h3 class="anchored" data-anchor-id="cleanreadable-code">Clean/readable code</h3>
 <p>Code for software is very rarely written only for one individual. Code typically has to be read and evaluated by others. In private companies, this is usually because software is written by a group of programmers and so it is important that programmers are able to read and understand the code, both in order to improve it and to “debug” or fix it. Open software also operates similarly: there may be many programmers working and contributing to a particular project from different backgrounds and walks of life. With different programmers with different backgrounds collaborating together, it’s important that code is transparent and can be easily understood by others. This is sometimes referred to as “clean code”.</p>
 <p>Clean code is code that is easily understood by others. Clean code has a number of advantages. One advantage is that it is easier to spot if or whether something is wrong with the code (known as “debugging”). Another advantage is that code that is “clean” is more likely to be shared than code that is not. This is fundamental to open software, which aims to be reproduced as widely as possible. There are a number of principles that should be adhered to when using clean code.</p>
-<section id="code-comments" class="level4" data-number="10.2.2.1">
-<h4 data-number="10.2.2.1" class="anchored" data-anchor-id="code-comments"><span class="header-section-number">10.2.2.1</span> Code Comments</h4>
+<section id="code-comments" class="level4">
+<h4 class="anchored" data-anchor-id="code-comments">Code Comments</h4>
 <p>Arguably one of the most important is that code should be commented. Comments are annotations that help other programmers reading to understand what is going on. In many languages, they are designated by the sign <code>//</code> or <code>#</code> or <code>/* */</code>. As a rule, more comments are better than less but this should be prefaced with the warning that comments should not explain the obvious. For example, in the language JavaScript, the following would be an inappropriate comment</p>
 <p><code>var a = 5; //I'm assigning the value of 5 to the variable a.</code></p>
 <p>It is inappropriate because the code is self-explanatory.</p>
 </section>
-<section id="descriptive-naming" class="level4" data-number="10.2.2.2">
-<h4 data-number="10.2.2.2" class="anchored" data-anchor-id="descriptive-naming"><span class="header-section-number">10.2.2.2</span> Descriptive naming</h4>
+<section id="descriptive-naming" class="level4">
+<h4 class="anchored" data-anchor-id="descriptive-naming">Descriptive naming</h4>
 <p>Another point to bear in mind when it comes to clean code is that variables, functions, and similar entities should be given descriptive names as opposed to vague names. These are names that, when another programmer reads them, instantly gives an idea of what the variable or function is. For example, the variable name <code>colourOfCat</code> is a good name because it describes what it intends to do, which is to encompass the color of a cat. As a rule, the more descriptive a name for a variable, function, etc., is the better. Names for variables, functions, etc. should avoid using words that are likely to be keywords - names with reserved meanings in many languages - such as “while”, “for”, “override” and so on. Needless to say, names for variables, functions, etc. should similarly avoid giving offense and clean code should consider the sensitivities of those from different backgrounds.</p>
 <p>It’s frequently the case that code may point to external files; where possible, a programmer should ensure that the external file has a descriptive filename. In addition, clean code should also conform to programming conventions. For example, it’s common in many programming languages to use camel case to describe variables, such as <code>colourForCat</code> rather than <code>COLOURFORCAT</code>, but one would do well to ascertain what a convention may be for a particular language.</p>
 </section>
-<section id="whitespace-and-indentation" class="level4" data-number="10.2.2.3">
-<h4 data-number="10.2.2.3" class="anchored" data-anchor-id="whitespace-and-indentation"><span class="header-section-number">10.2.2.3</span> Whitespace and indentation</h4>
+<section id="whitespace-and-indentation" class="level4">
+<h4 class="anchored" data-anchor-id="whitespace-and-indentation">Whitespace and indentation</h4>
 <p>Lastly, clean code should contain sufficient spaces between lines of code (also known as whitespace) and sufficient indentation so that they are easily discernible. Sometimes code that does not contain sufficient lines of code can go through a process known as <em>beautification</em> or <em>prettifying</em> that helps them become more readable. Ultimately, a key test for whether code can be considered “clean” is the following: if you left the code and came back to it 2 years from now, would you be able to easily understand it?</p>
 </section>
 </section>
 </section>
-<section id="summary" class="level2" data-number="10.3">
-<h2 data-number="10.3" class="anchored" data-anchor-id="summary"><span class="header-section-number">10.3</span> Summary</h2>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
 <p>In this lesson we go over two main topics regarding markers of quality code: (1) good, descriptive documentation and (2) clean, readable code. As a user, documentation can be the difference between spending hours or days trying to understand a code and being able to use it right out of the box. As a developer/researcher, documentation improves the reproducibility and reusability of your code and lets others know what to expect both of your code and of you yourself as a maintainer. Next, we’ll discuss maintaining quality code.</p>
 </section>
-<section id="references" class="level2" data-number="10.4">
-<h2 data-number="10.4" class="anchored" data-anchor-id="references"><span class="header-section-number">10.4</span> References</h2>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
 <ul>
 <li>Lee BD (2018) Ten simple rules for documenting scientific software. PLoS Comput Biol 14(12): e1006561. <a href="https://doi.org/10.1371/journal.pcbi.1006561" class="uri">https://doi.org/10.1371/journal.pcbi.1006561</a></li>
 <li>Anzt H, Bach F, Druskat S et al.&nbsp;An environment for sustainable research software in Germany and beyond: current state, open challenges, and call for action [version 2; peer review: 2 approved] F1000Research 2021, 9:295</li>
@@ -548,13 +533,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../open-software/lesson2-pros-cons.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">The Pros and Cons of Open Software</span></span>
+      <a href="../open-software/lesson3-licensing.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Licensing, Ownership &amp; DOIs</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
       <a href="../open-software/lesson5-vesion-control.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Lesson 5: Maintain good code quality</span></span> <i class="bi bi-arrow-right-short"></i>
+        <span class="nav-page-text"><span class="chapter-title">Maintain good code quality</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
