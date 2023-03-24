@@ -95,7 +95,7 @@ Despite its multiple benefits, adopting and creating open-software also brings c
 
 Lastly, we want to emphasize that adopting open-software (as a user or as a developer) on your research is a journey.  As with the practice of open-science, there is a spectrum, and you make your own choices of how, what and when you are able to share, given your personal skill set, institutional policies, time and funding limitations. The most important is to take the first steps, and continue this journey together with the open-source community.
 
-### References 
+## References 
 
 [^Salem]:[Open Source Software (OSS) Quality Assurance: A Survey Paper](https://www.sciencedirect.com/science/article/pii/S1877050915017172)
 

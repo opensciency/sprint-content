@@ -83,18 +83,28 @@ To support adapting OSS principals (transparency, participation, and collaborati
 
 Here we introduced the concept of open software, how it relates to the broader open science principles, and how sharing and openness can be a spectrum. At the most open end of this spectrum is what the computer science/software development community refers to as open source software. The core principles of open source software are introduced as a paradigm towards which research software can move towards. The tools and methodologies developed by the open source community are particularly helpful in opening research software. Next, we'll dive into the benefits and hurdles associated with having open software.
 
-<!-- References -->
+## References
 
 [^ibm_test]: [IBM software testing](https://www.ibm.com/topics/software-testing)
+
 [^atlas]: [Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
 [^red]: [RedHat](https://www.redhat.com/en/topics/open-source/what-is-open-source-software)
+
 [^os]: [OpenSource](https://opensource.com/principles)
+
 [^wiki]: [Wikiperdia](https://en.wikipedia.org/wiki/Transparency_(behavior))
+
 [^ibm]: [IBM](https://www.ibm.com/topics/open-source)
+
 [^ion]: [Ionos](https://www.ionos.com/digitalguide/websites/web-development/source-code-explained-definition-examples/)
+
 [^syn]: [Synopsys](https://www.synopsys.com/glossary/what-is-open-source-software.html)
+
 [^fair]: Chue Hong, Neil P., Katz, Daniel S., Barker, Michelle, Lamprecht, Anna-Lena, Martinez, Carlos, Psomopoulos, Fotis E., Harrow, Jen, Castro, Leyla Jael, Gruenpeter, Morane, Martinez, Paula Andrea, Honeyman, Tom, Struck, Alessandra, Lee, Allen, Loewe, Axel, van Werkhoven, Ben, Jones, Catherine, Garijo, Daniel, Plomp, Esther, Genova, Francoise, … RDA FAIR4RS WG. (2022). FAIR Principles for Research Software (FAIR4RS Principles) (1.0). <https://doi.org/10.15497/RDA00068>
+
 [^NAS2019]: National Academies of Sciences, Engineering, and Medicine; Policy and Global Affairs; Committee on Science, Engineering, Medicine, and Public Policy; Board on Research Data and Information; Division on Engineering and Physical Sciences; Committee on Applied and Theoretical Statistics; Board on Mathematical Sciences and Analytics; Division on Earth and Life Studies; Nuclear and Radiation Studies Board; Division of Behavioral and Social Sciences and Education; Committee on National Statistics; Board on Behavioral, Cognitive, and Sensory Sciences; Committee on Reproducibility and Replicability in Science. Washington (DC): National Academies Press (US); 2019 May 7.
+
 [^NAS2018]: National Academies of Sciences, Engineering, and Medicine 2018. Open Source
 Software Policy Options for NASA Earth and Space Sciences. Washington, DC: The
 National Academies Press. <https://doi.org/10.17226/25217>.

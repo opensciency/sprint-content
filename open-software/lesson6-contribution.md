@@ -204,7 +204,7 @@ For example, while many repositories state for example in their contributing fil
 
 To summarize, contributing to open software delivers multiple benefits to the community while also assisting in the product's maintenance. Contributing to an open source project can help you enhance your technical abilities and get a better reputation. If you are a coder, you may typically contribute by reporting issues, resolving bugs, and creating new features. Aside from that, you can help by producing documentation, increasing the repository's visibility, or refactoring it. Both coders and non-coders have an equal opportunity to contribute to open source software. We explained how to use the basic version control workflow, which begins with creating a repository, then making changes, publishing changes, and pulling modifications if any exist, and finally keeping track of the changes. In general, commit operations are classified as Core, External, or Mutant. Branching and merging are both important steps in version control, and merge conflicts should be avoided. We also talked about creating a list of best practices to which you can refer before contributing. Nonetheless, there are some ethical issues to keep in mind while contributing to open source software.
 
-<!-- References -->
+## References
 
 [^freecodecamp]: [freecodecamp](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 
