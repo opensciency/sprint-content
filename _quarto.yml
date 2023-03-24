@@ -13,43 +13,43 @@ book:
   downloads: [pdf, epub]
   chapters:
     - index.md
-    - part: ethos-of-open/lesson1-intro-to-open-science.qmd
+    - part: ethos-of-open/lesson1-intro-to-open-science.md
       chapters:
-        - ethos-of-open/lesson2-benefits-challenges-of-open.qmd
-        - ethos-of-open/lesson3-open-stakeholders.qmd
-        - ethos-of-open/lesson4-impact-of-open.qmd
-        - ethos-of-open/lesson5-how.qmd
-        - ethos-of-open/CONTRIBUTORS.qmd
-    - part: open-software/lesson0-preamble.qmd
+        - ethos-of-open/lesson2-benefits-challenges-of-open.md
+        - ethos-of-open/lesson3-open-stakeholders.md
+        - ethos-of-open/lesson4-impact-of-open.md
+        - ethos-of-open/lesson5-how.md
+        - ethos-of-open/CONTRIBUTORS.md
+    - part: open-software/lesson0-preamble.md
       chapters:
-        - open-software/lesson3-licensing.qmd
-        - open-software/lesson1-introduction.qmd
-        - open-software/lesson2-pros-cons.qmd
-        - open-software/lesson4-code-management.qmd
-        - open-software/lesson5-vesion-control.qmd
-        - open-software/lesson6-contribution.qmd
-        - open-software/CONTRIBUTORS.qmd
-    - part: open-data/Lesson1-WhatIsOpenData.qmd
+        - open-software/lesson1-introduction.md
+        - open-software/lesson2-pros-cons.md
+        - open-software/lesson3-licensing.md
+        - open-software/lesson4-code-management.md
+        - open-software/lesson5-vesion-control.md
+        - open-software/lesson6-contribution.md
+        - open-software/CONTRIBUTORS.md
+    - part: open-data/Lesson1-WhatIsOpenData.md
       chapters: 
-        - open-data/Lesson2-Benefits.qmd
-        - open-data/Lesson3-Responsible.qmd
-        - open-data/Lesson4-CARE&FAIR.qmd
-        - open-data/Lesson5-Planning.qmd
-        - open-data/CONTRIBUTORS.qmd
-    - part: open-tools-resources/lesson1-intro-open-science-tools.qmd
+        - open-data/Lesson2-Benefits.md
+        - open-data/Lesson3-Responsible.md
+        - open-data/Lesson4-CARE&FAIR.md
+        - open-data/Lesson5-Planning.md
+        - open-data/CONTRIBUTORS.md
+    - part: open-tools-resources/lesson1-intro-open-science-tools.md
       chapters: 
-        - open-tools-resources/lesson2-tools-across-research-lifecycle.qmd
-        - open-tools-resources/lesson3-tools-for-reproducibility.qmd
-        - open-tools-resources/lesson4-practicing-team-open-science.qmd
-        - open-tools-resources/lesson5-open-science-communities.qmd
-        - open-tools-resources/CONTRIBUTORS.qmd
-    - part: open-results/README.qmd
+        - open-tools-resources/lesson2-tools-across-research-lifecycle.md
+        - open-tools-resources/lesson3-tools-for-reproducibility.md
+        - open-tools-resources/lesson4-practicing-team-open-science.md
+        - open-tools-resources/lesson5-open-science-communities.md
+        - open-tools-resources/CONTRIBUTORS.md
+    - part: open-results/README.md
       chapters: 
-        - open-results/lesson1-research-process-and-results.qmd
-        - open-results/lesson2-results-and-open-science.qmd
-        - open-results/lesson3-apply-open-results.qmd
-        - open-results/lesson4-opportunities-and-credits.qmd
-        - open-results/CONTRIBUTORS.qmd
+        - open-results/lesson1-research-process-and-results.md
+        - open-results/lesson2-results-and-open-science.md
+        - open-results/lesson3-apply-open-results.md
+        - open-results/lesson4-opportunities-and-credits.md
+        - open-results/CONTRIBUTORS.md
 
 toc: true
 number-sections: true

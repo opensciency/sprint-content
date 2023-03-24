@@ -1,4 +1,4 @@
-# Lesson 1: Open software in the context of Open Science
+# Open software in the context of Open Science
 
 Learning objective:
 
