@@ -7,6 +7,10 @@ book:
   author: "Almarzouq, Batool; Azevedo, Flavio; Batalha, Natasha; Bayer, Johanna; Bell, Tomo; Bhogal, Saranjeet; Black, Melissa; Brown, Sierra; Campitelli, Elio; Chegini, Taher; Dunleavy, Daniel; Ee, Yeo Keat; El-Gebali, Sara; Erdmann, Christopher; Ferdush, Jannatul; Fouilloux, Anne; Hall, Siobhan Mackenzie; Kherroubi Garcia, Ismael; Klusza, Stephen; Lacerda, Michel; Medina-Smith, Andrea; Meireles, Mariana; Muhammad, Shamsuddeen; Onabajo, Babatunde; Osman, Amber; Papadopoulou, Elli; Pauline, Karega; Plomp, Esther; Rao, Douglas; Ringuette, Rebecca; Saderi, Daniela; Shanahan, Hugh; Sharan, Malvika; Silan, Miguel; Sundukova, Mayya; Swetnam, Tyson; Vaz, Ana; Yehudi, Yo"
   date: "10/12/2021"
   page-navigation: true
+  favicon: logo.png
+  search: true
+  repo-url: https://github.com/opensciency
+  downloads: [pdf, epub]
   chapters:
     - index.md
     - part: ethos-of-open/lesson1-intro-to-open-science.qmd
@@ -38,6 +42,7 @@ book:
         - open-tools-resources/lesson3-tools-for-reproducibility.qmd
         - open-tools-resources/lesson4-practicing-team-open-science.qmd
         - open-tools-resources/lesson5-open-science-communities.qmd
+        - open-tools-resources/CONTRIBUTORS.qmd
     - part: open-results/README.qmd
       chapters: 
         - open-results/lesson1-research-process-and-results.qmd
@@ -54,7 +59,7 @@ format:
   pdf:
     documentclass: scrreport
   epub:
-    cover-image:
+    cover-image: opensciency-logo.png
 
 editor:
   render-on-save: true

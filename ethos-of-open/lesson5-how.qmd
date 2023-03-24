@@ -1,4 +1,4 @@
-# Lesson 5: Not an afterthought
+# Not an afterthought
 
 Previous lessons have shown the importance and benefits of open science, presented some key stakeholders involved, and discussed the barriers to participation and ways to overcome them. This lesson will guide you in how to start infusing responsible Open Science in your own work, which might be independent, or could be in a research group or lab. 
 
