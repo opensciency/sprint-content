@@ -78,11 +78,11 @@ There is quite some theory behind the models for research frameworks, lifecycles
 ![alt_text](images/image1.png "image_tooltip")
 -->
 
-Ref:[https://figshare.com/articles/presentation/Of_Shapes_and_Style_visualising_innovations_in_scholarly_communication/3468641](https://figshare.com/articles/presentation/Of_Shapes_and_Style_visualising_innovations_in_scholarly_communication/3468641) 
+*Reference: Bosman, J., & Kramer, B. (2016). Of Shapes and Style: visualising innovations in scholarly communication. figshare. doi: [10.6084/m9.figshare.3468641.v1](https://figshare.com/articles/presentation/Of_Shapes_and_Style_visualising_innovations_in_scholarly_communication/3468641)*
 
 Most steps of the research workflow are supported by online applications  (Kramer and Bosman, 2016). These digital (Open Science) tools have actually influenced the way in which we perform and share research, opening it up to a global audience.
 
-Open Science tools can be used for
+Open Science tools can be used for:
 
 * Discovery: Tools for finding content to use in your research
 * Analysis: Tools to process your research output, e.g. tools for data analysis and visualization

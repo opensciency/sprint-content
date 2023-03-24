@@ -27,15 +27,15 @@ Note: The checklist is generalized and will need to be adjusted based on your in
 
 #### Build Team and Align Trust, Expectations, and Conduct 
 
-* **Co-build the team composition. **It is not just skill sets and needed disciplinary expertise, but the attributes and qualities of members that can make a team successful, such as the proportion of women, bridge-builders, record-keepers, and leaders. 
-* **Give the team time to converge and align** on an agreed goal and periodically revisit that as things may change (adaptive management [need a link to this])
+* **Co-build the team composition**. t is not just skill sets and needed disciplinary expertise, but the attributes and qualities of members that can make a team successful, such as the proportion of women, bridge-builders, record-keepers, and leaders. 
+* **Give the team time to converge and align** on an agreed goal and periodically revisit that as things may change (adaptive management.
 * **Ensure team members do not discriminate against others** in the course of their work
 * **Ensure team members comply with the team practices and guidelines** for conducting research, managing digital objects (e.g., data, software), authorship and publications, preservation of digital objects, and communication.  
 * **Ensure team members adhere to the appropriate community, national,  and international standards** for reporting the results of their scientific activities including respecting the intellectual property rights of others consistent with the European Code of Conduct for Research Integrity (2011) downloadable from:[ http://www.esf.org/coordinating-research/mo-fora/research-integrity.html](http://www.esf.org/coordinating-research/mo-fora/research-integrity.html).
 
 #### Work As Collaboratively, Transparently, and Openly as Possible
 
-* **Work collaboratively: Make an initial priority to establish trust and good communication **between the team members and clear roles and responsibilities. 
+* Work collaboratively: Make an initial priority to establish trust and good communication between the team members and clear roles and responsibilities. 
     * Establish a common purpose with the leadership and members of the team. 
     * Co-design and co-own the project goals.
     * Establish a realistic understanding of the progress to be made and estimated timelines. 
@@ -73,11 +73,11 @@ Consider **what ethical concerns apply** based on the nature of the research and
 * General Data Protection Regulation (GDPR) 
 * Artificial intelligence/machine learning [Assessment List Trustworthy AI](https://futurium.ec.europa.eu/en/european-ai-alliance/pages/altai-assessment-list-trustworthy-artificial-intelligence) from the European AI Alliance
 
-    **For more information (training):**
+**For more information (training):**
 
-    [Ethics and Data Access (General Information with BioMedical and Life Sciences Data)](https://ilias.fraunhofer.de/goto.php?target=fold_15177&client_id=fraunhofer)  developed by Innovative Medicine Initiative (IMI) in collaboration with small and medium enterprises (SME) and pharmaceutical industry led by academics.  Includes a legal and [ethical checklist](https://ilias.fraunhofer.de/ilias.php?baseClass=ilSAHSPresentationGUI&ref_id=17285) for researchers.
+[Ethics and Data Access (General Information with BioMedical and Life Sciences Data)](https://ilias.fraunhofer.de/goto.php?target=fold_15177&client_id=fraunhofer)  developed by Innovative Medicine Initiative (IMI) in collaboration with small and medium enterprises (SME) and pharmaceutical industry led by academics.  Includes a legal and [ethical checklist](https://ilias.fraunhofer.de/ilias.php?baseClass=ilSAHSPresentationGUI&ref_id=17285) for researchers.
 
-    [Need a resource for geo-coded, protected species, indigenous data, AI/ML]
+ [Need a resource for geo-coded, protected species, indigenous data, AI/ML]
 
 #### Establish Team Communications
 
@@ -95,55 +95,36 @@ Ensure your team has access to common resources and guidelines that support coll
 
 #### Establish Common Team Resources
 
-    **☐  Before or near the start of the project, make decisions on what resources the team will use to:**
-
-        **☐   Communicate and disseminate information. **e.g., Slack channel, email**  **
-
-        **☐   Develop and manage documents during the project.** e.g., Google Drive   
-
-        **☐   Store datasets during the project, considering size and access/controls. **e.g., [Open Science Framework](https://osf.io) (OSF), [GitHub.com](https://github.com), institutional repository
-
-        **☐   Preserve datasets, images, and associated digital objects (except for software, workflow and training/workshop materials). **e.g., FAIR-aligned repository
-
-        **☐   Develop software, scripts, and/or workflows. **e.g., GitHub: establish a team repository
-
-        **☐   Preserve software, scripts, and/or workflows. **e.g., Zenodo: establish a community    
-
-        **☐   Preserve conference, training or workshop materials. **e.g., Zenodo: establish a community 
-
-    **☐  Develop digital object management tracking tools (such as a spreadsheet, or database) for datasets, software, conference presentations, posters, preprints, and publications. **e.g., Sheets in Google Drive.  
-
-    **☐  Once determined provide each team member with a “summary list” of the team resources. **Ensure each team member has access and provided with any needed overview/training. See [PARSEC example](https://doi.org/10.5281/zenodo.4909852), section “PARSEC Team Resources”.
+* Before or near the start of the project, make decisions on what resources the team will use to:**
+    * Communicate and disseminate information, such as via Slack channel, email.
+    * Develop and manage documents during the project. e.g., Google Drive   
+    * Store datasets during the project, considering size and access/controls, such as via [Open Science Framework](https://osf.io) (OSF), [GitHub.com](https://github.com), institutional repository
+    * Preserve datasets, images, and associated digital objects (except for software, workflow and training/workshop materials, such as via FAIR-aligned repository
+    * Develop software, scripts, and/or workflows, such as via GitHub: establish a team repository
+    * Preserve software, scripts, and/or workflows, such as via Zenodo: establish a community    
+    * Preserve conference, training or workshop materials, such as via Zenodo: establish a community 
+* Develop digital object management tracking tools (such as a spreadsheet, or database) for datasets, software, conference presentations, posters, preprints, and publications, such as via Sheets in Google Drive.  
+* Once determined provide each team member with a “summary list” of the team resources. Ensure each team member has access and provided with any needed overview/training. See [PARSEC example](https://doi.org/10.5281/zenodo.4909852), section “PARSEC Team Resources”.
 
 #### Use Reminders and Milestones to Manage and Track Data and Digital Objects 
 
-    **☐  Once for each team member: Automatically connect your peer-reviewed papers and registered digital research objects to the digital research ecosystem. **
+* Once for each team member: Automatically connect your peer-reviewed papers and registered digital research objects to the digital research ecosystem.
+    * Activate the automatic updates of your ORCID profile. Your ORCID ID identifies you uniquely and provides a hub to connect your scholarly work in one place.  To complete the actions necessary, [in the ORCID support page](https://support.orcid.org/hc/en-us/articles/360006896394-Auto-updates-time-saving-and-trust-building) find instructions for both **Crossref** (English language scholarly publications) and **DataCite** (primarily datasets and software, as well as other objects). For more information on establishing your ORCID ID and profile, review the Ethos Module. 
+    *  Twice a month for team members: Ensure datasets and software are tracked. This supports efficiency especially when working with many digital objects.
+    * Review the datasets and other digital material you are exploring. If you find them to be relevant, track them in the team resource defined above. Include descriptive information. 
+    * Store datasets created by the team in the team resource defined above and tracked along with other datasets/digital objects you are exploring.
+    * Develop software in the team resource defined above. Ensure good version control. 
+    * Slides/Video - clarify primary/secondary dataset definitions.
 
-        **☐   Activate the automatic updates of your ORCID profile. Your ORCID ID identifies you uniquely and provides a hub to connect your scholarly work in one place.  To complete the actions necessary, **see[ this page](https://support.orcid.org/hc/en-us/articles/360006896394-Auto-updates-time-saving-and-trust-building)** **for instructions for both **Crossref** (English language scholarly publications) and **DataCite** (primarily datasets and software, as well as other objects). For more information on establishing your ORCID ID and profile, review the Ethos Module. 
-
-    **☐   Twice a month for team members: Ensure datasets and software are tracked. This supports efficiency especially when working with many digital objects.**
-
-        **☐   Review the datasets and other digital material you are exploring. **If you find them to be relevant, track them in the team resource defined above [add bookmark/item id]. Include descriptive information. 
-
-        **☐   Store datasets created by the team in the team resource defined above [add bookmark/item id] and tracked along with other datasets/digital objects you are exploring.**
-
-        **☐   Develop software in the team resource defined above. [add bookmark/item id] **Ensure good version control. 
-
-        Slides/Video - clarify primary/secondary dataset definitions (1B checklist -- include the link)
-
-    **☐   Monthly for team members: Ensure all materials and presentations are preserved**
-
-        **☐   Include** **posters, oral presentations, training, workshops, and any other disseminated materials. **Provide information on the event such as the name of the conference and session, dates, website links, funder acknowledgement. Track this in the defined team resource. **[add bookmark/item id]**
-
-    **☐   Every three months for each team member (individual action): Ensure your digital profile reflects your current work. **
-
-        **☐   Review your ORCID profile, and any other online profile (e.g., LinkedIn, Scopus, Researcher ID) and ensure that it is current and complete. Link all profiles to your ORCID account.  [link to Digital Presence.] **
-
-        **☐   Ensure your CV is current, available digitally, and linked to your ORCID account**
+* Monthly for team members: Ensure all materials and presentations are preserved
+    * Include posters, oral presentations, training, workshops, and any other disseminated materials. Provide information on the event such as the name of the conference and session, dates, website links, funder acknowledgement. Track this in the defined team resource.
+    * Every three months for each team member (individual action): Ensure your digital profile reflects your current work.
+    * Review your ORCID profile, and any other online profile (e.g., LinkedIn, Scopus, Researcher ID) and ensure that it is current and complete. Link all profiles to your ORCID account.
+    * Ensure your CV is current, available digitally, and linked to your ORCID account
 
 #### Improve Practices Through Use and Feedback
 
-    **☐  Establish periodic team meetings to review effectiveness of resources and team guidelines. **Review with the team their experiences and challenges using the resources and guidelines.  Adjust as necessary working towards better support of Open Science objectives for the team. 
+* Establish periodic team meetings to review effectiveness of resources and team guidelines. Review with the team their experiences and challenges using the resources and guidelines.  Adjust as necessary working towards better support of Open Science objectives for the team. 
 
 ### Team Results Preservation Checklist 
 
@@ -151,37 +132,32 @@ Ensuring all research/project team outputs (for a mid-term report or project com
 
 #### Plan to Preserve and Share for the Long-term 
 
-* **Determine what needs to be preserved. **Research** **project components should include: project description, README files, datasets, software, physical samples, posters, oral presentations, workshop reports, training materials, and any other digital materials.
+* **Determine what needs to be preserved. Research project components should include**: project description, README files, datasets, software, physical samples, posters, oral presentations, workshop reports, training materials, and any other digital materials.
 * Determine which components should remain open just to the team, and which should be made openly accessible to others. 
     * Reference your data management plan for what is required for the project, or the lab. 
     * Reference your community best practices. 
     * Reference country, funder, publisher, and institutional requirements for further consideration. 
     * Comply with the licenses (e.g. data created by others).
     * Comply with any data request agreements (e.g., sensitive data). 
-    * For data created for the project, or derived data products, ensure that the full set of data are preserved.  Note that most publishers will only require the data that supports the publication to be available in a trusted repository.  The full set of data can be cited with description in the availability statement as to which data were used. This approach allows all the data to be preserved together and improves interoperability and reuse. [link spiral 3] 
-* **Determine where to preserve the research/project outputs.**  Consult the team’s Resources Summary Checklist that was created in 2B [add link to the bullet point] (see [PARSEC example](https://doi.org/10.5281/zenodo.4909852), section “PARSEC Team Resources”).  If your team has not yet determined a preservation repository for the project components see “Resources and Lab/Team Guidelines Checklist” [add link and item number].  Ensure all the links and persistent identifiers are included in the project registry [bookmark  to below].
+    * For data created for the project, or derived data products, ensure that the full set of data are preserved.  Note that most publishers will only require the data that supports the publication to be available in a trusted repository.  The full set of data can be cited with description in the availability statement as to which data were used. This approach allows all the data to be preserved together and improves interoperability and reuse.
+* **Determine where to preserve the research/project outputs.**  Consult the team’s Resources Summary Checklist that was created in 2B [add link to the bullet point] (see [PARSEC example](https://doi.org/10.5281/zenodo.4909852), section “PARSEC Team Resources”).  If your team has not yet determined a preservation repository for the project components see “Resources and Lab/Team Guidelines Checklist”.  Ensure all the links and persistent identifiers are included in the project registry [bookmark  to below].
     * Reminder: ensure the repository selected has the necessary protections (access/controls) for the project components.
     * Ensure the repository selected is community-accepted and trusted. [Link to repository selection document.]
 
 #### Preserve the Research/Project Components as open and FAIR as possible
 
-**[Link to the FAIR principles]**
+You have already learned by FAIR in data module, we are specifically highlighting their relevance in different research contents.
 
-**☐ Datasets:  ** Your data may require cleaning, reorganization, or documentation to make it understandable. If there is a version that you routinely use for sharing within your group, this is likely to be the version you will archive. It is important that a data file can be read by a computer program without error, i.e., that it does not require human interpretation or proprietary software. Reference for information [add link].
-
-**☐ Software, code, scripts, algorithms:**   Your software may require documentation and reorganization to make it understandable. Ask a teammate to review it for understandability and future use. It is important that you document any relevant configuration information for using your software.** **Reference  for information [add link].
-
- **☐ Images and associated digital objects: **Consult the team’s Resources Summary Checklist for the preservation locations. Review repository guidance for depositing these objects to ensure they are well-documented and in the best possible format for preservation**. ** 
-
- **☐ Conference, training, workshop reports and materials:**  Consult the team’s Resources Summary Checklist for the preservation locations. Review repository guidance for depositing these objects to ensure they are well-documented and in the best possible format for preservation**. **
+* **Datasets**:  Your data may require cleaning, reorganization, or documentation to make it understandable. If there is a version that you routinely use for sharing within your group, this is likely to be the version you will archive. It is important that a data file can be read by a computer program without error, i.e., that it does not require human interpretation or proprietary software. Reference for information.
+* **Software, code, scripts, algorithms**: Your software may require documentation and reorganization to make it understandable. Ask a teammate to review it for understandability and future use. It is important that you document any relevant configuration information for using your software.
+* **Images and associated digital objects**: Consult the team’s Resources Summary Checklist for the preservation locations. Review repository guidance for depositing these objects to ensure they are well-documented and in the best possible format for preservation**.
+* **Conference, training, workshop reports and materials**: Consult the team’s Resources Summary Checklist for the preservation locations. Review repository guidance for depositing these objects to ensure they are well-documented and in the best possible format for preservation.
 
 #### Manage a Project Registry (or Directory) for the Outputs
 
 It is common for different types of outputs to be preserved in different places to optimize discovery and reuse. An up-to-date Project Registry provides a quick overview of all the outputs. 
 
- **☐ Create and update a Project Registry **in conjunction with preserving outputs as described above in the form of a spreadsheet, or other type of list. This can be one registry for the entire project that is updated, or a new registry for each milestone.
-
- **☐ **Include in each registry entry a description of the object, preferred citation, and the persistent identifier (e.g., DOI), and any other useful information supporting the project. For outputs that do not have a persistent identifier, provide a URL and description.  
-
- **☐ **Preserve the Project Registry as a project component. Many funders require in their yearly reports a list of both peer-reviewed publications and all project outputs.  The Project Registry can be provided to the funder during the reporting process, or used as a tracking tool to assist with completing the report. 
+* Create and update a Project Registry in conjunction with preserving outputs as described above in the form of a spreadsheet, or other type of list. This can be one registry for the entire project that is updated, or a new registry for each milestone.
+* Include in each registry entry a description of the object, preferred citation, and the persistent identifier (e.g., DOI), and any other useful information supporting the project. For outputs that do not have a persistent identifier, provide a URL and description.  
+* Preserve the Project Registry as a project component. Many funders require in their yearly reports a list of both peer-reviewed publications and all project outputs.  The Project Registry can be provided to the funder during the reporting process, or used as a tracking tool to assist with completing the report. 
 

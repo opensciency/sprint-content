@@ -30,7 +30,7 @@ A license can fall under several categories. License types have general definiti
 |Anyone can use or modify the software.|Can link to open source libraries and code can be licensed under any license type.|Has some requirements for distribution and modification.  |Licensed code can be distributed or modified if all the code involved is licensed under the same license.| Software cannot be copied, modified or distributed    |
 
 Summary of selected attributes of licenses types [^Morin]:
-![Table](https://i.imgur.com/usGIw8P.jpg)
+![Table](figures/cited-license-types.jpg)
 
 Some of the common licenses used in open software are:
 
@@ -52,7 +52,7 @@ The next decision that has to be made is relating to the issue of distribution. 
 
 For licensing open software, it is always good practice to consult with the [Open Source Initiative (OSI)](https://opensource.org/) website. They provide a list of approved licenses that guides you through this process. Remember that a first step is always to consult with your institution (if applicable). You should ensure that you are complying with any applicable local laws and any policies set by your employer and/or funding entity.
 
-![schematic](https://i.imgur.com/IzeJix8.jpg)
+![schematic](figures/license-schema.jpg)
 
 ### Additional Resources
 

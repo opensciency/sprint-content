@@ -98,7 +98,7 @@ We have again summarized those steps in a checklist for you. We present here a s
 
 - To check what is different in your copy since the last commit, you can check the *status* of your repository.
 
-![remote](https://i.imgur.com/ZQaFMiH.png)
+![remote](figures/git-remote.png)
 
 As a last note, version control is a good practice for coding, so use it even if you are not sharing it immediately. You can use version control with your codes privately on your computer, or use the private mode on hosting services (*e.g.*, GitHub and GitLab). And, once you are ready, you are one step ahead to share your code.
 

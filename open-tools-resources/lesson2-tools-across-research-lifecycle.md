@@ -44,7 +44,7 @@ In a broader sense, protocol also comprises documented computational workflows, 
 
 Some of the tools are specifically designed for open science with an open by design idea straight from the beginning, and aim to support the research lifecycle at all stages, and allow for integration with other open science tools.
 
-Most prominent one includes **Open Science Framework (OSF)**, developed by Center for Open Science (link). OSF is a free and open source project management tool that supports researchers throughout their entire project lifecycle through open, centralized workflows. It captures  different aspects and products of the research lifecycle, including developing a research idea, designing a study, storing and analyzing collected data, and writing and publishing reports or papers.”
+Most prominent one includes **Open Science Framework (OSF)**, developed by Center for Open Science. OSF is a free and open source project management tool that supports researchers throughout their entire project lifecycle through open, centralized workflows. It captures  different aspects and products of the research lifecycle, including developing a research idea, designing a study, storing and analyzing collected data, and writing and publishing reports or papers.”
 
 OSF is designed to be a collaborative platform where users can share research objects from several phases of a project. It serves as support for a broad and diverse audience, including researchers that might not have been able to access so many resources due to historic socioeconomic disadvantages. OSF also contains other tools in its own platform:
 

@@ -2,7 +2,7 @@
 
 Have you ever marveled at mesmerizing scientific visualizations and wondered how they were generated and whether you can recreate them or even maybe tweak them to produce new results? These types of images have been created by researchers using **research software**. These software products and sometimes their **source codes** are freely available to the public. Reproducing such results and using them to advance the knowledge produced by these types of research software products are among the pillars of open science. For example, Figure 1, is generated using [E3SM](https://e3sm.org/), an Earth System model, the source code of which is available on [GitHub](https://github.com/E3SM-Project/E3SM).
 
-|![E3SM](https://i.imgur.com/zIdfW3i.jpg)|
+|![E3SM](figures/earth-open-software.jpg)|
 |--|
 |Figure 1. Global E3SM simulation showing eddy activity, credits M. Petersen, P. Wolfram and T. Ringler|
 

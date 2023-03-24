@@ -38,10 +38,10 @@ We should note that researchers are not always able to share their complete code
 
 From [Openscapes](https://openscapes.github.io/series/mindset.html#open-as-a-way-to-work):
 
->Open is a spectrum – what you share, who you share it with, or how you share it. It’s not all-or-nothing.
+> Open is a spectrum – what you share, who you share it with, or how you share it. It’s not all-or-nothing.
 > What: slides, tweets, blogs, forums, wikis… then also code, data, protocols
->Who: your self, research group, project team, institution…then also public
->How: internal servers, Dropbox … then also Google Drive, GitHub, data repos
+> Who: your self, research group, project team, institution…then also public
+> How: internal servers, Dropbox … then also Google Drive, GitHub, data repos
 
 We might also add here:
 

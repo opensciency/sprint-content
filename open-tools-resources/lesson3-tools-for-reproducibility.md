@@ -8,13 +8,11 @@
 
 ## Open Science tools for reproducibility
 
-SEE CONTENT OF THIS LESSON AT [https://tyson-swetnam.github.io/TOPS-OC5-tools/lesson3.html](https://tyson-swetnam.github.io/TOPS-OC5-tools/lesson3.html)
-
-This lesson is the third of the OpenCore Open Science Tools and Resources Modules. In this lesson, we take a deep dive into a few available tools for (computational) reproducibility. First, we define reproducibility. Then, …
+This lesson is the third of the OpenCore Open Science Tools and Resources Modules. In this lesson, we take a deep dive into a few available tools for (computational) reproducibility.
 
 ## What is reproducibility?
 
-**Reproducibility ** - the [National Academies Report 2019](https://www.nationalacademies.org/our-work/reproducibility-and-replicability-in-science)** **defined reproducibility as:
+**Reproducibility** - the [National Academies Report 2019](https://www.nationalacademies.org/our-work/reproducibility-and-replicability-in-science) defined reproducibility as:
 
 * **Reproducibility** means computational reproducibility—obtaining consistent computational results using the same input data, computational steps, methods, code, and conditions of analysis
 * **Replicability** means obtaining consistent results across studies aimed at answering the same scientific question, each of which has obtained its own data.

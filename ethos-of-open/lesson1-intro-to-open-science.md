@@ -57,7 +57,7 @@ Open science has various components: open access, open access journals, open pee
     
 The below image from Robinson ([2018](https://osaos.codeforscience.org/what-is-open/)) captures some of the components of open science, although the list differs depending on who you ask (see Pontika et al., [2015](http://dx.doi.org/doi:10.1145/2809563.2809571)).
     
-![Open Sholarship umbrella contains Open Educational resources, EDI, community science, open data, open science, open access, open source.](https://osaos.codeforscience.org/content/images/2018/12/Umbrella-6.jpg)
+![Open Sholarship umbrella contains Open Educational resources, EDI, community science, open data, open science, open access, open source.](img/osaos-codeforsci-Umbrella.jpg)
     
 (Image from Robinson, [2018](https://osaos.codeforscience.org/what-is-open/); needs adapting in light of the list below)
     

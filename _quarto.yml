@@ -5,9 +5,8 @@ project:
 
 book:
   author: "Almarzouq, Batool; Azevedo, Flavio; Batalha, Natasha; Bayer, Johanna; Bell, Tomo; Bhogal, Saranjeet; Black, Melissa; Brown, Sierra; Campitelli, Elio; Chegini, Taher; Dunleavy, Daniel; Ee, Yeo Keat; El-Gebali, Sara; Erdmann, Christopher; Ferdush, Jannatul; Fouilloux, Anne; Hall, Siobhan Mackenzie; Kherroubi Garcia, Ismael; Klusza, Stephen; Lacerda, Michel; Medina-Smith, Andrea; Meireles, Mariana; Muhammad, Shamsuddeen; Onabajo, Babatunde; Osman, Amber; Papadopoulou, Elli; Pauline, Karega; Plomp, Esther; Rao, Douglas; Ringuette, Rebecca; Saderi, Daniela; Shanahan, Hugh; Sharan, Malvika; Silan, Miguel; Sundukova, Mayya; Swetnam, Tyson; Vaz, Ana; Yehudi, Yo"
-  date: "10/12/2021"
+  date: "22/02/2022"
   page-navigation: true
-  downloads: epub
   favicon: logo.png
   search: true
   repo-url: https://github.com/opensciency
@@ -36,6 +35,7 @@ book:
         - open-data/Lesson4-CARE&FAIR.md
         - open-data/Lesson5-Planning.md
         - open-data/contributors.md
+        - open-data/Appendix.md
     - part: open-results/README.md
       chapters: 
         - open-results/lesson1-research-process-and-results.md

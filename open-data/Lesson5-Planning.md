@@ -18,11 +18,9 @@ In the previous lessons it has been shown that effective open data needs to be m
 With a focus on generating papers, a researcher implicitly ended up with the following research workflow model in mind of how they worked with their data.
 It’s important to note here that because the focus is on the paper, there’s no thought to how the data changes at different stages of the process, or thought to how the data should be managed after a paper is published. Usually the data were included as part of the paper as a supplementary file.
 
-This can be summarized in the following image.
+![A flow chart describes the process as: Formulate research questions -> Gather the data -> Analyse the data -> Publish the paper](img/Figure5.1.png))
 
-![Linear workflow focussed on publications](https://github.com/learnopenscience/TOPS-OC2-data/blob/adb7137694dde403ca54c7b8f755e79dd60fe8d8/assets/Figure5.1.png "Figure 5.1 Linear workflow model")
-
-Figure 5.1: Linear workflow model
+*This figures illustrate a Linear workflow model for data life cycle.*
 
 On the other hand, if one thinks of open data that can be FAIR (and thus reused) then this model emerges. In particular that
 Data needs to be available beyond the publication of a paper.
@@ -32,22 +30,20 @@ More data, from different sources or the same lab, can be added in at any time, 
 Instead of the process being a linear progression, with a start and a finish, the process for data becomes more complex and there is cycle.
 These ideas were put together in the [DCC Curation Lifecycle model](http://www.ijdc.net/article/view/69) [[1](https://doi.org/10.2218/ijdc.v3i1.48)]. The original life cycle is complicated but a summary of the life-cycle is listed below
 
-![The DataOne Data life cycle](https://old.dataone.org/sites/all/images/DLC2015_sm.png "Figure 5.2 A summary of the data life cycle")
-
-Figure 5.2: A summary of the data life cycle (reproduced from https://old.dataone.org/data-life-cycle)
+The DataOne Data life cycle, as listed in the data management plan by the [University of Rhide Island Library](https://uri.libguides.com/datamanagement/plan), described these steps in the Data Life-Cycle: Plan, Collect, Assure, Describe, Preserve, Discover, Integrate, Analyze.
 
 Here the focus is very much moved away from the idea of research -> publication and instead is on the data itself as a first class research output.  
 
-Let’s look at these individual steps
+Let’s look at these individual steps:
 
 * **Plan**: a description of the data that will be compiled, how the data will be managed and made accessible throughout its lifetime.
-* **Collect**: this corresponds to the data gathering step (illustrated in Figure 5.1).  It can include both primary (raw) and processed data.
+* **Collect**: this corresponds to the data gathering step (illustrated [here](img/Figure5.1.png)).  It can include both primary (raw) and processed data.
 * **Assure**: the quality of the data is assured through checks and inspections.
 * **Describe**: data is accurately and thoroughly described through documentation (e.g. metadata).
 * **Preserve**: these are the steps necessary to make sure that the data will be accessible going forward so in particular ensuring that the data is stored in a fashion that others can use it (in particular storing at a data repository). Ideally this should be done in a fashion that matches the CARE and FAIR principles (lesson 4). This may also include the step of removing data that may not be of use to future researchers. For example, high resolution images may no longer be themselves useful if in the analysis step one has extracted the features of interest from them. Not storing the high resolution image and simply storing the feature data would provide a considerable saving of storage.
 * **Discover**: here other researchers can extract either the entirety or some subset of the data for their own purposes.
 * **Integrate**: data from disparate sources are combined to form one homogeneous set of data that can be readily analyzed (this could include this one data set being analyzed).
-* **Analyze**: corresponds to the data analysis step as illustrated in Figure 5.1.
+* **Analyze**: corresponds to the data analysis step as illustrated in [here](img/Figure5.1.png).
 There are a variety of different interpretations of the data life-cycle (see the reading list for this lesson) with varying degrees of complexity. It’s also important to note that this is an idealization of what goes in general. Nonetheless, it is important to think of all these steps as an ongoing, interactive process that requires thorough planning and continued consideration and to recognize that they are non-trivial to do.
 
 ## Data Management Plans (DMP)
@@ -87,7 +83,9 @@ Much of the ins and outs of dealing with Open Data, or more particularly Open Da
 
 This can be summarized in the following diagram -
 
-![Figure 5.3 Diagram pointing to four possible sources of informaiton a researcher can approach.](https://github.com/learnopenscience/TOPS-OC2-data/blob/8509153045f69f2c52c6a6192c52476c54560071/lessons/Figure5.3.png "Figure 5.3 Sources of information and support on Open Data that a researcher could access.")
+![Figure 5.3 Diagram pointing to four possible sources of informaiton a researcher can approach.](img/Figure5.3.png)
+
+"Figure 5.3 Sources of information and support on Open Data that a researcher could access."
 
 Figure 5.3 Sources of information and support on Open Data that a researcher could access.
 
