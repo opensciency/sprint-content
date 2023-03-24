@@ -1,0 +1,60 @@
+project:
+  title: "OpenSciency Introductory Resources on Open Science"
+  type: book
+  output-dir: docs
+
+book:
+  author: "Almarzouq, Batool; Azevedo, Flavio; Batalha, Natasha; Bayer, Johanna; Bell, Tomo; Bhogal, Saranjeet; Black, Melissa; Brown, Sierra; Campitelli, Elio; Chegini, Taher; Dunleavy, Daniel; Ee, Yeo Keat; El-Gebali, Sara; Erdmann, Christopher; Ferdush, Jannatul; Fouilloux, Anne; Hall, Siobhan Mackenzie; Kherroubi Garcia, Ismael; Klusza, Stephen; Lacerda, Michel; Medina-Smith, Andrea; Meireles, Mariana; Muhammad, Shamsuddeen; Onabajo, Babatunde; Osman, Amber; Papadopoulou, Elli; Pauline, Karega; Plomp, Esther; Rao, Douglas; Ringuette, Rebecca; Saderi, Daniela; Shanahan, Hugh; Sharan, Malvika; Silan, Miguel; Sundukova, Mayya; Swetnam, Tyson; Vaz, Ana; Yehudi, Yo"
+  date: "10/12/2021"
+  page-navigation: true
+  chapters:
+    - index.md
+    - part: ethos-of-open/lesson1-intro-to-open-science.qmd
+      chapters:
+        - ethos-of-open/lesson2-benefits-challenges-of-open.qmd
+        - ethos-of-open/lesson3-open-stakeholders.qmd
+        - ethos-of-open/lesson4-impact-of-open.qmd
+        - ethos-of-open/lesson5-how.qmd
+        - ethos-of-open/CONTRIBUTORS.qmd
+    - part: open-software/lesson0-preamble.qmd
+      chapters:
+        - open-software/lesson3-licensing.qmd
+        - open-software/lesson1-introduction.qmd
+        - open-software/lesson2-pros-cons.qmd
+        - open-software/lesson4-code-management.qmd
+        - open-software/lesson5-vesion-control.qmd
+        - open-software/lesson6-contribution.qmd
+        - open-software/CONTRIBUTORS.qmd
+    - part: open-data/Lesson1-WhatIsOpenData.qmd
+      chapters: 
+        - open-data/Lesson2-Benefits.qmd
+        - open-data/Lesson3-Responsible.qmd
+        - open-data/Lesson4-CARE&FAIR.qmd
+        - open-data/Lesson5-Planning.qmd
+        - open-data/CONTRIBUTORS.qmd
+    - part: open-tools-resources/lesson1-intro-open-science-tools.qmd
+      chapters: 
+        - open-tools-resources/lesson2-tools-across-research-lifecycle.qmd
+        - open-tools-resources/lesson3-tools-for-reproducibility.qmd
+        - open-tools-resources/lesson4-practicing-team-open-science.qmd
+        - open-tools-resources/lesson5-open-science-communities.qmd
+    - part: open-results/README.qmd
+      chapters: 
+        - open-results/lesson1-research-process-and-results.qmd
+        - open-results/lesson2-results-and-open-science.qmd
+        - open-results/lesson3-apply-open-results.qmd
+        - open-results/lesson4-opportunities-and-credits.qmd
+        - open-results/CONTRIBUTORS.qmd
+
+toc: true
+number-sections: true
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreport
+  epub:
+    cover-image:
+
+editor:
+  render-on-save: true

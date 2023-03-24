@@ -8,9 +8,7 @@ Ideally, Open Data should be available in repositories where the datasets are pr
 
 Therefore, the first step in finding Open Data related to your field is to identify discipline specific repositories (if there are any) and search for datasets there (see **Lesson 6.4 – Repositories and Other Sharing Methods**).
 
- Find repositories in your field:
-
-
+Find repositories in your field:
 
 * _[Re3data.org](http://re3data.org) is a global registry of research data repositories that covers research data repositories from different academic disciplines._
 * _[FAIRsharing](https://fairsharing.org/) is a curated, informative, and educational resource on data and metadata standards, inter-related to databases and data policies._
