@@ -1,4 +1,6 @@
-# Lesson 1: Introduction to Open Science tools. _(What are Open Science tools? Why use Open Science tools? How do Open Science tools fit into the research lifecycle?
+# Lesson 1: Introduction to Open Science tools. 
+
+*What are Open Science tools? Why use Open Science tools? How do Open Science tools fit into the research lifecycle?*
 
 ## Outline
 
