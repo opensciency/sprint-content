@@ -162,7 +162,7 @@ Here we list different types of Open Access (OA) publishing models, how to find 
 * **Libre OA:** Publisher(s) offering articles free to read and permission to re-use, share under Creative Commons licenses. 
 * **Diamond OA:** The journals/publishers charge no fee/Article Processing Charge (APC) by author(s) to publish. The readers are also free to access and read the articles. Hence, publishers charging no fee are normally funded by external sources like learned societies, funding associations, government grants, academic institutions. 
 
-_Caution_: There are also **predatory journals and publishers, **who advertise open access but are but are not part of responsible open science.**
+_Caution_: There are also **predatory journals and publishers, who advertise open access but are but are not part of responsible open science.**
 
 * Open access doesn't guarantee journal quality
 * Open access doesn't imply that author(s) can pay to publish without any editorial and/or scientific review.
