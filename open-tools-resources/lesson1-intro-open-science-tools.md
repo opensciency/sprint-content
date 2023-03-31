@@ -1,11 +1,13 @@
-## Lesson 1: **Introduction to Open Science tools**
+# Lesson 1: Introduction to Open Science tools. _(What are Open Science tools? Why use Open Science tools? How do Open Science tools fit into the research lifecycle?
+
+## Outline
 
 * Definition: What do we mean by “Open Science tools”?
 * What’s the difference between ‘open’ and ‘closed’ tools? Why use Open Science tools?
 * How do Open Science tools fit into the research lifecycle?
 * How do Open Science tools address responsible practices?
 
-# Lesson 1: **Introduction to Open Science tools. _(What are Open Science tools? Why use Open Science tools? How do Open Science tools fit into the research lifecycle?)_**
+## Introduction
 
 This lesson is the first of OpenCore Module 5: Open Science Tools and Resources. This Module provides a collection of tools that are available to increase the visibility and discoverability of your project. It complements the previous OpenCore Modules (Ethos of Open Science, Open Data, Open Software, and Open Results) by enhancing the practical implementation of the Open Science concepts explained previously. While earlier modules focused on the concepts, advantages, and disadvantages of responsible Open Science practices, this module will focus more on the practical applications of responsible Open Science practices. We focus on a few key tools, and highlight how they fit across the research lifecycle. 
 
@@ -27,7 +29,7 @@ Software can be proprietary (“closed”) or open source. It is called open sou
 
 Human infrastructure refers to a network of relationships between stakeholders interested in the conduct and outcomes of responsible Open Science (more on those stakeholders can be found in 🔗Module 1, Lesson 3🔗). Communities – or groups of people who share a geographical location, affiliation, common interest, or practice – play a key role in the human infrastructure aspect of open science. As everything else, communities can vary in their degree of openness. A community can take the form of a mailing list, conference, meet-up or messaging app as a way to stay in touch. In that case, being open would imply that anyone could join the community and be welcomed to speak, decisions would be made transparent, and communications are largely public. On the other hand, a closed community implies that membership is restricted by invitation and/or a fee, resources and communications are not public, and decision processes are not necessarily transparent. More ideas on how to increase participation of stakeholders and how to build and lead inclusive communities can be found in 🔗Module 1, Lesson 3🔗 and 🔗this module, Lesson 4🔗.
 
-#### Activity/exercise
+### Activity/exercise
 
 Now let’s practice by looking at some typical case studies and solutions, reflecting on the benefits and obstacles of open and closed tools.
 
@@ -41,8 +43,6 @@ You are a researcher who has been using a proprietary MATLAB platform to analyze
 * You could consider using open source alternatives for programming and numerical computing, such as GNU Octave, Sage, or even Python programming language and its scientific packages. It would not only save you money now, but provide the continuity of the tool - if you move again, to a different institution.
 
 **Case study #3: Closed vs open communities**
-
-* **Example:**
 
 Open science tools provide numerous benefits, many of which have been discussed in the previous modules. For example, they can help you collaborate openly and share easily; organize and manage your work; track how your work is treated and shared; and follow leading responsible Open Science practices. 
 
@@ -66,11 +66,11 @@ The complex nature of research in the modern scientific community – involving 
 
 The 🔗Open Results🔗 module introduced you to the definitions and nine stages of the research lifecycle and workflow. Let’s define these terms again.
 
-Research framework 
+* Research framework 
 
-Research workflow
+* Research workflow
 
-Research lifecycle
+* Research lifecycle
 
 There is quite some theory behind the models for research frameworks, lifecycles, and workflows (REF), including linear, circular, multi-loop, and multi-step flows. For the sake of clarity and pragmatism of mapping the Open Science tools used within the research lifecycle, we will consider a concise 6-stage spiraling model for the research workflow, covering **discovery, analysis,** and **writing** as well as **publication**, **outreach**, and **assessment** (see Fig.)
 
