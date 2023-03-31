@@ -87,7 +87,7 @@ Another example of a non-profit data repository is _Dataverse_ [https://datavers
 
 _The Dryad Digital Repository_ [https://datadryad.org/](https://datadryad.org/) is a curated online resource that makes research data discoverable, freely reusable, and citable. Unlike previously mentioned tools, it operates on a membership scheme for organizations such as research institutions and publishers. 
 
-_Datacite _[https://datacite.org/](https://datacite.org/)  is another global non-profit organization that provides DOIs for research data and other research outputs, on a membership basis.
+_Datacite_ [https://datacite.org/](https://datacite.org/)  is another global non-profit organization that provides DOIs for research data and other research outputs, on a membership basis.
 
 Data services and resources for supporting research require robust infrastructure which relies on collaboration. Some examples of initiatives on the infrastructures of data services include  The EUDAT Collaborative Data Infrastructure (or EUDAT CDI) [https://www.eudat.eu/](https://www.eudat.eu/), sustained a network of more than 20 European research organizations, 
 
@@ -133,7 +133,7 @@ LaTex / TeX markup language provides a steeper learning curve, but allows much m
 
 At the _Discovery_ and  _Publication_ stages of the research lifecycle reference management tools are particularly useful to search for publications, collect and organize them, annotate, cite, and share. Such tools should facilitate your research workflow by easy addition/import of references, bibliography construction, adaptation to various citation styles requested by different journals/publishing houses.
 
-_EndNote _is a citation manager tool owned by Clarivate Analytics. However, it is proprietary software and not free for researchers (closed tool), so it is beyond our interest.
+_EndNote_ is a citation manager tool owned by Clarivate Analytics. However, it is proprietary software and not free for researchers (closed tool), so it is beyond our interest.
 
 _Mendeley_ [https://www.mendeley.com/](https://www.mendeley.com/) - now owned by publisher Elsevier, is a free software with very similar functionality.
 
@@ -158,11 +158,11 @@ Here we list different types of Open Access (OA) publishing models, how to find 
 * **Green OA**: There is an embargo period set by the journal’s publisher such as 6, 12 or 24 months. The version of the manuscript is freely available in a repository. No charges are paid. 
 * **Delayed Open Access**: In the subscription journals, the publisher provides free access to online articles at the expiry of a set embargo period. 
 * **Hybrid**: In the subscription journals, author(s) have an option to make their article Open Access but it has significantly higher open access publication fee in comparison to **_GOLD OA journals; _**other articles remain toll access (articles behind paywall).
-* **Gratis OA: **Publisher(s) optionally offering articles free to read at no charge to the author. This form of OA may be temporary and may be done for promotional purposes.
-* **Libre OA: **Publisher(s) offering articles free to read and permission to re-use, share under Creative Commons licenses. 
-* **Diamond OA: **The journals/publishers charge no fee/Article Processing Charge (APC) by author(s) to publish. The readers are also free to access and read the articles. Hence, publishers charging no fee are normally funded by external sources like learned societies, funding associations, government grants, academic institutions. 
+* **Gratis OA:** Publisher(s) optionally offering articles free to read at no charge to the author. This form of OA may be temporary and may be done for promotional purposes.
+* **Libre OA:** Publisher(s) offering articles free to read and permission to re-use, share under Creative Commons licenses. 
+* **Diamond OA:** The journals/publishers charge no fee/Article Processing Charge (APC) by author(s) to publish. The readers are also free to access and read the articles. Hence, publishers charging no fee are normally funded by external sources like learned societies, funding associations, government grants, academic institutions. 
 
-_Caution_: There are also **predatory journals and publishers, **who advertise open access but are but are not part of responsible open science.
+_Caution_: There are also **predatory journals and publishers, **who advertise open access but are but are not part of responsible open science.**
 
 * Open access doesn't guarantee journal quality
 * Open access doesn't imply that author(s) can pay to publish without any editorial and/or scientific review.
