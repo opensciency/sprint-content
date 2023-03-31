@@ -1,4 +1,6 @@
-## Lesson 2: **Open Science tools across the research lifecycle**
+# Lesson 2: Open Science Tools across the Research Lifecycle
+
+## Outline: Open Science tools across the research lifecycle
 
 * Open Science tools for protocols
 * Open Science tools for data
@@ -13,9 +15,8 @@
     * Collaborative writing tools
     * Reference management tools
     * Publishing Open Science and Open Access
-   
 
-# Lesson 2: Open Science Tools across the Research Lifecycle
+## Introduction 
 
 In the first lesson, we briefly defined Open Science tools, distinguished open from closed tools, and highlighted the advantages of Open Science tools. We also gave a brief introduction to the Research Lifecycle, and discussed how open tools fit in this workflow. In this second lesson, we’ll highlight a few key tools for each aspect of the research lifecycle. 
 
@@ -30,7 +31,7 @@ In this module, we’ll focus on the following elements of the project workflow 
 Ref: [http://46eybw2v1nh52oe80d3bi91u-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Data-and-AI-Landscape-2021-v3-small.jpg](http://46eybw2v1nh52oe80d3bi91u-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Data-and-AI-Landscape-2021-v3-small.jpg) 
 
 
-### Open Science tools for protocols
+## Open Science tools for protocols
 
 In the last decades, we have seen an avalanche of development of the tools for management of research projects and laboratories, which address the ever-increasing need for speed, innovation, and transparency. Such tools are developed to support collaboration, ensure data integrity,  automate processes, create workflows and increase productivity.
 
@@ -68,7 +69,7 @@ The data management lifecycle is typically circular. Research data are valuable 
 
 There are a few Open Science resources available to get you started and to keep you on track. The _DMPTool https://dmptool.org/_ in the US helps researchers by using a template which lists each funder’s requirements for specific directorate requests for proposals (RFP). The DMPTool also publishes other open DMP from funded projects which can be used for improving your own DMP. The Research Data Management Organizer (RDMO) enables German institutions as well as researchers to plan and carry out their management of research data. ARGOS is used to plan Research Data Management activities of European and nationally funded projects (e.g. Horizon Europe, CHIST-ERA, the Portuguese Foundation for Science and Technology - FCT). ARGOS produces and publishes FAIR and machine actionable DMPs that contain links to other outputs, e.g. publications-data-software, and minimizes the effort to create DMPs from scratch by introducing automations in the writing process. OpenAIRE provides a guide on how to create DMP.
 
-### Sharing data with your (research) team
+## Sharing data with your (research) team
 
 ### Data repositories
 
@@ -99,11 +100,11 @@ Much more research data repositories could be found in the publicly open Registr
 Caution: Amount of data, repositories and different policies can be overwhelming. When in doubt, which repository is for you, make sure you consult librarians, data managers and/or data stewards in your institution, or check within your discipline-specific or other community of practice. 
 
 
-### Open Science tools for code
+## Open Science tools for code
 
 If your project involves coding, such as custom analysis code, you can share it or collaborate using tools such as Jupyter Notebooks. These notebooks can be shared with a variety of permissions on JupyterLab, Google Colab, and similar websites. For a more permanent solution, you can use containerized environments to share the entire analysis environment, which includes the installed software packages, the data used, all custom analysis and plotting routines, and even the publication draft. A few examples of containerized environment services are DeepNote and Binder (DeepNote: [https://deepnote.com/](https://deepnote.com/), Binder: [https://mybinder.org/](https://mybinder.org/)).
 
-#### Collaborative development tools
+### Collaborative development tools
 
 #### Code repositories
 
@@ -112,7 +113,7 @@ If your project involves coding, such as custom analysis code, you can share it 
 * BitBucket
 * SourceForge
 
-### Open Science tools for results
+## Open Science tools for results
 
 * Visual tools for graphs, dataviz, sharing
 
@@ -193,7 +194,7 @@ Here we will cover some of the key tools that use community/crowd to evaluate an
 
 **Case study**: _SciPost_ [https://scipost.org/](https://scipost.org/)  is a scientific publication portal managed by the SciPost Foundation, in the hands of the academicof academic community, by scientists. It is 100% online, offers global, open access and free research publications. As of 2022, it hosts around 10 journals in disciplines of Physics, Chemistry, Astronomy and some others. Submissions can be made directly or via preprint from well establish preprint repository arXiv. The peer review is provided  by professional scientists (=with PhD and beyond) - anyone could register and serve, the reviews and author responses are published as well. Unlike most publishing houses, it is entirely not-for-profit,  not charging any subscription fees to its readers, not charging any publication fees to its authors. The business model is based on the sponsorship from research institutions and foundations, and all agreements and subsidy amounts are openly shared on the website. Does it seem too idealistic? 
 
-Question for reflection: 
+## Question for reflection: 
 
 * What are the limiting factors to developing and maintaining Open Science tools?
 * What are the advantages and disadvantages  for working with Open Science tools?
