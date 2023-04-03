@@ -17,6 +17,7 @@ Shared under the [CC-BY 4.0 International](https://creativecommons.org/licenses/
 **All release version (V1.0.0) can be found on Zenodo: [https://doi.org/10.5281/zenodo.7392118](https://doi.org/10.5281/zenodo.7392118).**
 
 To credit and cite the material, use the following citation - where possible, please include all authors name as listed in the [CITATION file](https://github.com/opensciency/sprint-content/blob/main/CITATION.cff) and in the Contributors Table below:
+
 > OpenSciency Contributors (2023, February 22). Opensciency - A core open science curriculum by and for the research community. Zenodo. DOI [10.5281/zenodo.7392118](https://doi.org/10.5281/zenodo.7392118)
 
 ## Details
@@ -28,6 +29,7 @@ We are also interested in getting support in displaying the materials such as th
 
 Let us know if you have a creative approach to displaying and reusing the material by [submitting an issue](https://github.com/opensciency/sprint-content/issues). 
 If you have contributed outside GitHub, please provide your contact details so we can add you to the contributors list.
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
