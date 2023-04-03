@@ -40,7 +40,7 @@ An **Open Result** is all the research outcomes, including successful products, 
 
 ## What are the different stages of the research process?
 
-In previous modules, we have learned the fundamentals and practical concepts for planning our research for open science. Specifically, in the Ethos of Open Science [addlink-ethos] module, we learned that open science should be considered throughout the research process, and not just at the time of publication. With this understanding, when considering shareable research outputs, it is important to think about the entire research life cycle – different tasks carried out during the life cycle of a research project.
+In previous modules, we have learned the fundamentals and practical concepts for planning our research for open science. Specifically, in the Ethos of Open Science module, we learned that open science should be considered throughout the research process, and not just at the time of publication. With this understanding, when considering shareable research outputs, it is important to think about the entire research life cycle – different tasks carried out during the life cycle of a research project.
 
 Many of us might be very familiar with the research life cycle but may not have considered what results could be shared openly throughout the process.
 
