@@ -9,7 +9,7 @@ book:
   page-navigation: true
   favicon: logo.png
   search: true
-  repo-url: https://github.com/opensciency/sprint-content
+  repo-url: https://github.com/opensciency/sprint-content/tree/quarto-book
   chapters:
     - index.md
     - part: ethos-of-open/lesson1-intro-to-open-science.md
