@@ -2,7 +2,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7392118.svg)](https://doi.org/10.5281/zenodo.7392118)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7662732.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.7662732)
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 Opensciency is core open science curriculum material, drafted to introduce those beginning their open science journey to important definitions, tools, and resources; and provide for participants at all levels recommended practices. The material is made available under a [CC-BY 4.0 International](https://creativecommons.org/licenses/by/4.0/) license and is structured into five modules:
