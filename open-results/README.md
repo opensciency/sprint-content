@@ -34,7 +34,7 @@ Lesson 2: Results in the Context of Open Science
 Lesson 3: Applying Open Result Framework to your Research
 
 1. How can you apply an open framework across different research objects?
-2. How can you share your results, and select \*\*tools\*\*that support open science?
+2. How can you share your results, and select **tools** that support open science?
 3. Using a checklist to achieve open results
 
 Lesson 4: Providing Equitable Opportunities and Credit for Contributors to Results

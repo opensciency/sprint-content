@@ -1,4 +1,6 @@
-## Lesson 2: **Open Science tools across the research lifecycle**
+# Lesson 2: Open Science Tools across the Research Lifecycle
+
+## Outline: Open Science tools across the research lifecycle
 
 * Open Science tools for protocols
 * Open Science tools for data
@@ -13,9 +15,8 @@
     * Collaborative writing tools
     * Reference management tools
     * Publishing Open Science and Open Access
-   
 
-# Lesson 2: Open Science Tools across the Research Lifecycle
+## Introduction 
 
 In the first lesson, we briefly defined Open Science tools, distinguished open from closed tools, and highlighted the advantages of Open Science tools. We also gave a brief introduction to the Research Lifecycle, and discussed how open tools fit in this workflow. In this second lesson, we’ll highlight a few key tools for each aspect of the research lifecycle. 
 
@@ -30,7 +31,7 @@ In this module, we’ll focus on the following elements of the project workflow 
 Ref: [http://46eybw2v1nh52oe80d3bi91u-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Data-and-AI-Landscape-2021-v3-small.jpg](http://46eybw2v1nh52oe80d3bi91u-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Data-and-AI-Landscape-2021-v3-small.jpg) 
 
 
-### Open Science tools for protocols
+## Open Science tools for protocols
 
 In the last decades, we have seen an avalanche of development of the tools for management of research projects and laboratories, which address the ever-increasing need for speed, innovation, and transparency. Such tools are developed to support collaboration, ensure data integrity,  automate processes, create workflows and increase productivity.
 
@@ -68,7 +69,7 @@ The data management lifecycle is typically circular. Research data are valuable 
 
 There are a few Open Science resources available to get you started and to keep you on track. The _DMPTool https://dmptool.org/_ in the US helps researchers by using a template which lists each funder’s requirements for specific directorate requests for proposals (RFP). The DMPTool also publishes other open DMP from funded projects which can be used for improving your own DMP. The Research Data Management Organizer (RDMO) enables German institutions as well as researchers to plan and carry out their management of research data. ARGOS is used to plan Research Data Management activities of European and nationally funded projects (e.g. Horizon Europe, CHIST-ERA, the Portuguese Foundation for Science and Technology - FCT). ARGOS produces and publishes FAIR and machine actionable DMPs that contain links to other outputs, e.g. publications-data-software, and minimizes the effort to create DMPs from scratch by introducing automations in the writing process. OpenAIRE provides a guide on how to create DMP.
 
-### Sharing data with your (research) team
+## Sharing data with your (research) team
 
 ### Data repositories
 
@@ -86,7 +87,7 @@ Another example of a non-profit data repository is _Dataverse_ [https://datavers
 
 _The Dryad Digital Repository_ [https://datadryad.org/](https://datadryad.org/) is a curated online resource that makes research data discoverable, freely reusable, and citable. Unlike previously mentioned tools, it operates on a membership scheme for organizations such as research institutions and publishers. 
 
-_Datacite _[https://datacite.org/](https://datacite.org/)  is another global non-profit organization that provides DOIs for research data and other research outputs, on a membership basis.
+_Datacite_ [https://datacite.org/](https://datacite.org/)  is another global non-profit organization that provides DOIs for research data and other research outputs, on a membership basis.
 
 Data services and resources for supporting research require robust infrastructure which relies on collaboration. Some examples of initiatives on the infrastructures of data services include  The EUDAT Collaborative Data Infrastructure (or EUDAT CDI) [https://www.eudat.eu/](https://www.eudat.eu/), sustained a network of more than 20 European research organizations, 
 
@@ -99,11 +100,11 @@ Much more research data repositories could be found in the publicly open Registr
 Caution: Amount of data, repositories and different policies can be overwhelming. When in doubt, which repository is for you, make sure you consult librarians, data managers and/or data stewards in your institution, or check within your discipline-specific or other community of practice. 
 
 
-### Open Science tools for code
+## Open Science tools for code
 
 If your project involves coding, such as custom analysis code, you can share it or collaborate using tools such as Jupyter Notebooks. These notebooks can be shared with a variety of permissions on JupyterLab, Google Colab, and similar websites. For a more permanent solution, you can use containerized environments to share the entire analysis environment, which includes the installed software packages, the data used, all custom analysis and plotting routines, and even the publication draft. A few examples of containerized environment services are DeepNote and Binder (DeepNote: [https://deepnote.com/](https://deepnote.com/), Binder: [https://mybinder.org/](https://mybinder.org/)).
 
-#### Collaborative development tools
+### Collaborative development tools
 
 #### Code repositories
 
@@ -112,7 +113,7 @@ If your project involves coding, such as custom analysis code, you can share it 
 * BitBucket
 * SourceForge
 
-### Open Science tools for results
+## Open Science tools for results
 
 * Visual tools for graphs, dataviz, sharing
 
@@ -132,7 +133,7 @@ LaTex / TeX markup language provides a steeper learning curve, but allows much m
 
 At the _Discovery_ and  _Publication_ stages of the research lifecycle reference management tools are particularly useful to search for publications, collect and organize them, annotate, cite, and share. Such tools should facilitate your research workflow by easy addition/import of references, bibliography construction, adaptation to various citation styles requested by different journals/publishing houses.
 
-_EndNote _is a citation manager tool owned by Clarivate Analytics. However, it is proprietary software and not free for researchers (closed tool), so it is beyond our interest.
+_EndNote_ is a citation manager tool owned by Clarivate Analytics. However, it is proprietary software and not free for researchers (closed tool), so it is beyond our interest.
 
 _Mendeley_ [https://www.mendeley.com/](https://www.mendeley.com/) - now owned by publisher Elsevier, is a free software with very similar functionality.
 
@@ -157,11 +158,11 @@ Here we list different types of Open Access (OA) publishing models, how to find 
 * **Green OA**: There is an embargo period set by the journal’s publisher such as 6, 12 or 24 months. The version of the manuscript is freely available in a repository. No charges are paid. 
 * **Delayed Open Access**: In the subscription journals, the publisher provides free access to online articles at the expiry of a set embargo period. 
 * **Hybrid**: In the subscription journals, author(s) have an option to make their article Open Access but it has significantly higher open access publication fee in comparison to **_GOLD OA journals; _**other articles remain toll access (articles behind paywall).
-* **Gratis OA: **Publisher(s) optionally offering articles free to read at no charge to the author. This form of OA may be temporary and may be done for promotional purposes.
-* **Libre OA: **Publisher(s) offering articles free to read and permission to re-use, share under Creative Commons licenses. 
-* **Diamond OA: **The journals/publishers charge no fee/Article Processing Charge (APC) by author(s) to publish. The readers are also free to access and read the articles. Hence, publishers charging no fee are normally funded by external sources like learned societies, funding associations, government grants, academic institutions. 
+* **Gratis OA:** Publisher(s) optionally offering articles free to read at no charge to the author. This form of OA may be temporary and may be done for promotional purposes.
+* **Libre OA:** Publisher(s) offering articles free to read and permission to re-use, share under Creative Commons licenses. 
+* **Diamond OA:** The journals/publishers charge no fee/Article Processing Charge (APC) by author(s) to publish. The readers are also free to access and read the articles. Hence, publishers charging no fee are normally funded by external sources like learned societies, funding associations, government grants, academic institutions. 
 
-_Caution_: There are also **predatory journals and publishers, **who advertise open access but are but are not part of responsible open science.
+_Caution_: There are also **predatory journals and publishers, who advertise open access but are but are not part of responsible open science.**
 
 * Open access doesn't guarantee journal quality
 * Open access doesn't imply that author(s) can pay to publish without any editorial and/or scientific review.
@@ -193,7 +194,7 @@ Here we will cover some of the key tools that use community/crowd to evaluate an
 
 **Case study**: _SciPost_ [https://scipost.org/](https://scipost.org/)  is a scientific publication portal managed by the SciPost Foundation, in the hands of the academicof academic community, by scientists. It is 100% online, offers global, open access and free research publications. As of 2022, it hosts around 10 journals in disciplines of Physics, Chemistry, Astronomy and some others. Submissions can be made directly or via preprint from well establish preprint repository arXiv. The peer review is provided  by professional scientists (=with PhD and beyond) - anyone could register and serve, the reviews and author responses are published as well. Unlike most publishing houses, it is entirely not-for-profit,  not charging any subscription fees to its readers, not charging any publication fees to its authors. The business model is based on the sponsorship from research institutions and foundations, and all agreements and subsidy amounts are openly shared on the website. Does it seem too idealistic? 
 
-Question for reflection: 
+## Question for reflection: 
 
 * What are the limiting factors to developing and maintaining Open Science tools?
 * What are the advantages and disadvantages  for working with Open Science tools?

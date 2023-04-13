@@ -1,9 +1,7 @@
 
-### Lesson 1: WHAT: Intro to Open Science: What is it and what does it promote?
+# Lesson 1: The What
 
-**Lesson Outline**
-
-#### Introduction
+## Intro to Open Science: What is it and what does it promote?
 
 This is the first lesson in the module on the Ethos of Open Science. We’ll start explaining what we mean by the word, “ethos”. Ethos is defined by Merriam-Webster as “the distinguishing character, sentiment, moral nature, or guiding beliefs of a person, group, or institution”. So this lesson is about what makes Open Science, as an approach to knowledge-production, unique or distinguishable from other scientific methods.
 
@@ -13,7 +11,7 @@ The lesson introduces the concept of open science as a whole, by explaining the 
 
 Open science goes beyond publishing– it is a redefinition of scientific collaboration and output. It is a culture intended to promote science and its social impact. Open science creates new opportunities for different stakeholders including researchers, decision makers, and public participants. Open science increases study transparency, repeatability, reproducibility, and confirmation. We expand what these terms mean and why they matter throughout this module and later OpenCore modules.
 
-#### Context and Definition
+### Context and Definition
 
 Science evolves through collaborative development of theories and practices that are open for others to learn and build on. Throughout the ages - whilst in some cases, education and science was out of reach for the general populace and may have been kept for a privileged few, there have been other educational and scientific resources that were purposefully made available for others to re-use. Think of how dictionaries and encyclopedias have been around for centuries specifically to share standards of knowledge. ([The first](https://oi.uchicago.edu/research/publications/assyrian-dictionary-oriental-institute-university-chicago-cad) “dictionary” dates back over 3,000 years!) Libraries, in turn, have existed for millennia to serve as repositories of knowledge in diverse formats, from ancient tablets and scrolls, to the books we expect to see today. Public museums have also been around for some time and play the role of educating people, as well as maintaining archives for researchers to gain further insights from.
 
@@ -25,7 +23,7 @@ However, these endeavors do not amount to open science in the sense we discuss i
 
 Thus, open science captures both the spirit of making knowledge more accessible _and_ responding to poor scientific practices. We will discuss more reasons why open science is important, both the personal benefits and as a public good, in 🔗Lesson 2 of this module, “Benefits and Challenges of responsible Open Science: Why does it matter?”🔗
 
-#### Definitions of Open Science and responsible Open Science
+### Definitions of Open Science and responsible Open Science
 
 Formal definitions and governance mechanisms to ensure best practices in open science have emerged alongside the open science movement.
 
@@ -52,7 +50,7 @@ _Open Science is a practice for increasing the accessibility and transparency of
     
 _An umbrella term reflecting the idea that scientific knowledge of all kinds, where appropriate, should be openly accessible, transparent, rigorous, reproducible, replicable, accumulative, and inclusive, all which are considered fundamental features of the scientific endeavor. Open science consists of principles and behaviors that promote transparent, credible, reproducible, and accessible science. Open science has six major aspects: open data, open methodology, open source, open access, open peer review, and open educational resources. (FORRT open science glossary, [https://forrt.org/glossary/open-science/](https://forrt.org/glossary/open-science/))_
     
-#### Open Science aspects
+### Open Science Aspects
     
 Open science has various components: open access, open access journals, open peer review, open research data, open source, open science policies, with use of open licensing, open software for reproducible research, among others (Open Science Basics, retrieved from [https://open-science-training-handbook.gitbook.io/book/open-science-basics](https://open-science-training-handbook.gitbook.io/book/open-science-basics), 2022).
     
@@ -73,7 +71,7 @@ _Open Science_ is an umbrella term that captures eight components. The below lis
 * **Equity, Diversity, Accessibility and Inclusion** are crucial values for the growth and sustainability of open science practices, as they foster the wellbeing of open science practitioners and communities. Shared principles about responsible scientific outputs also shape the behaviors of open science communities, with codes of conduct as a mechanism to ensure inclusive practices (see the following component of open science).
 * **Open Community Practices** refers to the fact that open science is conducted by communities of practitioners that foster collaborative working environments, beyond disciplinary boundaries and professions; this is touched on when discussing stakeholders in lesson three of this module.
         
-#### There is no _one_ ethos
+### There is no _one_ ethos
         
 It is important to note that there is no one unique way of practicing or conducting open science. The outlined categories show us the diversity of practices involved in open science. Research has also shown that there are at least five schools of thought in open science, each one holding different assumptions and striving for different goals (Fecher & Friesike, [2013](https://doi.org/10.1007/978-3-319-00026-8_2)):
         
@@ -96,7 +94,7 @@ For now, consider some of the regional policies encouraging open science:
             
 Ultimately, open science practices guide approaches to knowledge-creation that best help confront the challenges of our era. Through this module and the wider TOPS curriculum, you can become a part of this impactful movement.
             
-#### Performing open science _responsibly:_
+### Performing open science _responsibly:_
             
 **Responsible Open Science** is a term we use through the rest of the module. We define it as: considering open science as the core of your science project and maximizing ethical actions for open science to minimize current challenges (e.g. data sharing, inclusion, and accessibility). In responsible Open Science, the best possible and practical practices should be explored at the early stage of your science project.
             
@@ -107,11 +105,11 @@ Here we share with you following rules of thumb:
 * Not sharing things that shouldn’t be shared
 * Being inclusive of all people
                 
-#### Summary
+## Lesson Summary
                 
 In this lesson, we have learned a brief history of open science, its definition, and the ethos of open science and definition of responsible Open Science. Open science practices provide significant advantages relative to more traditional closed practices. However, there are still problems that must be addressed, which many view as obstacles to open science. In the next lesson, we will talk about the benefits of open science and its challenges.
                 
-#### Further Reading:
+### Further Reading:
                 
 Below are some further readings regarding this module:
                 
@@ -129,9 +127,9 @@ Further reading on terms and definitions:
                         
 1. Open Science glossary from the FORRT (Framework for Open and Reproducible Research Training) [https://forrt.org/glossary/open-science/](https://forrt.org/glossary/open-science/)
 
-#### Questions/Reflection:
+### Questions/Reflection:
 
-##### Questions for students of the course:
+**Questions for students of the course:**
 - How has research practice changed over the past few decades ?
 - As a researcher how do different components of responsible Open Science transform knowledge contribution?
 - We learned that there is "no one ethos" in this lesson. Can you explain what this means, and why? 

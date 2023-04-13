@@ -1,4 +1,6 @@
-## Lesson 3: **Open Science tools for reproducibility**
+# Lesson 3: Open Science tools for reproducibility
+
+## Outline: Open Science tools for reproducibility
 
 * What is reproducibility?
 * Computational notebooks
@@ -6,7 +8,7 @@
     * R Markdown
     * Quarto
 
-# Lesson 3: **Open Science tools for reproducibility**
+## Introduction
 
 SEE CONTENT OF THIS LESSON AT [https://tyson-swetnam.github.io/TOPS-OC5-tools/lesson3.html](https://tyson-swetnam.github.io/TOPS-OC5-tools/lesson3.html)
 

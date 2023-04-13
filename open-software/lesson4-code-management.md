@@ -53,29 +53,29 @@ One of the great benefits of open software is that it enables contributions from
 
 #### Documentation Checklist
 
-[ ] Description of the software and the problem it solves
+- [ ] Description of the software and the problem it solves
 
-[ ] Compatibility description
+- [ ] Compatibility description
 
-[ ] Dependencies
+- [ ] Dependencies
 
-[ ] Installation instructions
+- [ ] Installation instructions
 
-[ ] Usage examples (perhaps including an interactive notebook)
+- [ ] Usage examples (perhaps including an interactive notebook)
 
-[ ] Development status of the software (under development, actively maintained, etc.)
+- [ ] Development status of the software (under development, actively maintained, etc.)
 
-[ ] Contact information
+- [ ] Contact information
 
-[ ] How to report issues/bugs (and a list of any known issues/limitations)
+- [ ] How to report issues/bugs (and a list of any known issues/limitations)
 
-[ ] Acknowledgments of team and funding
+- [ ] Acknowledgments of team and funding
 
-[ ] License
+- [ ] License
 
-[ ] Contribution guidelines
+- [ ] Contribution guidelines
 
-[ ] Code of conduct
+- [ ] Code of conduct
 
 Additionally, a GitHub template from NOAA for open software documentation can be found [here](https://github.com/NOAA-OWP/owp-open-source-project-template).
 

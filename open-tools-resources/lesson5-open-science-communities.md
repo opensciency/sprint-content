@@ -1,6 +1,7 @@
-## Lesson 5: **Open Science communities**
+# Lesson 5: Open Science communities. 
+*Where to find (sustainable) support and help for identifying and using OS tools and resources?*
 
-
+## Outline: Open Science communities
 
 * Why engage with Open Science communities?
 * What is a Community of Practice (CoP)?
@@ -14,10 +15,7 @@
     * Guidelines for building communities
     * Mountain of engagement
 
- 
-
-
-# Lesson 5: **Open Science communities. **(_Where to find (sustainable) support and help for identifying and using OS tools and resources?)_
+## Introduction
 
 This lesson is the fifth of OpenCore Module 5: Open Science Tools and Resources. It provides a curated list of communities supporting the dissemination of open principles and practices in research and beyond. The lesson complements the previous modules of the OpenCore Course by providing  supportive environments fostering the gradual integration of the Open Science concepts explained in them.
 
@@ -27,8 +25,6 @@ Fostering a culture of open scholarship practices through communities can bring 
 
 
 ## Why engage with Open Science Communities?
-
-
 
 * Communities offer a low-entry point into improved research and pedagogical practices. As pedagogical communities welcome scholars from all levels, including early career researchers, they are an accessible space for all wishing to learn and practice open scholarship. By cutting across career stages, these communities, then, become essential to instilling the new and improved values and norms of open scholarship.
 * Communities facilitate the co-creation of open scholarship training materials which are crucial in facilitating the integration of open scholarship into research projects. 
@@ -292,11 +288,9 @@ There are various ways through which you can start engaging with a community. Us
 For individuals  who prefer written interactions and discussions, **GitHub discussions, Discourse, StackOverFlow,** and **Slack spaces** could be excellent to start with. Such written platforms tend to have lots of past knowledge and interactions available that give newcomers an idea of the discussions that take place within a particular community. While all these are excellent places to start with and ask questions, one should be mindful of the fact that most communities are volunteer-run and located across various time zones, hence sometimes it might take longer than usual to receive a response. Always try to be kind, patient, and appreciative.
 
 
-### **Pathways for contribution**
+### Pathways for contribution
 
 It is no surprise that newcomers in a community often go on to become future contributors if they find the right pathway. These pathways are explained using personas in the [Contributor Pathways](https://the-turing-way.netlify.app/project-design/persona/persona-contributors.html?highlight=community%20practice) subchapter of The Turing Way book. This subchapter defines the different phases of community membership, as below:
-
-
 
 1. Discovery - How an individual first hears about the project or group or community
 2. First Contact - How they first engage with the project or group or community, their initial interaction.
@@ -400,8 +394,6 @@ You can find more details about these guidelines within the [Turing Way](https:/
 
 ### Mountain of engagement
 
-
-
 1. **_Leading_**: A high-touch relationship; we maintain relationships and co-branded events and trainings with alumni and allies to increase the impact, prestige, and reach of both parties’ work.
 2. **_Collaborating:_** A high-touch relationship; we offer professional development through our own events in return for co-creation, localization, and spread.
 3. **_Participating:_** A high-touch relationship; we offer community management and professional development through our own trainings and events in return for soliciting ideas & learning through use.
@@ -427,24 +419,18 @@ Model describes four modes of member engagement that can occur within a communit
 
 
 
-## _Open Science Skills with the Communities; learning and practicing_
+## Open Science Skills with the Communities; learning and practicing
 
-_Skills for Open Science are vast https://libereurope.eu/article/open-science-skills-diagram/ _
+*Skills for Open Science are vast https://libereurope.eu/article/open-science-skills-diagram/* Many of them - as you saw from the Modules XYZ, and Lessons XYZ of this Module are digital, data and information skills:
 
-_Many of them - as you saw from the Modules XYZ, and Lessons XYZ of this Module are digital, data and information skills. _
-
-
-
-* _Data skills - The Carpentries teaches foundational coding and data science skills to researchers worldwide._
-* _Conceptualization, mentoring, Community building, ethos, inclusivity - Open Life Science_
-* _Open Hardware - OHM_
-* _FORRT?_
-* _Scientific Collaboration and Community Engagement - CSCCE_
-* _TOPS (this course) community - future is now_
+* Data skills - The Carpentries teaches foundational coding and data science skills to researchers worldwide.
+* Conceptualization, mentoring, Community building, ethos, inclusivity - Open Life Science
+* Open Hardware - OHM
+* FORRT?
+* Scientific Collaboration and Community Engagement - CSCCE
+* TOPS (this course) community - future is now
 
 
-## _Self-assessment: Questions for reflections_
+## Self-assessment: Questions for reflections
 
-
-
-* _Idea: envision questions on reflection in relation to communities, are you a part of any community? What is the value that you take from it? What do you bring to it? Does the balance seem right? What next 3 simple steps could be done to change it, to improve?_
+Idea: envision questions on reflection in relation to communities, are you a part of any community? What is the value that you take from it? What do you bring to it? Does the balance seem right? What next 3 simple steps could be done to change it, to improve?
