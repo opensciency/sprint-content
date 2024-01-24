@@ -13,8 +13,8 @@ CERN/CNRS, LA-CoNGA physics
 __Campitelli, Elio__  
 University of Buenos Aires  
 [https://orcid.org/0000-0002-7742-9230](https://orcid.org/0000-0002-7742-9230)
-[https://github.com/eliocamp](https://github.com/eliocamp)  
-[https://twitter.com/d_olivaw](https://twitter.com/d_olivaw)  
+[https://github.com/eliocamp](https://github.com/eliocamp) 
+[https://mastodon.social/@eliocamp](https://mastodon.social/@eliocamp)
   
 __Dunleavy, Daniel__  
 Florida State University  
